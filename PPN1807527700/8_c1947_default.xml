@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://ocr-bw.bib.uni-mannheim.de/demetsify/iiif/image/mU7EPWK57vjFrvzwgztS8d/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-06-30T15:11:58.284082+00:00</Created>
+        <LastChange>2022-06-30T15:11:58.284097+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="8_c1947_default.jpg" imageWidth="3284" imageHeight="4724">
+    <TextRegion id="eSc_textblock_40d44bf0"  >
+      <Coords points="1950,900 1803,955 1981,997 2013,1060 1992,1141 1617,1162 1530,1225 1060,1236 994,1162 588,1141 577,1018 693,973 619,942 630,881 294,816 283,619 378,556 2181,587 2265,608 2286,774 1984,837"/>
+      <TextLine id="eSc_line_574e1f39" >
+        <Coords points="1661,577 1659,577 1656,577 1601,595 1593,598 1577,595 1519,585 1517,585 1514,585 1512,585 1498,595 1467,616 1396,616 1365,593 1354,585 1351,585 1349,585 1346,585 1344,585 1341,585 1328,593 1320,598 1296,593 1207,572 1204,572 1202,572 1160,593 1128,608 1107,593 1105,593 1102,593 1099,590 1013,582 1010,582 1008,582 1005,582 1005,585 997,590 992,598 973,590 942,577 939,577 937,577 934,577 897,590 895,590 889,590 855,577 853,577 850,577 847,577 803,587 653,627 601,624 538,585 532,582 530,582 527,582 525,582 328,582 312,595 317,789 317,810 485,818 488,818 490,818 527,808 561,795 737,792 753,803 756,805 758,805 761,805 763,805 787,800 842,789 895,797 939,805 942,805 945,805 976,797 1010,787 1021,795 1029,803 1031,803 1034,803 1036,803 1039,803 1071,795 1099,787 1113,792 1134,805 1136,805 1139,808 1357,808 1357,805 1359,805 1362,805 1391,787 1399,782 1435,787 1527,797 1530,797 1533,797 1593,782 1609,779 1622,782 1701,800 1703,800 1706,800 1761,782 1879,797 1882,797 1884,797 1960,774 1963,774 2013,795 2016,795 2018,795 2021,795 2065,771 2142,792 2144,792 2147,792 2149,792 2244,766 2244,750 2236,603 1913,606 1853,598 1719,580 1716,580 1714,580 1711,580 1693,593 1664,577 1661,577"/>
+        <Baseline points="317,789 748,768 2244,750"/>
+        <TextEquiv>
+          <Unicode>Von Gebürlichem thuͦn vnd</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6f1ec22c" >
+        <Coords points="766,908 766,931 790,944 792,944 795,944 858,931 976,944 979,944 981,944 1039,929 1281,942 1283,942 1538,939 1540,939 1543,939 1543,936 1546,936 1554,926 1714,936 1716,936 1806,918 1806,897 1800,829 1596,810 1593,810 1527,821 1483,829 1470,821 1430,795 1428,795 1425,795 1351,795 1349,795 1346,795 1344,795 1317,816 1312,821 1302,816 1294,813 1291,813 1288,813 1286,813 1278,816 1236,834 1071,834 1026,810 1008,800 1005,800 942,800 939,800 937,800 934,800 924,808 900,824 879,808 874,803 874,800 871,800 868,800 866,800 763,803 766,908"/>
+        <Baseline points="766,908 1806,897"/>
+        <TextEquiv>
+          <Unicode>Laſſen aines Eemanns.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7a99469c" >
+        <Coords points="601,1005 593,1013 595,1112 595,1131 651,1154 653,1154 656,1154 658,1154 661,1154 661,1152 687,1131 693,1131 845,1144 847,1144 850,1144 910,1128 916,1128 921,1128 1052,1149 1055,1149 1057,1149 1060,1149 1060,1146 1084,1128 1197,1146 1199,1146 1202,1146 1257,1125 1283,1146 1286,1146 1288,1146 1291,1146 1407,1125 1498,1149 1501,1149 1504,1152 1580,1152 1580,1149 1582,1149 1585,1149 1606,1133 1624,1149 1627,1149 1630,1149 1632,1152 1706,1152 1706,1149 1779,1146 1782,1146 1785,1146 1785,1144 1806,1123 1824,1133 1827,1133 1829,1133 1832,1133 1890,1125 1924,1146 1926,1146 1929,1146 1932,1146 1934,1146 1937,1146 1984,1118 1984,1099 1979,1007 1845,994 1842,994 1682,1010 1666,1010 1661,1010 1624,997 1622,997 1619,997 1617,997 1567,1010 1525,997 1522,997 1519,997 1517,997 1477,1010 1451,997 1449,997 1446,997 1443,997 1404,1013 1401,1015 1281,1015 1215,1015 1149,999 1147,999 1144,999 1105,1015 1102,1015 1013,1002 1010,1002 1008,1002 1005,1002 984,1018 803,1018 611,1005 609,1005 606,1005 601,1005"/>
+        <Baseline points="595,1112 1984,1099"/>
+        <TextEquiv>
+          <Unicode>Von des Eeſtands vrſpꝛung vnd</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c3cb9131" >
+        <Coords points="1055,1204 1055,1225 1509,1233 1514,1199 1512,1146 1451,1123 1449,1123 1446,1123 1443,1123 1396,1136 1362,1120 1359,1120 1357,1120 1354,1120 1302,1139 1278,1146 1262,1136 1246,1125 1244,1125 1241,1125 1239,1125 1236,1125 1233,1125 1220,1136 1204,1149 1168,1149 1149,1133 1136,1123 1134,1123 1131,1123 1128,1123 1052,1128 1055,1204"/>
+        <Baseline points="1055,1204 1514,1199"/>
+        <TextEquiv>
+          <Unicode>Nutzbarkait .</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_ca221649"  >
+      <Coords points="2527,3747 2496,4227 126,4164 115,3579 409,3556 126,3545 126,3495 816,3495 871,3409 840,3359 882,3325 882,3012 1522,2991 2412,2991 2779,3054 2790,3629 2695,3724"/>
+      <TextLine id="eSc_line_e2a5250f" >
+        <Coords points="2256,2991 2216,2991 2177,2991 2138,2991 2126,2991 2063,3011 2039,2991 2020,2991 1992,2991 1945,3007 1925,2991 1901,2991 1862,2991 1791,3003 1748,2991 1744,2991 1705,2991 1665,2991 1626,2991 1586,2991 1547,2991 1535,2991 1504,3015 1504,3019 1480,3019 1417,3019 1382,2995 1350,2995 1330,2995 1267,3019 1263,3019 1248,3019 1106,3003 1074,3007 1035,3007 996,3007 956,3011 929,3011 913,3015 882,3113 882,3149 2457,3125 2461,3090 2453,3011 2279,2991 2256,2991"/>
+        <Baseline points="884,3117 1105,3104 2462,3094"/>
+        <TextEquiv>
+          <Unicode>Lſo hat es den Schoͤpffer der Natur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a3d32075" custom="structure {type:Correction;}">
+        <Coords points="2764,3050 2724,3043 2685,3039 2646,3031 2606,3023 2590,3019 2527,3015 2527,3094 2527,3121 2768,3121 2768,3094 2768,3050 2764,3050"/>
+        <Baseline points="2528,3095 2769,3098"/>
+        <TextEquiv>
+          <Unicode>Alles was</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2dd04a24" custom="structure {type:Correction;}">
+        <Coords points="2744,3098 2705,3098 2665,3098 2626,3098 2587,3098 2547,3098 2543,3090 2468,3090 2468,3153 2468,3176 2760,3176 2760,3153 2756,3098 2744,3098"/>
+        <Baseline points="2470,3155 2763,3157"/>
+        <TextEquiv>
+          <Unicode>lebt / wirt ein</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5c690bf5" >
+        <Coords points="885,3200 885,3243 2457,3220 2461,3188 2453,3109 882,3121 885,3200"/>
+        <Baseline points="887,3201 2157,3186 2462,3190"/>
+        <TextEquiv>
+          <Unicode>für guͦt angeſehen / als er den zuͦkünfftigen zeyten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3d20c378" custom="structure {type:Correction;}">
+        <Coords points="2748,3157 2709,3157 2669,3157 2630,3157 2590,3157 2551,3157 2512,3157 2472,3157 2472,3200 2468,3220 2752,3224 2760,3204 2752,3153 2748,3157"/>
+        <Baseline points="2475,3204 2762,3205"/>
+        <TextEquiv>
+          <Unicode>thier geneñt/</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f2d2aa68" >
+        <Coords points="885,3283 885,3326 2449,3291 2453,3263 2445,3196 882,3216 885,3283"/>
+        <Baseline points="887,3285 2375,3267 2456,3266"/>
+        <TextEquiv>
+          <Unicode>grundtfeſten leget / daß die Thier / woͤlche er erſt⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b7f27846" custom="structure {type:Correction;}">
+        <Coords points="2472,3251 2472,3283 2764,3279 2768,3247 2764,3196 2468,3196 2472,3251"/>
+        <Baseline points="2476,3255 2514,3251 2772,3251"/>
+        <TextEquiv>
+          <Unicode>zuͦ ainem vn</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c2fd4ba8" custom="structure {type:Correction;}">
+        <Coords points="2713,3251 2673,3251 2634,3251 2594,3251 2555,3251 2516,3251 2476,3251 2476,3306 2472,3330 2752,3330 2756,3310 2752,3251 2713,3251"/>
+        <Baseline points="2478,3310 2759,3312"/>
+        <TextEquiv>
+          <Unicode>rerſchaid a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a8d4f97a" >
+        <Coords points="2425,3287 882,3298 885,3365 885,3397 2457,3381 2461,3350 2457,3346 2425,3287"/>
+        <Baseline points="889,3369 2462,3354"/>
+        <TextEquiv>
+          <Unicode>lich dem tod vnd kranckhaiten vndterwürfflich/</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e21561f0" custom="structure {type:Correction;}">
+        <Coords points="2472,3361 2472,3389 2760,3385 2760,3361 2756,3302 2472,3302 2472,3361"/>
+        <Baseline points="2474,3364 2761,3364"/>
+        <TextEquiv>
+          <Unicode>ber / neüma</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_18a425b6" >
+        <Coords points="887,3453 887,3474 1021,3490 1023,3490 1113,3477 1328,3487 1330,3487 1401,3472 1404,3472 1409,3472 1551,3485 1554,3485 2446,3461 2446,3435 2438,3367 884,3377 887,3453"/>
+        <Baseline points="887,3453 2446,3435"/>
+        <TextEquiv>
+          <Unicode>darzuͦ an zal gar wenig geſchaffenn het / durch die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4736248f" custom="structure {type:Correction;}">
+        <Coords points="2475,3414 2475,3432 2772,3427 2772,3409 2766,3369 2472,3369 2475,3414"/>
+        <Baseline points="2475,3414 2772,3409"/>
+        <TextEquiv>
+          <Unicode>den menſche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2a27cc01" custom="structure {type:Correction;}">
+        <Coords points="2590,3413 2551,3413 2512,3413 2472,3413 2476,3472 2476,3495 2760,3499 2768,3468 2756,3409 2606,3409 2590,3413"/>
+        <Baseline points="2477,3474 2770,3470"/>
+        <TextEquiv>
+          <Unicode>ain vernunff</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_43a6162e" >
+        <Coords points="885,3543 885,3586 2457,3554 2461,3519 2449,3452 882,3456 885,3543"/>
+        <Baseline points="888,3545 2464,3520"/>
+        <TextEquiv>
+          <Unicode>gebaͤrung junge ſolten zeügen / daher aines jeykli⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cf562bc5" custom="structure {type:Correction;}">
+        <Coords points="2464,3519 2464,3550 2728,3539 2732,3515 2720,3468 2461,3468 2464,3519"/>
+        <Baseline points="2467,3520 2735,3516"/>
+        <TextEquiv>
+          <Unicode>tigs thier/</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_95d4b0c6" custom="structure {type:Correction;}">
+        <Coords points="2480,3571 2480,3595 2769,3595 2769,3571 2769,3535 2480,3527 2480,3571"/>
+        <Baseline points="2480,3571 2769,3571"/>
+        <TextEquiv>
+          <Unicode>die anderen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_22a3ce77" >
+        <Coords points="326,3562 287,3566 248,3570 208,3570 169,3574 129,3578 133,3633 133,3661 2468,3629 2472,3613 2464,3539 346,3558 326,3562"/>
+        <Baseline points="136,3634 2110,3608 2474,3617"/>
+        <TextEquiv>
+          <Unicode>chen Geſchlecht / gemehꝛet / vnnd auff das aller laͤngſt volſtreckt wurde.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dc180714" custom="structure {type:Correction;}">
+        <Coords points="2756,3574 2716,3574 2677,3574 2638,3574 2598,3574 2559,3574 2520,3574 2480,3574 2480,3629 2480,3657 2760,3672 2764,3629 2760,3574 2756,3574"/>
+        <Baseline points="2484,3631 2765,3632"/>
+        <TextEquiv>
+          <Unicode>alle vnuer⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7e127a5f" custom="structure {type:Correction;}">
+        <Coords points="2468,3672 2472,3680 2472,3739 2689,3743 2693,3676 2681,3629 2496,3629 2468,3672"/>
+        <Baseline points="2475,3683 2695,3679"/>
+        <TextEquiv>
+          <Unicode>nünfftig.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fa4e2868" >
+        <Coords points="2417,3613 2378,3613 2338,3613 2299,3613 2291,3609 133,3653 137,3720 137,3751 2461,3720 2464,3680 2453,3613 2417,3613"/>
+        <Baseline points="139,3724 2467,3683"/>
+        <TextEquiv>
+          <Unicode>Auff das auß ſehr klainen anfaͤngen / ainer oder zwen / ſchier inn ain vn⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ab95a8cb" >
+        <Coords points="133,3808 133,3842 2472,3797 2475,3773 2467,3705 2331,3713 2320,3708 2304,3697 2302,3697 2299,3697 2296,3697 2199,3708 2136,3716 2086,3710 2002,3703 2000,3703 1997,3703 1955,3713 1924,3721 1879,3716 1806,3705 1803,3705 1672,3718 1643,3721 1635,3718 1601,3708 1598,3708 1596,3708 1409,3710 1407,3710 1404,3710 1386,3724 1375,3729 1333,3726 1254,3718 1252,3718 1249,3718 1223,3726 1207,3731 1165,3729 1031,3716 1029,3716 721,3737 666,3739 645,3737 530,3724 527,3724 525,3724 485,3742 483,3745 417,3745 414,3742 393,3726 391,3726 388,3726 309,3726 307,3726 304,3726 301,3726 280,3742 157,3729 154,3729 152,3729 149,3729 131,3739 133,3808"/>
+        <Baseline points="133,3808 2475,3773"/>
+        <TextEquiv>
+          <Unicode>endtliche maͤnig auffwuͤchſſen / vnd auß der ſterbligkait / gleich naißman</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a0260ea1" >
+        <Coords points="136,3892 136,3915 1110,3915 1110,3913 1480,3894 1504,3894 1517,3894 1690,3905 1693,3905 1787,3892 1884,3902 1887,3902 1890,3902 1892,3902 1908,3889 1908,3886 2086,3886 2092,3886 2252,3897 2254,3897 2478,3878 2478,3860 2472,3797 2281,3784 2278,3784 2039,3800 1997,3802 1953,3802 1695,3792 1693,3792 1690,3792 1664,3805 1659,3808 1622,3805 1517,3797 1514,3797 1512,3797 1509,3797 1498,3808 1493,3810 1438,3808 1309,3800 1307,3800 1244,3810 1218,3813 1197,3810 1126,3800 1123,3800 1120,3800 1073,3810 1055,3815 994,3813 874,3805 871,3805 777,3815 716,3821 666,3815 585,3808 582,3808 530,3818 509,3823 133,3823 136,3892"/>
+        <Baseline points="136,3892 2478,3860"/>
+        <TextEquiv>
+          <Unicode>ain vnſterbligkait erlangten. Aber die andern Thier / ſeind der Natur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bc41d231" >
+        <Coords points="136,3976 136,3999 908,4002 910,4002 1105,3989 1136,3986 1157,3986 1281,3997 1283,3997 1286,3997 1333,3983 1341,3983 1362,3983 1496,3994 1498,3994 1572,3981 1580,3981 1590,3981 1690,3991 1693,3991 2021,3976 2084,3973 2115,3973 2275,3983 2278,3983 2281,3983 2283,3983 2299,3970 2304,3970 2472,3970 2475,3944 2467,3873 1496,3878 1312,3892 1249,3897 1239,3894 1207,3884 1204,3884 1202,3884 1199,3884 1178,3894 1170,3899 858,3902 834,3902 724,3892 721,3892 538,3907 517,3907 509,3907 443,3894 441,3894 133,3913 136,3976"/>
+        <Baseline points="136,3976 2475,3944"/>
+        <TextEquiv>
+          <Unicode>vnunderſchidlich / on alle oꝛdnung / on alles Geſetz / gehoꝛſam / und zeügen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d65f100b" >
+        <Coords points="136,4060 136,4083 2475,4052 2475,4028 2467,3957 2378,3968 2323,3957 2299,3955 2296,3955 2294,3955 2286,3957 2262,3970 2026,3962 1960,3960 1958,3960 1942,3962 1879,3976 1758,3965 1722,3962 1719,3962 1701,3965 1635,3978 1548,3968 1522,3965 1519,3965 1517,3965 1514,3965 1512,3968 1491,3981 1107,3973 1063,3973 1060,3973 1044,3973 908,3989 769,3978 740,3976 737,3976 735,3976 727,3978 672,3991 133,3986 136,4060"/>
+        <Baseline points="136,4060 2475,4028"/>
+        <TextEquiv>
+          <Unicode>kinder / Vnd das iſt inen gleich wie ain gmains Gſetz / woͤlchem wir ſehen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_448a239c" >
+        <Coords points="136,4143 139,4214 427,4212 443,4209 582,4175 666,4191 669,4191 879,4175 921,4199 924,4199 926,4199 929,4199 931,4199 934,4199 963,4178 987,4193 989,4193 992,4193 994,4193 1078,4175 1152,4188 1155,4188 1157,4188 1160,4188 1181,4170 1288,4164 1456,4183 1459,4183 1567,4164 1617,4172 1619,4172 1622,4172 1624,4172 1651,4157 1798,4178 1837,4183 1840,4183 1842,4183 1863,4178 1921,4157 1963,4170 1966,4170 1968,4170 2071,4149 2136,4170 2152,4175 2155,4175 2157,4175 2205,4170 2375,4143 2467,4162 2470,4109 2462,4036 133,4073 136,4143"/>
+        <Baseline points="136,4143 798,4143 2470,4109"/>
+        <TextEquiv>
+          <Unicode>das alle Thier von inen ſelbſt / gehoꝛchen. Wiwol etlich vnter inen ſeind /</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_cb5b55b5"  custom="structure {type:Illustration;}">
+      <Coords points="219,1274 219,2844 2698,2844 2698,1274"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_9f425cb0"  >
+      <Coords points="259,934 259,994 210,984 220,934"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_9cb440aa"  >
+      <Coords points="480,3432 501,3451 367,3451 388,3432"/>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_5d3734eb" >
+        <Coords points="2004,4208 2004,4243 2224,4224 2287,4255 2299,4259 2303,4259 2307,4259 2480,4255 2480,4192 2476,4137 2394,4113 2390,4113 2386,4113 2275,4133 2197,4145 2000,4129 2004,4208"/>
+        <Baseline points="2005,4209 2142,4206 2207,4206 2483,4196"/>
+        <TextEquiv>
+          <Unicode>A woͤlche</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
