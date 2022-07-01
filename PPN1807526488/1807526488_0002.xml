@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://digi.bib.uni-mannheim.de/fileadmin/digi/1807526488/default/1807526488_0002.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-07-01T21:18:03.688882+00:00</Created>
+        <LastChange>2022-07-01T21:18:03.688915+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1807526488_0002.jpg" imageWidth="3072" imageHeight="4428">
+    <TextRegion id="eSc_textblock_375262e8"  >
+      <Coords points="246,177 637,177 667,243 637,282 167,282 167,206 246,177"/>
+      <TextLine id="eSc_line_17b89087" >
+        <Coords points="585,177 561,177 536,177 516,177 507,179 475,177 462,177 438,177 413,177 388,177 364,177 359,182 332,177 315,177 290,177 283,177 263,199 172,199 167,204 169,253 169,307 627,322 630,243 627,191 590,177 585,177"/>
+        <Baseline points="169,253 630,243"/>
+        <TextEquiv>
+          <Unicode>ex libris</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_7d848b06"  >
+      <Coords points="1218,637 1152,627 1171,570 1228,590 1218,637"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_86d2b8df"  >
+      <Coords points="489,1119 472,1119 472,1111 489,1111 489,1119"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_70e1fa92"  >
+      <Coords points="883,1247 807,1247 807,1239 883,1239 883,1247"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_dfaa7c7e"  >
+      <Coords points="509,1493 502,1493 502,1485 509,1485 509,1493"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_0ece30b9"  >
+      <Coords points="728,708 755,728 745,755 718,735 728,708"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_eac6b89c"  >
+      <Coords points="748,1338 775,1338 795,1375 708,1375 748,1338"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_4fe52e1a"  >
+      <Coords points="905,1375 972,1357 974,1338 1021,1375 905,1375"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_a192a9bc"  >
+      <Coords points="472,1092 489,1092 489,1099 472,1099 472,1092"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_45e96e58"  >
+      <Coords points="1307,1247 1240,1247 1260,1230 1307,1239 1307,1247"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_bc36ce3f"  >
+      <Coords points="974,728 992,755 955,755 955,747 974,728"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_5ca44ef6"  >
+      <Coords points="2035,2221 2028,2221 2028,2214 2035,2214 2035,2221"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_73d755c6"  >
+      <Coords points="1772,1574 1976,1574 1986,1611 1742,1601 1772,1574"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_eb2101dc"  >
+      <Coords points="548,1375 462,1375 502,1308 529,1308 548,1375"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d757a9e1"  >
+      <Coords points="883,1217 856,1217 856,1210 883,1210 883,1217"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_31dbc566"  >
+      <Coords points="265,686 324,600 352,600 352,755 285,745 265,686"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_1d673de7"  >
+      <Coords points="1444,1237 1427,1237 1427,1230 1444,1230 1444,1237"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_5e16639e"  >
+      <Coords points="915,627 945,580 984,560 1021,627 915,627"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d2a42dc6"  >
+      <Coords points="836,688 883,698 903,745 807,745 836,688"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_dad21d50"  >
+      <Coords points="883,617 856,627 856,610 883,610 883,617"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_7fc9a189"  >
+      <Coords points="736,568 728,568 728,560 736,560 736,568"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_8f8b7901"  >
+      <Coords points="1070,1217 1043,1217 1043,1200 1060,1200 1070,1217"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_34974c60"  >
+      <Coords points="1208,1384 1201,1384 1201,1367 1208,1367 1208,1384"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_3294a444"  >
+      <Coords points="854,1532 718,1493 817,1426 913,1493 854,1532"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_0444b90b"  >
+      <Coords points="1070,725 1053,725 1053,718 1070,718 1070,725"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_74db7701"  >
+      <Coords points="736,597 728,597 728,590 736,590 736,597"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_b75468e8"  >
+      <Coords points="1740,2339 1536,2339 1555,2312 1730,2322 1740,2339"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_49be7213"  >
+      <Coords points="827,442 844,442 854,469 827,469 827,442"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_47db4bb1"  >
+      <Coords points="1533,2250 1457,2250 1467,2233 1533,2233 1533,2250"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_9fdfbf5f"  >
+      <Coords points="785,1119 699,1119 728,1092 775,1092 785,1119"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_10b4671b"  >
+      <Coords points="1014,1239 1100,1239 1100,1247 1033,1257 1014,1239"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_8b8ecdad"  >
+      <Coords points="1565,1554 1632,1564 1641,1601 1555,1601 1565,1554"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_04323ca1"  >
+      <Coords points="1063,177 1110,196 1100,263 1033,253 1063,177"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_ef3e8742"  >
+      <Coords points="1326,233 1356,243 1280,292 1289,167 1346,167 1326,233"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_b8fb1207"  >
+      <Coords points="1080,755 1033,755 1033,747 1080,747 1080,755"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d9a4b57f"  >
+      <Coords points="1307,755 1260,745 1289,669 1316,698 1307,755"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_aff53e79"  >
+      <Coords points="1063,619 1080,619 1080,627 1063,627 1063,619"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_3af9c1b0"  >
+      <Coords points="667,1493 630,1493 640,1476 657,1476 667,1493"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d4fad7f2"  >
+      <Coords points="1316,499 1280,499 1280,492 1316,492 1316,499"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_9053f7bf"  >
+      <Coords points="1760,2339 1752,2339 1752,2332 1760,2332 1760,2339"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_6f20c3dd"  >
+      <Coords points="1100,1001 1033,1001 1053,984 1090,984 1100,1001"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_11a126a9"  >
+      <Coords points="745,676 728,666 728,649 745,649 745,676"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_62083eff"  >
+      <Coords points="164,1463 137,1463 137,1456 164,1456 164,1463"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_fe289568"  >
+      <Coords points="1563,1237 1526,1237 1526,1230 1563,1230 1563,1237"/>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_88c38e62" >
+        <Coords points="1836,1020 1811,1020 1787,1023 1762,1023 1737,1047 1735,1052 1686,1052 1678,1047 1641,1025 1639,1028 1614,1028 1600,1028 1577,1043 1563,1030 1540,1030 1516,1030 1491,1033 1467,1033 1442,1033 1420,1033 1403,1050 1398,1055 1368,1052 1371,1107 1371,1119 1412,1119 1447,1141 1449,1141 1452,1141 1454,1141 1540,1121 1565,1138 1568,1138 1570,1138 1572,1138 1575,1138 1607,1121 1787,1126 1789,1126 1792,1126 1794,1126 1794,1124 1804,1114 1809,1111 1833,1114 1988,1136 1991,1136 1993,1136 1996,1136 2033,1114 2040,1107 2045,1114 2057,1121 2057,1124 2060,1124 2062,1124 2065,1124 2116,1111 2116,1092 2109,1045 1878,1045 1848,1020 1836,1020"/>
+        <Baseline points="1371,1107 2116,1092"/>
+        <TextEquiv>
+          <Unicode>Theodori Karajan.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5dc8ee2b" >
+        <Coords points="1910,888 1885,888 1865,888 1841,900 1836,902 1836,900 1824,890 1811,890 1787,890 1762,890 1737,890 1713,892 1688,892 1664,892 1651,892 1644,900 1634,910 1568,910 1558,902 1550,895 1540,895 1516,895 1501,895 1491,900 1494,956 1494,984 2048,964 2048,942 2043,900 1947,900 1922,888 1910,888"/>
+        <Baseline points="1494,956 2048,942"/>
+        <TextEquiv>
+          <Unicode>Ex bibliotheca</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8d8e9277" >
+        <Coords points="1994,1462 2097,1464 2097,1442 2096,1410 1988,1410 1986,1442"/>
+        <Baseline points="1990,1444 2098,1444"/>
+        <TextEquiv>
+          <Unicode>1908</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6e82180d" >
+        <Coords points="1627,2474 1627,2489 1678,2504 1681,2504 1683,2504 1686,2504 1688,2504 1708,2491 1710,2491 1865,2494 1868,2469 1863,2425 1745,2408 1742,2408 1740,2408 1737,2408 1715,2425 1656,2410 1654,2410 1651,2410 1649,2410 1646,2410 1624,2423 1627,2474"/>
+        <Baseline points="1627,2474 1868,2469"/>
+        <TextEquiv>
+          <Unicode>Ex libris</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_82fe0e03" >
+        <Coords points="1516,2555 1516,2587 1979,2578 1979,2555 1979,2509 1516,2496 1516,2555"/>
+        <Baseline points="1516,2555 1979,2555"/>
+        <TextEquiv>
+          <Unicode>William Davignon</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://digi.bib.uni-mannheim.de/fileadmin/digi/1807526488/default/1807526488_0004.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-07-01T21:18:03.721576+00:00</Created>
+        <LastChange>2022-07-01T21:18:03.721609+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1807526488_0004.jpg" imageWidth="3120" imageHeight="4472">
+    <TextRegion id="eSc_textblock_4901d453"  >
+      <Coords points="546,4372 594,4372 604,4399 576,4409 546,4372"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_feeafe63"  >
+      <Coords points="494,4419 338,4399 367,4342 464,4342 504,4372 494,4419"/>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_bf1cda4a" >
+        <Coords points="488,1375 506,1401 592,1349 674,1345 678,1345 682,1345 682,1341 760,1267 790,1267 793,1267 797,1267 801,1267 913,1196 913,1192 916,1192 916,1188 931,1144 1028,1110 1032,1110 1032,1106 1036,1106 1036,1103 1054,1058 1054,1054 1129,1009 1110,976 1006,823 853,965 801,972 790,976 786,976 782,976 782,980 779,980 767,998 730,1058 682,1062 618,1069 615,1069 611,1069 533,1118 533,1121 529,1121 529,1125 499,1199 492,1211 413,1255 488,1375"/>
+        <Baseline points="490,1378 1111,978"/>
+        <TextEquiv>
+          <Unicode>ARI Vitr 8</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3560da26" >
+        <Coords points="566,1714 566,1751 607,1758 611,1758 615,1758 618,1758 618,1755 626,1751 656,1725 685,1747 693,1755 697,1755 700,1755 704,1755 808,1751 812,1751 838,1740 920,1710 1066,1729 1069,1729 1222,1695 1304,1721 1315,1725 1319,1725 1323,1725 1464,1721 1468,1721 1483,1714 1535,1684 1710,1673 1841,1699 1845,1699 1848,1699 1852,1699 1904,1673 1949,1695 1956,1650 1942,1554 1830,1557 1807,1550 1681,1509 1677,1509 1673,1509 1669,1509 1666,1509 1610,1550 1580,1572 1494,1572 1461,1550 1453,1542 1450,1542 1446,1542 1442,1542 1394,1550 1390,1550 1386,1550 1297,1516 1293,1516 1289,1516 1286,1516 1282,1516 1282,1520 1248,1550 1241,1557 1222,1550 1185,1535 1181,1535 1177,1535 1174,1535 1170,1535 1170,1539 1166,1539 1159,1550 1140,1572 1099,1550 1058,1531 1054,1531 1051,1531 1047,1531 1043,1531 1021,1550 965,1591 864,1598 801,1550 793,1542 790,1542 786,1542 782,1542 555,1546 566,1714"/>
+        <Baseline points="570,1715 1957,1654"/>
+        <TextEquiv>
+          <Unicode>Kopie vorhanden!</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

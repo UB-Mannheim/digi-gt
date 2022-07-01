@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://digi.bib.uni-mannheim.de/fileadmin/digi/1807526488/default/1807526488_0003.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-07-01T21:18:03.716429+00:00</Created>
+        <LastChange>2022-07-01T21:18:03.716463+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1807526488_0003.jpg" imageWidth="3072" imageHeight="4428">
+  </Page>
+</PcGts>

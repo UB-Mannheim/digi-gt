@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://digi.bib.uni-mannheim.de/fileadmin/digi/1807526488/default/1807526488_0005.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-07-01T21:18:03.731422+00:00</Created>
+        <LastChange>2022-07-01T21:18:03.731456+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1807526488_0005.jpg" imageWidth="3120" imageHeight="4472">
+    <TextRegion id="eSc_textblock_cd23bfcd"  >
+      <Coords points="2771,86 2672,119 2732,258 2722,484 2436,504 2413,603 2336,583 2297,454 2317,278 2404,265 2028,275 1879,236 1817,146 1551,126 1571,59 1588,89 1670,39 1909,19 2752,19 2771,86"/>
+      <TextLine id="eSc_line_372de935" >
+        <Coords points="2684,19 2660,19 2635,19 2620,19 2595,29 2585,32 2570,29 2498,19 2496,19 2493,19 2491,19 2473,34 2471,37 2468,34 2443,22 2441,22 2438,22 2436,22 2399,37 2386,42 2376,37 2344,27 2341,27 2339,27 2336,27 2302,42 2284,47 2272,42 2244,32 2242,32 2239,32 2157,37 2155,37 2152,37 2135,47 2125,54 2070,49 1993,44 1991,44 1988,44 1961,54 1936,67 1872,67 1857,59 1847,52 1844,52 1842,52 1839,52 1640,67 1645,121 1645,146 1750,144 1757,144 1839,159 1842,159 1844,159 1847,159 1847,156 1864,139 1924,136 2093,124 2110,126 2190,139 2192,139 2195,139 2197,139 2220,119 2222,119 2229,119 2289,126 2292,126 2294,126 2297,126 2297,124 2299,124 2304,116 2304,114 2309,114 2386,131 2389,131 2642,119 2645,119 2742,91 2742,67 2737,22 2702,19 2684,19"/>
+        <Baseline points="1645,121 2742,67"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7b0d74c3" >
+        <Coords points="2257,181 2257,216 2344,206 2493,213 2538,213 2540,213 2543,213 2545,213 2548,211 2563,198 2595,208 2600,161 2595,126 2423,116 2421,116 2418,116 2366,134 2346,139 2252,139 2257,181"/>
+        <Baseline points="2257,181 2600,161"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c88d07db" >
+        <Coords points="1889,206 1889,236 1951,250 1954,250 1956,250 1986,243 2036,228 2085,248 2100,253 2103,253 2105,255 2210,255 2207,186 2202,144 2165,131 2162,131 2160,131 2157,131 2155,131 2155,134 2140,151 2138,154 2038,159 2036,156 2006,141 2003,141 2001,141 1884,166 1889,206"/>
+        <Baseline points="1889,206 2207,186"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_11159809"  >
+      <Coords points="912,186 904,186 904,178 912,178 912,186"/>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_bf137cae" >
+        <Coords points="890,176 890,223 927,221 927,176 924,91 890,94 890,176"/>
+        <Baseline points="890,176 927,176"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
