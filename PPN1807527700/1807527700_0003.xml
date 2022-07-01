@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
-  <Metadata externalRef="https://ocr-bw.bib.uni-mannheim.de/demetsify/iiif/image/MqdYAw5KJdZeeiESH9zivF/full/full/0/default.jpg">
+  <Metadata externalRef="https://digi.bib.uni-mannheim.de/fileadmin/digi/1807527700/default/1807527700_0003.jpg">
 	<Creator>escriptorium</Creator>
 	<Created>2022-06-30T15:11:58.176257+00:00</Created>
         <LastChange>2022-06-30T15:11:58.176291+00:00</LastChange>
   </Metadata>
-  <Page imageFilename="2_b5b81_default.jpg" imageWidth="3284" imageHeight="4724">
+  <Page imageFilename="1807527700_0003.jpg" imageWidth="3284" imageHeight="4724">
     <TextRegion id="eSc_textblock_150384c3"  >
       <Coords points="2097,952 567,963 427,826 262,805 231,724 147,679 157,419 798,398 2443,398 2485,419 2496,595 2370,763 2236,816 2097,952"/>
       <TextLine id="eSc_line_d1193c38" >

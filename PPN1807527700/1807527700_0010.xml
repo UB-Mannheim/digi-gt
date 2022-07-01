@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
-  <Metadata externalRef="https://ocr-bw.bib.uni-mannheim.de/demetsify/iiif/image/B8nEsRfRWUZxGvWiAtwfif/full/full/0/default.jpg">
+  <Metadata externalRef="https://digi.bib.uni-mannheim.de/fileadmin/digi/1807527700/default/1807527700_0010.jpg">
 	<Creator>escriptorium</Creator>
 	<Created>2022-06-30T15:11:58.297618+00:00</Created>
         <LastChange>2022-06-30T15:11:58.297633+00:00</LastChange>
   </Metadata>
-  <Page imageFilename="9_81c12_default.jpg" imageWidth="3255" imageHeight="4728">
+  <Page imageFilename="1807527700_0010.jpg" imageWidth="3255" imageHeight="4728">
     <TextRegion id="eSc_textblock_e219561d"  >
       <Coords points="1155,420 2613,430 2687,472 2711,546 3076,588 3107,2227 3086,4242 2900,4252 2834,4189 2698,4179 756,4168 711,3916 430,3905 441,3624 701,3624 725,3590 725,3236 714,2500 409,2476 409,2143 704,2088 680,1972 430,1972 409,1941 420,1765 704,1751 701,1573 409,1562 409,619 462,556 1048,546 1155,420"/>
       <TextLine id="eSc_line_6039815c" >
