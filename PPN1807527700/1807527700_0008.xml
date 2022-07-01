@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
-  <Metadata externalRef="https://ocr-bw.bib.uni-mannheim.de/demetsify/iiif/image/MYBLHpRFZfwBfv3tHNhMES/full/full/0/default.jpg">
+  <Metadata externalRef="https://digi.bib.uni-mannheim.de/fileadmin/digi/1807527700/default/1807527700_0008.jpg">
 	<Creator>escriptorium</Creator>
 	<Created>2022-06-30T15:11:58.270291+00:00</Created>
         <LastChange>2022-06-30T15:11:58.270305+00:00</LastChange>
   </Metadata>
-  <Page imageFilename="7_22997_default.jpg" imageWidth="3376" imageHeight="4728">
+  <Page imageFilename="1807527700_0008.jpg" imageWidth="3376" imageHeight="4728">
     <TextRegion id="eSc_textblock_a678bf4f"  >
       <Coords points="2159,441 2201,462 2214,546 2380,577 3165,598 3197,630 3144,1027 3092,974 2787,987 2924,1019 2874,1061 3186,1092 3165,1373 3126,1405 3092,1363 2989,1352 2882,1649 2895,1775 3165,1796 3134,1878 3186,2109 2934,2153 2882,2311 2913,2416 2882,2487 2934,2553 2916,2584 3186,2637 3186,3401 2790,3433 2506,3506 2713,3551 2703,3664 2566,3716 1521,3716 1321,3643 1318,3506 840,3475 830,2248 893,2111 935,2098 935,1975 840,1930 840,1481 872,1415 840,1187 861,1134 956,1090 840,1006 882,819 945,753 935,661 872,659 851,609 901,588 943,619 987,556 1174,598 1844,598 1846,472 1910,430 2159,441"/>
       <TextLine id="eSc_line_e607418d" >
