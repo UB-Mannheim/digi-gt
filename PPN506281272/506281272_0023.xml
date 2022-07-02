@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://digi.bib.uni-mannheim.de/fileadmin/digi/506281272/default/506281272_0023.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-07-02T13:38:31.028252+00:00</Created>
+        <LastChange>2022-07-02T13:38:31.028289+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="506281272_0023.jpg" imageWidth="3560" imageHeight="5120">
+    <TextRegion id="eSc_textblock_2fa699df"  >
+      <Coords points="489,659 546,637 2000,637 2228,614 2287,557 2376,568 2435,659 2831,682 2854,793 1183,793 478,736"/>
+      <TextLine id="eSc_line_713d34e3" >
+        <Coords points="2364,566 2336,563 2279,563 2279,645 2279,676 2376,694 2379,645 2379,577 2364,566"/>
+        <Baseline points="2279,645 2379,645"/>
+        <TextEquiv>
+          <Unicode>iij</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c4dac016" >
+        <Coords points="2830,699 2787,678 2744,674 2702,674 2680,669 2176,665 2044,635 2040,635 2036,635 2031,635 2006,661 1950,640 1946,640 1942,640 1848,657 1822,640 1805,640 1762,640 1720,640 1711,640 1626,648 1613,640 1592,640 1549,640 1506,640 1468,640 1429,644 1417,640 1378,640 1336,640 1293,640 1250,640 1220,640 1152,648 1126,640 1122,640 1079,640 1037,640 1015,640 1011,644 998,640 994,640 951,640 909,640 866,640 823,640 781,640 738,640 695,640 653,640 610,640 571,640 554,640 525,644 490,686 482,729 478,763 973,780 977,780 981,780 998,776 1045,759 1058,776 1062,776 1062,780 1067,780 1071,780 1075,780 1161,776 1378,768 1447,785 1481,789 1485,789 1489,789 1502,785 1532,768 1617,785 1660,793 1664,793 1805,789 2181,776 2232,797 2245,802 2249,802 2253,802 2258,802 2266,797 2305,780 2522,802 2573,806 2578,806 2582,806 2595,802 2667,785 2834,806 2842,763 2830,699 2830,699"/>
+        <Baseline points="483,731 2845,766"/>
+        <TextEquiv>
+          <Unicode>Gedenck allezeit der lectzten ding. So wirt dir rechtun gar gering.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_264876b5"  >
+      <Coords points="1126,921 2239,921 2296,932 2421,1092 2421,1180 2319,1214 1126,1180"/>
+      <TextLine id="eSc_line_04812dd7" >
+        <Coords points="2262,925 1318,930 1246,921 1229,921 1186,921 1143,921 1143,1011 1139,1045 2292,1041 2296,1019 2287,934 2262,925"/>
+        <Baseline points="1147,1012 2299,1020"/>
+        <TextEquiv>
+          <Unicode>In dem vrteil darinnen ir vrteilt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f222fa59" >
+        <Coords points="2381,1049 2339,1028 2334,1028 2330,1028 2326,1028 2215,1058 2206,1058 2198,1058 2078,1036 2074,1036 1942,1053 1929,1053 1925,1053 1899,1028 1899,1024 1895,1024 1890,1024 1737,1024 1733,1024 1728,1024 1724,1024 1690,1049 1681,1058 1579,1058 1570,1045 1540,1024 1540,1019 1536,1019 1532,1019 1528,1019 1387,1045 1340,1049 1143,1041 1143,1126 1139,1156 2403,1186 2411,1139 2411,1083 2381,1049"/>
+        <Baseline points="1146,1128 2413,1140"/>
+        <TextEquiv>
+          <Unicode>werdet ir geurteilt Mathei am vij.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_3e40057a"  >
+      <Coords points="1138,1342 2637,1365 2672,1464 2592,1635 819,1590 785,1555 830,1353"/>
+      <TextLine id="eSc_line_a25a4e83" >
+        <Coords points="1711,1348 1669,1348 1626,1348 1583,1348 1540,1348 1532,1348 1348,1356 1318,1356 1310,1356 1246,1344 1242,1344 1199,1344 1156,1344 1114,1344 1071,1344 1028,1348 986,1348 981,1348 853,1352 819,1416 815,1433 811,1476 2620,1480 2629,1450 2625,1365 1745,1365 1745,1361 1737,1348 1711,1348"/>
+        <Baseline points="816,1436 2633,1452"/>
+        <TextEquiv>
+          <Unicode>Der herr thut die Barmherczigkeit vnd das vrteil</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fcdce9b8" >
+        <Coords points="832,1553 828,1591 2569,1604 2578,1570 2573,1484 832,1463 832,1553"/>
+        <Baseline points="833,1555 2581,1572"/>
+        <TextEquiv>
+          <Unicode>Allen den die erleiden das vnrecht. Ps. c. j. ij.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_2c568724"  >
+      <Coords points="948,1941 948,3078 1050,3078 1061,1941"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_92ac67e0"  custom="structure {type:Illustration;}">
+      <Coords points="2057,2454 2014,2466 2014,2446 2037,2434"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_77c59f35"  >
+      <Coords points="2481,3103 2481,3094 2501,3094 2501,3103"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_f43d9f24"  >
+      <Coords points="1001,2397 1013,2321 1021,2321 1021,2409"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_abea7f2a"  >
+      <Coords points="1928,1812 2418,2609 2531,2561 2052,1769"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_0caeea44"  custom="structure {type:Illustration;}">
+      <Coords points="2868,1681 2879,1661 2922,1661 2922,1669"/>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_4210e162" >
+        <Coords points="1933,1800 1903,1817 2130,2197 2134,2197 2134,2201 2138,2201 2172,2214 2172,2218 2181,2227 2223,2333 2223,2338 2433,2615 2462,2602 2565,2517 2458,2410 2458,2359 2454,2346 2454,2342 2454,2338 2450,2338 2450,2333 2445,2333 2433,2325 2394,2308 2317,2197 2283,2116 2241,2018 2241,2013 2019,1740 1933,1800"/>
+        <Baseline points="1936,1804 2467,2604"/>
+        <TextEquiv>
+          <Unicode>Get hin Ir vmalledeiten.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ed83c024" >
+        <Coords points="981,1954 930,1949 900,2581 900,2585 917,2679 917,2683 896,2760 896,2764 896,2769 913,3050 951,3054 1058,3050 1058,2146 1084,1954 981,1954"/>
+        <Baseline points="986,1958 956,3058"/>
+        <TextEquiv>
+          <Unicode>Kumpt here Ir gebenedeiten.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

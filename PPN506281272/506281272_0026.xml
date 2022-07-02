@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://digi.bib.uni-mannheim.de/fileadmin/digi/506281272/default/506281272_0026.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-07-02T13:38:31.090568+00:00</Created>
+        <LastChange>2022-07-02T13:38:31.090602+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="506281272_0026.jpg" imageWidth="3560" imageHeight="5120">
+    <TextRegion id="eSc_textblock_c61a78fe"  >
+      <Coords points="2319,998 2194,1043 1149,1021 1035,975 1069,773 1309,728 3036,728 3093,785 3093,861 2990,896 2356,884 2319,998"/>
+      <TextLine id="eSc_line_7a26c63b" >
+        <Coords points="1203,745 1175,750 1146,756 1146,816 1143,850 2999,867 3005,830 2996,745 2925,762 2734,748 2731,748 2635,762 2549,742 2538,742 2535,742 2507,742 2282,759 2176,742 2168,742 2165,742 2162,742 2159,742 2120,756 2100,742 2091,736 2088,736 2085,736 2083,736 2048,742 1994,753 1969,742 1960,739 1957,739 1955,739 1952,739 1949,739 1946,742 1929,756 1892,742 1889,742 1886,742 1881,742 1846,750 1835,742 1826,733 1824,733 1821,733 1818,733 1815,733 1798,742 1784,750 1775,742 1767,733 1764,733 1761,733 1758,733 1755,733 1730,742 1701,750 1681,742 1664,733 1661,733 1445,731 1442,731 1439,731 1437,731 1437,733 1425,742 1414,750 1206,742 1203,745"/>
+        <Baseline points="1146,816 3005,830"/>
+        <TextEquiv>
+          <Unicode>Das volck koͤmbt zu mir / vnd ſucht die vrteil gottes</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9f37d63d" >
+        <Coords points="1155,950 1152,987 1365,987 1374,987 1431,1004 1434,1004 1437,1004 1502,989 1516,987 1536,989 1610,1006 1613,1006 1778,992 1798,992 1804,992 1852,1012 1855,1012 1858,1012 1977,998 1994,1012 1994,1015 1997,1015 2000,1015 2003,1018 2102,1018 2102,1015 2105,1015 2108,1015 2134,998 2188,1018 2191,1018 2194,1018 2273,998 2276,972 2276,887 1832,864 1829,864 1733,876 1727,876 1724,876 1684,861 1681,861 1678,861 1622,873 1610,876 1587,873 1499,861 1496,861 1346,870 1314,870 1311,870 1303,856 1300,856 1300,853 1297,853 1294,853 1291,853 1155,864 1155,950"/>
+        <Baseline points="1155,950 2276,972"/>
+        <TextEquiv>
+          <Unicode>Moyſes Exodi am xxvj.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_69597d3b"  >
+      <Coords points="2330,1749 2273,1715 2194,1749 591,1715 534,1251 751,1194 2216,1206 2273,1274 2307,1612 2398,1627 2421,1692 2330,1749"/>
+      <TextLine id="eSc_line_153fc5da" >
+        <Coords points="661,1216 618,1228 618,1309 614,1356 1805,1361 1852,1386 1856,1386 1861,1386 1865,1386 1886,1386 2023,1369 2215,1390 2223,1344 2223,1250 2134,1224 2130,1224 1754,1216 1750,1216 1745,1216 1698,1233 1681,1237 1656,1233 1566,1211 1562,1211 1472,1224 1421,1233 1314,1220 1143,1203 1139,1203 1135,1203 1097,1216 1067,1224 1024,1211 968,1198 964,1198 960,1198 956,1198 930,1211 909,1220 687,1203 661,1216"/>
+        <Baseline points="623,1314 2226,1347"/>
+        <TextEquiv>
+          <Unicode>Furſich dich vo allem volck mit weiſñ manen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a2d88470" >
+        <Coords points="610,1420 606,1454 2198,1497 2206,1459 2206,1365 610,1322 610,1420"/>
+        <Baseline points="612,1425 2211,1461"/>
+        <TextEquiv>
+          <Unicode>und die da forchte got / in de / da ſey dy warheit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e04dd8e0" >
+        <Coords points="610,1540 606,1574 900,1608 2215,1621 2223,1587 2219,1480 1797,1493 1771,1472 1767,1472 1762,1472 1758,1472 1707,1472 1122,1472 1092,1459 1058,1446 1054,1446 1050,1446 1045,1446 1011,1459 990,1467 610,1454 610,1540"/>
+        <Baseline points="611,1544 2227,1589"/>
+        <TextEquiv>
+          <Unicode>vnd die haſſñ die geytigkeit vñ ſecz auß in die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3c639ac7" >
+        <Coords points="2361,1621 2333,1615 2302,1609 2310,1692 2310,1723 2387,1723 2387,1686 2379,1621 2361,1621"/>
+        <Baseline points="2310,1692 2387,1686"/>
+        <TextEquiv>
+          <Unicode>18</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_fadf3798"  custom="structure {type:Illustration;}">
+      <Coords points="577,3717 512,3717 512,3709 577,3709 577,3717"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_c40cd951"  custom="structure {type:Illustration;}">
+      <Coords points="554,1885 523,1897 523,1865 543,1865 554,1885"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_09f076ba"  custom="structure {type:Illustration;}">
+      <Coords points="611,3000 580,3000 580,2980 611,2980 611,3000"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_9ea79452"  >
+      <Coords points="2822,1388 2831,1388 2831,1396 2822,1396 2822,1388"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_ed9090f3"  >
+      <Coords points="2822,1342 2831,1342 2831,1362 2822,1362 2822,1342"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_edf48a74"  custom="structure {type:Illustration;}">
+      <Coords points="3096,3242 3172,3242 3172,3296 3141,3319 3096,3242"/>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_d39f6d9a" >
+        <Coords points="627,1672 623,1706 2206,1749 2215,1710 2211,1604 2040,1621 1869,1595 1861,1595 1856,1595 1844,1595 1511,1608 1455,1587 1451,1587 1447,1587 1442,1587 1331,1604 627,1570 627,1672"/>
+        <Baseline points="628,1674 2217,1714"/>
+        <TextEquiv>
+          <Unicode>da vrteilen das volck Ihetro Exodi am xxvi.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
