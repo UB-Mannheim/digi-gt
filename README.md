@@ -12,6 +12,7 @@ processed to remove empty lines:
 
 ### List of transcriptions
 
+- PPN477366015 – [Historia de vita et actis ... Martini Lutheri ...](http://digi.bib.uni-mannheim.de/urn/urn:nbn:de:bsz:180-digad-22717)
 - PPN506281272 – [Bambergische halszgerichts ordenung](http://digi.bib.uni-mannheim.de/urn/urn:nbn:de:bsz:180-digad-32443)
 - PPN1807526488 – [Ioannis Lodovici Vivis Von vnderweÿsung ayner Christlichen Frauwen/ Drey Bücher](http://digi.bib.uni-mannheim.de/urn/urn:nbn:de:bsz:180-digad-36193)
 - PPN1807527700 – [Ioannis Lodovici Vivis Von Gebirliche[m] Thun vnd Lassen aines Ehemanns](http://digi.bib.uni-mannheim.de/urn/urn:nbn:de:bsz:180-digad-36180)

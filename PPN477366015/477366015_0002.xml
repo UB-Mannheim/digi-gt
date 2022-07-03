@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://digi.bib.uni-mannheim.de/fileadmin/digi/477366015/default/477366015_0002.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-07-03T16:22:41.806976+00:00</Created>
+        <LastChange>2022-07-03T16:22:41.806997+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="477366015_0002.jpg" imageWidth="1444" imageHeight="2364">
+    <TextRegion id="eSc_textblock_4380dcc6"  >
+      <Coords points="829,487 855,509 865,566 1039,609 1055,854 1018,891 970,912 898,907 851,891 823,833 725,823 683,786 693,745 714,744 692,713 583,692 656,639 655,613 420,608 367,597 341,566 357,409 430,397 357,392 362,341 667,315 787,315 798,567 829,399 829,487"/>
+      <TextLine id="eSc_line_586440fe" >
+        <Coords points="775,323 674,315 672,315 639,315 635,317 615,319 595,321 576,323 556,325 536,325 516,327 497,328 477,330 457,332 437,334 418,336 398,338 378,340 370,346 360,386 360,395 783,395 785,380 781,338 775,323"/>
+        <Baseline points="361,387 787,381"/>
+        <TextEquiv>
+          <Unicode>BIBLIOTHEK</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_94444df0" >
+        <Coords points="386,480 386,494 769,482 769,472 765,407 491,403 489,403 487,403 455,415 428,405 426,405 424,405 422,405 384,417 386,480"/>
+        <Baseline points="387,482 770,473"/>
+        <TextEquiv>
+          <Unicode>DESBILLONS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1d4b4874" >
+        <Coords points="362,569 364,592 388,581 793,583 794,561 789,498 360,506 362,569"/>
+        <Baseline points="364,570 795,562"/>
+        <TextEquiv>
+          <Unicode>MANNHEIM</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_961fb9b2"  >
+      <Coords points="366,618 362,618 362,614 366,614 366,618"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_489c25df"  >
+      <Coords points="525,2269 597,2269 597,2273 536,2283 525,2269"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_17ce31e3"  >
+      <Coords points="819,315 829,341 823,392 809,382 819,315"/>
+    </TextRegion>
+  </Page>
+</PcGts>
