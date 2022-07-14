@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-07-14T12:35:38.948617+00:00</Created>
+        <LastChange>2022-07-14T12:35:38.948655+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="477396569.pdf_page_5.png" imageWidth="2011" imageHeight="2615">
+    <TextRegion id="eSc_textblock_57123bf8"  >
+      <Coords points="1313,627 1319,1061 1319,1231 1330,1231 1313,1549 1310,1575 1235,1588 69,1584 78,278 889,270 1313,278 1323,453 1328,453 1328,604"/>
+      <TextLine id="eSc_line_c2d80d3a" >
+        <Coords points="233,1466 211,1466 189,1466 167,1466 146,1466 124,1466 102,1466 80,1466 80,1518 78,1531 111,1542 113,1542 115,1542 410,1536 484,1534 492,1536 519,1545 521,1545 523,1545 730,1540 889,1536 920,1542 942,1547 944,1549 1297,1549 1299,1525 1297,1479 253,1466 233,1466"/>
+        <Baseline points="81,1519 1301,1526"/>
+        <TextEquiv>
+          <Unicode>liche vnd furſtliche boſſen / doch ſo lam vnd loſe / das ſie ſich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5eee7112" >
+        <Coords points="163,1521 141,1521 119,1521 98,1521 95,1518 76,1518 76,1564 74,1579 671,1601 673,1601 820,1590 822,1575 822,1534 181,1521 163,1521"/>
+        <Baseline points="77,1566 823,1576"/>
+        <TextEquiv>
+          <Unicode>der ſselbigen wol moͤchten ſchemen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_1c84de05"  >
+      <Coords points="828,2107 791,2063 69,2046 69,1691 163,1664 183,1621 340,1612 1304,1630 1304,2107"/>
+      <TextLine id="eSc_line_56710d07" >
+        <Coords points="244,1616 222,1616 200,1619 178,1627 178,1671 176,1684 1297,1691 1302,1682 1299,1634 253,1614 244,1616"/>
+        <Baseline points="178,1671 1302,1682"/>
+        <TextEquiv>
+          <Unicode>Denn ſo toll bin ich / Gott lob / nicht geweſen / das ich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_33b2fcbb" >
+        <Coords points="1293,1682 1271,1682 1249,1682 1227,1682 1206,1682 1184,1682 1162,1682 1140,1682 1118,1682 1097,1682 1092,1680 100,1680 93,1682 71,1688 71,1723 69,1732 490,1747 492,1747 1299,1738 1302,1730 1299,1682 1293,1680 1293,1682"/>
+        <Baseline points="71,1723 1302,1730"/>
+        <TextEquiv>
+          <Unicode>verhoffet hette / mein brieff ſolte heymlich bleiben bey dem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aefbb1d3" >
+        <Coords points="74,1778 71,1789 1297,1791 1302,1782 1299,1738 74,1730 74,1778"/>
+        <Baseline points="74,1778 1302,1782"/>
+        <TextEquiv>
+          <Unicode>Koͤnige alleine / darauff ſie doch ſich gantz verlaſſen vnd</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4bbd0a7b" >
+        <Coords points="1295,1782 1273,1782 1251,1782 1230,1782 1208,1782 1186,1782 1164,1782 1142,1782 1121,1782 1099,1782 1077,1782 1055,1782 1033,1782 1012,1782 990,1782 968,1782 946,1782 924,1782 902,1782 881,1782 859,1782 837,1782 815,1782 793,1782 772,1782 750,1782 728,1782 706,1782 684,1780 663,1780 641,1780 619,1780 597,1780 575,1780 554,1780 532,1780 510,1780 488,1780 466,1780 444,1780 423,1780 401,1780 379,1780 357,1780 335,1780 314,1780 292,1780 270,1780 248,1780 226,1780 205,1780 183,1780 161,1780 139,1780 117,1780 95,1780 74,1780 74,1828 71,1837 1297,1843 1302,1834 1299,1782 1295,1780 1295,1782"/>
+        <Baseline points="74,1828 1302,1834"/>
+        <TextEquiv>
+          <Unicode>meinen / ſie habens troffen / Darumb ich mit allem vleis das</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_be6a0168" >
+        <Coords points="74,1880 71,1889 1295,1895 1299,1887 1295,1839 74,1837 74,1880"/>
+        <Baseline points="74,1880 1299,1887"/>
+        <TextEquiv>
+          <Unicode>verkomen habe / ynn dem ſelbigen brieue / das ich mit meiner</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9991eeca" >
+        <Coords points="1273,1887 1251,1887 1230,1887 1208,1887 1186,1887 1164,1887 1142,1887 1121,1887 1099,1887 1077,1887 1055,1887 1033,1887 1012,1887 990,1887 968,1887 946,1887 924,1887 902,1887 887,1884 74,1884 74,1932 71,1943 1295,1945 1299,1937 1295,1887 1273,1887"/>
+        <Baseline points="74,1932 1299,1937"/>
+        <TextEquiv>
+          <Unicode>demut / nichts habe wollen meiner lere vergeben / Vnd lieſe</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dae7f3c6" >
+        <Coords points="71,1987 71,2000 1302,2000 1302,1987 1302,1943 71,1943 71,1987"/>
+        <Baseline points="71,1987 1302,1987"/>
+        <TextEquiv>
+          <Unicode>nuͤr den ſelbigen brieff / wo er recht gedruckt iſt / findeſtu nicht</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ace1df63" >
+        <Coords points="379,1989 357,1989 335,1989 314,1989 292,1989 270,1989 248,1989 226,1989 205,1989 183,1989 161,1989 139,1989 117,1989 95,1989 74,1989 74,2039 74,2072 248,2059 266,2070 272,2076 274,2076 277,2076 279,2076 281,2076 294,2070 305,2065 348,2070 414,2076 416,2076 418,2076 436,2068 458,2059 488,2068 516,2076 519,2076 521,2076 523,2076 547,2068 551,2065 554,2068 569,2076 571,2076 573,2076 575,2078 813,2078 813,2076 815,2076 817,2076 817,2074 831,2063 837,2059 981,2059 1003,2061 1090,2076 1092,2076 1094,2076 1136,2059 1140,2059 1299,2059 1299,2039 1295,1993 379,1989 379,1989"/>
+        <Baseline points="74,2039 1299,2039"/>
+        <TextEquiv>
+          <Unicode>drynnen / das ich meine lere aus genomen habe vnd furbehal⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d7136bbf" >
+        <Coords points="955,2041 940,2041 892,2052 872,2046 859,2041 846,2041 828,2041 824,2044 826,2096 826,2109 966,2120 968,2094 961,2041 955,2041"/>
+        <Baseline points="826,2096 968,2094"/>
+        <TextEquiv>
+          <Unicode>A iij</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f29743c0" >
+        <Coords points="1236,2041 1214,2041 1208,2041 1177,2050 1155,2041 1149,2041 1138,2041 1127,2048 1129,2096 1129,2120 1299,2120 1299,2092 1282,2048 1249,2041 1236,2041"/>
+        <Baseline points="1129,2096 1299,2092"/>
+        <TextEquiv>
+          <Unicode>ten ynis</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_ec1cae96" >
+        <Coords points="1295,276 1273,276 1251,276 1230,276 1208,276 1201,274 1173,278 1145,274 1142,274 1121,274 1099,274 1092,272 1088,278 1033,272 1033,272 1012,272 990,270 988,270 977,278 974,278 922,270 902,270 885,270 878,276 841,270 837,270 815,270 796,270 765,276 693,270 684,270 663,272 641,272 632,272 630,274 625,272 619,272 597,272 575,272 554,272 532,272 510,272 488,272 466,274 444,274 423,274 401,274 381,274 379,274 357,274 335,274 314,274 292,274 270,276 248,276 226,276 205,276 183,276 161,276 139,276 117,276 95,276 82,272 76,272 76,322 74,331 1306,342 1310,329 1308,309 1295,276"/>
+        <Baseline points="76,322 1310,329"/>
+        <TextEquiv>
+          <Unicode>ben / Denn ſo war Gott lebt / welcher Koͤnig odder Furſt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bcb93739" >
+        <Coords points="76,372 74,383 1299,398 1304,379 1302,335 76,329 76,372"/>
+        <Baseline points="76,372 1304,379"/>
+        <TextEquiv>
+          <Unicode>meinet / das ſich der Luther fur yhm demuͤtige der meinung /</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_20047e52" >
+        <Coords points="76,427 74,435 1302,440 1306,431 1304,387 76,383 76,427"/>
+        <Baseline points="76,427 1306,431"/>
+        <TextEquiv>
+          <Unicode>als rewe yhn ſeine lere vnd habe vnrecht geleret / vnd ſuche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b2fabaf6" >
+        <Coords points="78,479 76,494 1302,494 1304,485 1302,440 78,433 78,479"/>
+        <Baseline points="78,479 1304,485"/>
+        <TextEquiv>
+          <Unicode>gnade / der betreugt ſich ſelbs weidlich / vnd macht yhm ſelbs</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9ae8eb87" >
+        <Coords points="1295,485 1273,485 1251,485 1230,485 1208,485 1186,485 1164,485 1142,485 1121,485 1099,485 1077,485 1055,485 1033,485 1012,485 990,485 968,485 946,485 924,485 902,485 887,483 74,483 74,531 71,538 1297,553 1302,538 1299,485 1295,485"/>
+        <Baseline points="74,531 1302,538"/>
+        <TextEquiv>
+          <Unicode>einen gulden trawın / da er eitel dreck finden wird / ſo bald er</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2d76671c" >
+        <Coords points="76,581 74,592 1297,605 1302,588 1302,542 76,533 76,581"/>
+        <Baseline points="76,581 1302,588"/>
+        <TextEquiv>
+          <Unicode>auffwacht / Der lere halben iſt mir niemand ſo gros / Ich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_92b62b27" >
+        <Coords points="556,586 534,586 512,586 490,586 482,584 320,584 316,584 294,584 272,584 250,584 229,584 207,584 185,584 163,584 141,584 119,584 98,584 76,584 76,636 74,651 1297,664 1302,640 1299,592 564,586 556,586"/>
+        <Baseline points="76,636 1302,640"/>
+        <TextEquiv>
+          <Unicode>halte yhn fur eine waſſerblaſen vnd noch geringer / da wird</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bfc285f1" >
+        <Coords points="425,638 403,638 381,638 359,638 338,638 316,638 294,638 272,638 250,638 229,638 209,638 76,640 76,688 76,701 471,710 473,688 473,645 444,638 425,638"/>
+        <Baseline points="76,688 473,688"/>
+        <TextEquiv>
+          <Unicode>nicht anders aus.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dee00ebc" >
+        <Coords points="213,690 191,690 174,690 170,692 170,738 167,747 1304,751 1308,743 1306,682 1169,682 1166,682 1164,682 1162,682 1136,697 1055,684 1051,684 1049,684 1046,684 1044,684 1027,697 992,684 990,684 988,684 985,684 983,684 981,684 964,697 889,686 885,686 883,686 881,686 878,686 863,697 765,697 756,688 754,686 754,684 752,684 750,684 748,684 728,688 693,695 673,688 654,682 652,682 649,682 591,688 547,695 536,690 514,679 512,679 510,679 508,679 479,690 466,697 231,697 229,692 224,690 213,690"/>
+        <Baseline points="170,738 1308,743"/>
+        <TextEquiv>
+          <Unicode>Ernſtlich aber iſt das die meinung / das ich bitte alle fru⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_de5214db" >
+        <Coords points="74,791 71,799 1304,804 1308,795 1308,751 74,745 74,791"/>
+        <Baseline points="74,791 1308,795"/>
+        <TextEquiv>
+          <Unicode>men herrn vnd freunde ynn Chriſto / den villeicht das narren</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_989dad64" >
+        <Coords points="74,845 74,856 1304,858 1306,845 1306,804 74,793 74,845"/>
+        <Baseline points="74,845 1306,845"/>
+        <TextEquiv>
+          <Unicode>buch des koͤniges zu Engelland furkompt mit meinem brie⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d907b9d1" >
+        <Coords points="74,895 71,904 1297,908 1302,899 1302,854 74,852 74,895"/>
+        <Baseline points="74,895 1302,899"/>
+        <TextEquiv>
+          <Unicode>ue / Sie wolten ſich ia nicht keren an den titel / den ſie mit gro</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6847d518" >
+        <Coords points="76,923 74,952 74,969 1302,961 1302,952 1302,908 87,908 76,923"/>
+        <Baseline points="74,952 1302,952"/>
+        <TextEquiv>
+          <Unicode>ſſem mutwillen drauff gedruckt haben / vnd nu ruffen vnd</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a351dc55" >
+        <Coords points="74,1002 74,1017 1302,1013 1302,1002 1302,961 74,956 74,1002"/>
+        <Baseline points="74,1002 1302,1002"/>
+        <TextEquiv>
+          <Unicode>iauchtzen / Der Luther habe widder ruffen / Das ruffen vnd</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_49bc2cf7" >
+        <Coords points="71,1050 69,1067 1302,1067 1304,1056 1304,1015 71,1004 71,1050"/>
+        <Baseline points="71,1050 1304,1056"/>
+        <TextEquiv>
+          <Unicode>iauchtzen las man ſie haben vnd treiben / wie hoch vnd weit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ad7bd6a9" >
+        <Coords points="74,1102 71,1115 1299,1115 1302,1107 1299,1063 74,1059 74,1102"/>
+        <Baseline points="74,1102 1302,1107"/>
+        <TextEquiv>
+          <Unicode>ſie wollen / Denn hinder groſſem rhum iſt allewege nichts /</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3a90a9cc" >
+        <Coords points="268,1104 246,1104 224,1104 202,1104 181,1104 159,1104 137,1104 115,1104 93,1104 91,1102 71,1102 71,1154 69,1163 207,1176 209,1176 527,1170 678,1168 1299,1178 1304,1159 1302,1115 277,1104 268,1104"/>
+        <Baseline points="71,1154 1304,1159"/>
+        <TextEquiv>
+          <Unicode>wie den Papiſten bis her an mir / ſo mancher rhum / iſt zu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d398739d" >
+        <Coords points="314,1157 292,1157 270,1157 248,1157 226,1157 205,1157 183,1157 161,1157 139,1157 117,1157 95,1157 74,1157 74,1205 71,1215 1299,1229 1304,1209 1302,1165 318,1157 314,1157"/>
+        <Baseline points="74,1205 1304,1209"/>
+        <TextEquiv>
+          <Unicode>dreck worden / Aber das ich ſolt etwas ynn heimlichen brie⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2b19870a" >
+        <Coords points="71,1246 71,1259 69,1268 1297,1274 1302,1263 1297,1211 87,1215 71,1246"/>
+        <Baseline points="71,1259 1302,1263"/>
+        <TextEquiv>
+          <Unicode>uen widderruffen / das ich mit offentlichen ſchrifften lere / iſt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_569e3ce2" >
+        <Coords points="1293,1263 1271,1263 1249,1263 1227,1263 1206,1263 1184,1263 1162,1263 1140,1263 1118,1263 1097,1263 1075,1263 1053,1263 1031,1263 1009,1263 988,1263 966,1263 944,1263 922,1263 900,1263 878,1263 857,1263 835,1263 813,1263 791,1263 769,1263 748,1263 726,1263 704,1263 702,1261 71,1263 71,1309 69,1320 1297,1324 1302,1314 1297,1263 1293,1263"/>
+        <Baseline points="71,1309 1302,1314"/>
+        <TextEquiv>
+          <Unicode>nichts / Vñ ſolt ia gleublicher ſein, das / wer ſich furchtet / viel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_91abd1ce" >
+        <Coords points="1293,1314 1271,1314 1249,1314 1227,1314 1206,1314 1184,1314 1162,1314 1140,1314 1118,1314 1097,1314 1075,1314 1053,1314 1031,1314 1009,1314 988,1314 966,1314 944,1314 922,1314 900,1314 878,1314 857,1314 835,1314 813,1314 791,1314 769,1314 748,1314 726,1314 704,1314 682,1311 660,1311 639,1311 617,1311 595,1311 573,1311 551,1311 530,1311 508,1311 486,1311 464,1311 442,1311 420,1311 399,1311 377,1311 355,1311 333,1311 311,1311 290,1311 268,1311 246,1311 224,1311 202,1311 181,1311 159,1311 137,1311 115,1311 93,1311 71,1311 71,1364 71,1377 1306,1377 1306,1364 1306,1311 1293,1311 1293,1314"/>
+        <Baseline points="71,1364 1306,1364"/>
+        <TextEquiv>
+          <Unicode>mehr ſeine lere offentlich ſchewet zu rhuͤmen / vnd lieber herm⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_48f1e5e8" >
+        <Coords points="464,1366 442,1366 420,1366 399,1366 377,1366 355,1366 333,1366 311,1366 290,1366 268,1366 246,1366 224,1366 202,1366 181,1366 159,1366 137,1366 115,1366 93,1366 71,1366 71,1414 69,1427 1299,1427 1302,1418 1299,1375 479,1366 464,1366"/>
+        <Baseline points="71,1414 1302,1418"/>
+        <TextEquiv>
+          <Unicode>lich dauon ſchwetzet / Ich aber ia meine lere nu ſo viel iar / frey</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_768b9041" >
+        <Coords points="377,1416 355,1416 333,1416 311,1416 290,1416 268,1416 246,1416 224,1416 202,1416 181,1416 159,1416 137,1416 115,1416 93,1416 71,1416 71,1466 69,1477 1297,1479 1302,1470 1299,1422 377,1416 377,1416"/>
+        <Baseline points="71,1466 1302,1470"/>
+        <TextEquiv>
+          <Unicode>lich gnug habe oͤffentlich dar gethan. Aber es ſind koͤnig⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
