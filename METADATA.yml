@@ -1,0 +1,42 @@
+
+schema: https://github.com/tboenig/gt-metadata/tree/master/schema/2022-03-15/schema.json
+title: digi-gt
+url: https://github.com/tboenig/digi-gt
+authors:
+  - name: Lahrsow
+    surname: Miriam
+    roles:
+      - transcriber
+  - name: Weil
+    surname: Stefan
+    roles:
+      - transcriber
+      - project-manager
+      - digitization
+description: >-
+  Ground truth for the digitized historic collections of Universitätsbibliothek
+  Mannheim.
+
+  The transcriptions were done with eScriptorium, a transcription platform
+  developed as part of the Scripta and RESILIENCE projects
+  (https://gitlab.com/scripta/escriptorium/).
+project-name: Die digitalen Sammlungen der Universitätsbibliothek Mannheim
+project-website: https://digi.bib.uni-mannheim.de/
+language:
+  - deu
+  - lat
+script:
+  - Latn
+  - Goth
+script-type: print
+time:
+  notBefore: '1507'
+  notAfter: '1555'
+hands:
+  count: unknown
+  level: level2
+license:
+  - name: CC0 1.0
+    url: https://creativecommons.org/licenses/zero/1.0/
+gtTyp: data_line
+format: Page-XML
