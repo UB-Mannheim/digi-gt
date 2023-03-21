@@ -5,9 +5,13 @@ The transcriptions were done with eScriptorium, a transcription platform
 developed as part of the Scripta and RESILIENCE projects
 (https://gitlab.com/scripta/escriptorium/).
 
-After exporting the transcriptions as PAGE XML files, those files were
-processed to remove empty lines:
+After exporting the transcriptions as PAGE XML files, those without any
+transcription were removed, and empty lines in the remaining ones were
+removed, too.:
 
+    # Remove PAGE XML files without any transcription.
+    rm -v $(grep -L "<Unicode>..*</Unicode>" *.xml)
+    # Remove empty lines in PAGE XML files.
     perl -i -ne "tr|\r||d; next if /^\s*$/;print" *.xml
 
 ### List of transcriptions
@@ -19,6 +23,7 @@ processed to remove empty lines:
 - PPN506281272 – [Bambergische halszgerichts ordenung](http://digi.bib.uni-mannheim.de/urn/urn:nbn:de:bsz:180-digad-32443)
 - PPN1807526488 – [Ioannis Lodovici Vivis Von vnderweÿsung ayner Christlichen Frauwen/ Drey Bücher](http://digi.bib.uni-mannheim.de/urn/urn:nbn:de:bsz:180-digad-36193)
 - PPN1807527700 – [Ioannis Lodovici Vivis Von Gebirliche[m] Thun vnd Lassen aines Ehemanns](http://digi.bib.uni-mannheim.de/urn/urn:nbn:de:bsz:180-digad-36180)
+- PPN1837705283 – [Francisci Gvyeti Andegavi Monobiblos siue generosae poesews specimen (1602)](http://digi.bib.uni-mannheim.de/urn/urn:nbn:de:bsz:180-digad-36293)
 
 ## Links
 
