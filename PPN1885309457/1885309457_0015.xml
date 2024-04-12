@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://digi.bib.uni-mannheim.de/fileadmin/digi/1885309457">
+	<Creator>escriptorium</Creator>
+	<Created>2024-04-10T17:50:54.180283+02:00</Created>
+        <LastChange>2024-04-11T23:01:57.168800+02:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1885309457_0015.jpg" imageWidth="2584" imageHeight="4036">
+    <TextRegion id="eSc_textblock_fb05d668"  custom="structure {type:text;}">
+      <Coords points="827,941 1783,959 1792,1011 717,1011 726,959 827,941"/>
+      <TextLine id="eSc_line_f4127c80" custom="structure {type:default;}">
+        <Coords points="717,991 720,997 722,1042 787,1026 881,1040 939,1047 942,1047 944,1047 966,1038 989,1029 1018,1035 1051,1044 1054,1044 1056,1044 1058,1044 1078,1035 1103,1024 1213,1031 1244,1033 1247,1033 1265,1031 1312,1022 1345,1022 1357,1029 1370,1040 1372,1040 1374,1040 1377,1040 1437,1026 1460,1022 1475,1026 1520,1040 1523,1040 1525,1042 1700,1042 1700,1040 1702,1040 1704,1040 1704,1038 1724,1020 1787,1020 1789,988 1783,959 731,966 717,991"/>
+        <Baseline points="720,997 1789,988"/>
+        <TextEquiv>
+          <Unicode>Fig. I. Kelten und Römer. Originalzeichnung von Th. Walch.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_30110b81"  custom="structure {type:text;}">
+      <Coords points="1240,1300 1307,1327 1265,1417 1540,1435 1576,1470 1558,1540 1354,1558 1361,1585 1289,1623 1292,1668 1693,1686 1720,1746 1621,1793 1650,1811 2142,1838 2133,3387 394,3379 385,1829 457,1802 814,1811 852,1791 807,1755 843,1677 1191,1659 1157,1596 1209,1549 968,1540 942,1443 1235,1417 1211,1363 1240,1300"/>
+      <TextLine id="eSc_line_7822aaf4" custom="structure {type:default;}">
+        <Coords points="1283,1320 1235,1309 1235,1358 1238,1390 1296,1374 1296,1358 1294,1343 1283,1320"/>
+        <Baseline points="1235,1358 1296,1358"/>
+        <TextEquiv conf="0.9119031429290771">
+          <Unicode>I.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a0f29b2b" custom="structure {type:default;}">
+        <Coords points="1554,1452 1547,1448 1444,1448 1426,1430 1426,1428 1424,1428 1422,1428 1419,1428 1417,1428 1390,1441 1361,1428 1359,1428 1357,1428 1280,1430 1278,1430 1276,1430 1276,1432 1265,1443 1251,1432 1251,1430 1249,1430 1247,1430 1161,1430 1159,1430 1157,1430 1155,1430 1130,1450 1128,1450 1018,1448 995,1435 993,1437 971,1439 951,1482 951,1504 951,1531 1105,1544 1108,1544 1253,1529 1260,1529 1262,1529 1314,1542 1316,1542 1318,1542 1321,1542 1352,1526 1357,1526 1361,1526 1406,1540 1408,1540 1410,1540 1556,1524 1558,1497 1554,1452 1554,1452"/>
+        <Baseline points="951,1504 1558,1497"/>
+        <TextEquiv conf="0.9968167386556926">
+          <Unicode>Vorgeſchichtliches.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_29389264" custom="structure {type:default;}">
+        <Coords points="1686,1690 1475,1677 1473,1677 1471,1677 1424,1690 1357,1677 1354,1677 1352,1677 1350,1677 1332,1692 1191,1692 1152,1679 1150,1679 1148,1679 1058,1692 1000,1679 998,1679 995,1679 993,1679 991,1679 968,1695 894,1695 845,1679 843,1679 841,1679 823,1713 825,1739 825,1757 1691,1760 1695,1735 1691,1695 1686,1690"/>
+        <Baseline points="825,1739 1695,1735"/>
+        <TextEquiv conf="0.9999361909352816">
+          <Unicode>Das Loupodunon der Kelten.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_68a9a1fe" custom="structure {type:default;}">
+        <Coords points="2092,1836 2059,1833 2025,1833 1991,1829 1958,1829 1924,1826 1890,1822 1857,1822 1823,1819 1789,1819 1756,1816 1722,1816 1705,1812 423,1809 410,1816 407,1809 376,1809 380,1873 380,1927 531,1927 534,1927 615,1900 884,1913 888,1913 1207,1893 1234,1913 1238,1913 1241,1913 1244,1913 1379,1890 1466,1913 1470,1913 1473,1913 1665,1890 1796,1917 1800,1917 2116,1913 2119,1866 2112,1836 2092,1836"/>
+        <Baseline points="382,1874 2121,1870"/>
+        <TextEquiv>
+          <Unicode>Die oberrheiniſche Tiefebene iſt in den letzten vorgeſchichtlichen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_956b7558" custom="structure {type:default;}">
+        <Coords points="524,1944 524,1970 2123,1967 2126,1940 2116,1886 521,1893 524,1944"/>
+        <Baseline points="525,1946 2128,1941"/>
+        <TextEquiv>
+          <Unicode>Perioden der Erdbildung zuerſt ein Meeresarm geweſen. Dann</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_24b3dd46" custom="structure {type:default;}">
+        <Coords points="394,2018 394,2040 2126,2040 2128,2013 2124,1973 1787,1959 1785,1959 1682,1970 1650,1959 1648,1959 1646,1959 1644,1959 1641,1959 1626,1973 1390,1973 1289,1959 1287,1959 1285,1959 1244,1973 1209,1961 1206,1961 1204,1961 1146,1973 726,1961 724,1961 569,1973 455,1961 453,1961 392,1975 394,2018"/>
+        <Baseline points="394,2018 2128,2013"/>
+        <TextEquiv conf="0.9931666637534526">
+          <Unicode>mit Brackwaſſer gefüllt verwandelte ſie ſich in einen Süßwaſſerſee,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a25739a5" custom="structure {type:default;}">
+        <Coords points="392,2089 392,2107 1691,2112 1693,2112 1745,2100 1754,2100 2126,2100 2128,2080 2124,2040 836,2035 834,2035 390,2049 392,2089"/>
+        <Baseline points="392,2089 2128,2080"/>
+        <TextEquiv conf="0.999388258655866">
+          <Unicode>um endlich mächtigen Maſſen von Geröll, Sand und Schlamm zur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ebd26ee9" custom="structure {type:default;}">
+        <Coords points="397,2161 397,2181 2126,2170 2128,2150 2124,2114 1819,2100 1816,2100 1814,2100 1778,2114 1774,2116 1572,2116 1570,2114 1558,2103 1556,2103 1554,2103 1552,2103 1549,2103 1547,2103 1534,2114 1532,2114 394,2114 397,2161"/>
+        <Baseline points="397,2161 2128,2150"/>
+        <TextEquiv conf="0.9856859417188735">
+          <Unicode>Ablagerung zu dienen. Unter dieſen Anſchwemmungsmaſſen, welchen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_802e2c9f" custom="structure {type:default;}">
+        <Coords points="394,2233 394,2251 630,2262 632,2262 749,2251 782,2248 825,2251 957,2260 960,2260 1058,2251 1105,2246 1211,2246 1217,2251 1229,2257 1231,2257 1233,2257 1235,2257 2124,2246 2126,2222 2121,2183 1886,2170 1884,2170 1742,2183 1733,2183 1720,2183 1437,2172 1435,2172 1433,2172 1388,2186 1383,2186 1359,2186 1143,2174 1141,2174 1087,2186 1076,2188 1031,2186 823,2177 820,2177 818,2177 798,2188 796,2188 771,2177 769,2177 767,2177 713,2188 697,2190 681,2188 630,2179 628,2179 392,2188 394,2233"/>
+        <Baseline points="394,2233 2126,2222"/>
+        <TextEquiv conf="0.989256731727544">
+          <Unicode>die Rhein⸗ und Neckarebene die jetzige Geſtalt ihrer Oberfläche ver⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ebffd9dd" custom="structure {type:default;}">
+        <Coords points="394,2302 394,2322 2126,2320 2128,2296 2124,2255 392,2255 394,2302"/>
+        <Baseline points="394,2302 2128,2296"/>
+        <TextEquiv conf="0.9913380241048508">
+          <Unicode>dankt, befand ſich eine von mehreren Waſſerläufen umfloſſene, hügelig</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_63d88918" custom="structure {type:default;}">
+        <Coords points="397,2374 397,2403 2126,2383 2128,2363 2126,2327 2083,2313 2081,2313 2079,2313 1888,2325 1830,2313 1828,2313 1825,2313 1778,2327 1776,2327 1742,2316 1740,2316 1738,2316 1736,2316 1709,2327 1709,2329 1525,2329 1523,2327 1457,2316 1455,2316 1374,2327 1361,2331 394,2331 397,2374"/>
+        <Baseline points="397,2374 2128,2363"/>
+        <TextEquiv conf="0.9964756378621766">
+          <Unicode>ſich erhebende Inſel, unfern von der Stelle, wo in der Vorzeit der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_99532834" custom="structure {type:default;}">
+        <Coords points="399,2441 399,2461 2128,2457 2130,2437 2126,2401 2025,2387 2023,2387 2020,2387 1973,2399 1955,2387 1953,2387 1951,2387 1949,2387 1946,2387 1944,2387 1931,2399 1929,2399 1920,2399 1763,2387 1760,2387 1758,2387 1733,2399 1731,2399 1718,2387 1715,2387 1713,2387 1711,2387 1709,2387 1706,2387 1693,2399 1689,2401 1527,2401 1514,2396 1469,2387 1466,2387 1352,2396 1305,2399 1296,2396 1276,2387 1274,2387 1271,2387 1269,2387 1238,2394 1215,2401 1197,2394 1182,2390 1179,2390 1177,2390 1152,2394 1123,2401 397,2392 399,2441"/>
+        <Baseline points="399,2441 2130,2437"/>
+        <TextEquiv conf="0.9901756894203925">
+          <Unicode>Neckar ſeinen Hauptſtrom weſtwärts wandte, um bei dem jetzigen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d2634f46" custom="structure {type:default;}">
+        <Coords points="399,2513 399,2535 1917,2535 1920,2509 1915,2473 1821,2459 1819,2459 1816,2459 1796,2470 1774,2459 1772,2459 1769,2459 1767,2459 1731,2470 1729,2473 1576,2473 1574,2470 1563,2459 1561,2459 1558,2459 1556,2459 1397,2470 1366,2470 1359,2468 1323,2459 1321,2459 1318,2459 1316,2459 1285,2468 1278,2470 1271,2468 1249,2459 1247,2459 1244,2459 1242,2459 1224,2468 1220,2470 1209,2468 1161,2459 1159,2459 1157,2459 1134,2468 1123,2473 1090,2468 1045,2461 1043,2461 975,2468 915,2473 874,2466 834,2461 832,2461 807,2466 778,2473 397,2466 399,2513"/>
+        <Baseline points="399,2513 1920,2509"/>
+        <TextEquiv conf="0.9934428752514354">
+          <Unicode>Neckarau gegenüber Altripp ſich in den Rhein zu ergießen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_554f29dc" custom="structure {type:default;}">
+        <Coords points="540,2585 540,2605 2128,2598 2130,2578 2126,2540 2020,2526 2018,2526 2016,2526 1985,2538 1946,2526 1944,2526 1942,2526 1872,2538 1866,2538 1830,2538 1523,2529 1520,2529 1518,2529 1502,2535 1496,2540 1487,2535 1466,2529 1464,2529 1462,2529 1280,2535 1143,2540 1123,2535 1103,2529 1101,2529 1099,2529 1063,2535 1013,2542 538,2533 540,2585"/>
+        <Baseline points="540,2585 2130,2578"/>
+        <TextEquiv conf="0.9893839100996653">
+          <Unicode>Jene Inſel zog durch ihre günſtige überſchwemmungsfreie Lage</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_60706b80" custom="structure {type:default;}">
+        <Coords points="397,2657 397,2677 2126,2668 2128,2650 2124,2612 2043,2598 2041,2598 2038,2598 1996,2609 1996,2612 1763,2612 1760,2609 1745,2598 1742,2598 1740,2598 1574,2598 1572,2598 1570,2598 1538,2609 1527,2612 1482,2607 1392,2600 1390,2600 1186,2607 973,2614 962,2607 957,2603 955,2603 953,2603 951,2603 948,2603 942,2605 926,2614 897,2605 883,2603 881,2603 704,2603 702,2603 699,2603 693,2605 670,2614 394,2605 397,2657"/>
+        <Baseline points="397,2657 2128,2650"/>
+        <TextEquiv conf="0.9982333249515958">
+          <Unicode>die Aufmerkſamkeit der erſten Anſiedler unſrer Gegend auf ſich.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6a25e2f5" custom="structure {type:default;}">
+        <Coords points="399,2726 399,2755 2126,2739 2128,2719 2124,2674 397,2674 399,2726"/>
+        <Baseline points="399,2726 2128,2719"/>
+        <TextEquiv conf="0.9949976460022085">
+          <Unicode>Der Menſch gründet ja ſeine erſten Anſiedelungen ſtets da, wo irgend</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d2444115" custom="structure {type:default;}">
+        <Coords points="397,2798 397,2827 480,2816 856,2822 971,2825 973,2825 2128,2809 2130,2791 2126,2753 1731,2742 1729,2742 1621,2753 1552,2742 1549,2742 1547,2742 1514,2755 1511,2757 1318,2757 1229,2757 1209,2744 1206,2744 1204,2744 1000,2744 998,2744 995,2744 968,2757 962,2757 511,2746 509,2746 506,2746 484,2757 432,2746 430,2746 428,2746 394,2757 397,2798"/>
+        <Baseline points="397,2798 2130,2791"/>
+        <TextEquiv conf="0.9992793057904099">
+          <Unicode>ein Naturvorteil ihm günſtig iſt, auf einer kleinen Anhöhe, an der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a82e5cfb" custom="structure {type:default;}">
+        <Coords points="397,2870 397,2894 2126,2881 2128,2861 2124,2822 2000,2809 1998,2809 1996,2809 1946,2820 394,2820 397,2870"/>
+        <Baseline points="397,2870 2128,2861"/>
+        <TextEquiv conf="0.9926983829754502">
+          <Unicode>Krümmung eines Fluſſes, und ſo wie dieſe Oertlichkeiten, ſo bleiben</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0325d4be" custom="structure {type:default;}">
+        <Coords points="397,2941 397,2957 811,2968 814,2968 863,2959 892,2955 955,2959 1036,2966 1038,2966 1139,2959 1265,2953 1426,2961 1496,2964 1498,2964 1500,2964 1507,2961 1523,2953 1635,2961 1675,2964 1677,2964 1680,2964 1682,2964 1684,2961 1700,2950 1736,2961 1738,2961 1740,2961 1742,2964 1964,2964 1964,2961 1967,2961 2000,2950 2014,2961 2016,2961 2018,2961 2020,2964 2126,2964 2128,2932 2121,2887 1937,2894 1922,2887 1902,2881 1899,2881 1897,2881 1848,2890 1816,2894 1789,2890 1736,2881 1733,2881 1731,2881 1700,2890 1686,2896 1505,2896 1484,2892 1437,2883 1435,2883 1433,2883 1404,2894 1395,2896 1383,2894 1339,2883 1336,2883 1334,2883 1204,2896 1170,2899 1164,2896 1134,2885 1132,2885 1130,2885 917,2899 906,2899 903,2899 843,2885 841,2885 787,2896 661,2887 659,2887 657,2887 623,2901 605,2887 603,2887 601,2887 491,2887 488,2887 394,2903 397,2941"/>
+        <Baseline points="397,2941 2128,2932"/>
+        <TextEquiv conf="0.9868377208709717">
+          <Unicode>auch die Wohnſitze unverändert. Als das ganze Rheinthal noch</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8a85f2e3" custom="structure {type:default;}">
+        <Coords points="2124,2964 1812,2953 1810,2953 1807,2953 1776,2964 1108,2955 1105,2955 1047,2966 1011,2955 1009,2955 1007,2955 394,2970 397,3011 397,3031 1549,3038 1552,3038 2128,3024 2130,3004 2128,3000 2124,2964"/>
+        <Baseline points="397,3011 2130,3004"/>
+        <TextEquiv conf="0.9914711704759887">
+          <Unicode>von zahlloſen Waſſerläufen („Gieſen“) durchzogen und großen Ueber⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ceccbe5e" custom="structure {type:default;}">
+        <Coords points="399,3083 399,3112 1009,3112 1009,3109 1011,3109 1025,3103 1038,3098 1103,3103 1193,3109 1195,3109 1197,3109 1200,3109 1211,3103 1217,3098 1260,3100 1336,3107 1339,3107 1404,3100 1440,3096 1527,3098 1740,3105 1742,3105 1745,3105 1765,3096 1769,3094 1776,3096 1807,3105 1810,3105 1812,3107 2103,3107 2103,3105 2106,3105 2130,3092 2130,3074 2126,3035 397,3035 399,3083"/>
+        <Baseline points="399,3083 2130,3074"/>
+        <TextEquiv conf="0.9931690951188406">
+          <Unicode>ſchwemmungen ausgeſetzt war, während die niedern Ufer Sümpfe</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_979286b1" custom="structure {type:default;}">
+        <Coords points="399,3154 399,3177 2128,3168 2130,3145 2126,3107 1964,3094 1962,3094 1899,3105 1866,3094 1863,3094 1861,3094 1859,3094 1857,3094 1846,3105 1834,3096 1832,3096 1830,3096 1828,3096 1693,3107 1664,3096 1662,3096 1659,3096 1354,3107 1289,3096 1287,3096 1285,3096 1247,3109 1215,3098 1213,3098 1211,3098 1108,3109 1016,3098 1013,3098 1011,3098 975,3109 912,3098 910,3098 785,3112 742,3100 740,3100 737,3100 616,3112 603,3100 601,3100 598,3100 414,3100 412,3100 410,3100 408,3100 397,3107 399,3154"/>
+        <Baseline points="399,3154 2130,3145"/>
+        <TextEquiv conf="0.9830561857957106">
+          <Unicode>bildeten, da bauten die erſten Bewohner ihre Hütten auf den hohen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_61e45b3d" custom="structure {type:default;}">
+        <Coords points="401,3224 401,3244 1460,3242 1462,3219 1457,3181 399,3174 401,3224"/>
+        <Baseline points="401,3224 1462,3219"/>
+        <TextEquiv conf="0.9881770893147117">
+          <Unicode>Ufern und begruben auch da ihre Toten.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_731d988e" custom="structure {type:default;}">
+        <Coords points="545,3296 545,3314 652,3314 668,3325 670,3325 672,3325 675,3325 677,3325 713,3314 877,3325 879,3325 881,3325 908,3314 935,3325 937,3325 939,3325 942,3325 998,3311 1229,3322 1231,3322 1332,3309 1339,3309 1354,3309 1680,3320 1682,3320 1684,3320 1686,3320 1706,3309 2097,3318 2099,3318 2101,3318 2130,3305 2130,3287 2126,3246 1902,3235 1899,3235 1897,3235 1875,3244 1866,3248 1839,3244 1789,3237 1787,3237 1785,3237 1756,3244 1729,3251 1700,3244 1673,3240 1671,3240 1619,3244 1554,3251 1543,3244 1532,3237 1529,3237 1527,3237 1359,3237 1357,3237 1354,3237 1341,3244 1323,3255 1206,3255 1184,3244 1173,3240 1170,3240 1168,3240 1166,3240 1164,3240 1159,3244 1141,3255 995,3255 957,3244 942,3240 939,3240 937,3240 935,3240 933,3240 928,3244 910,3255 816,3244 814,3244 811,3244 809,3244 742,3255 720,3244 715,3242 713,3242 711,3242 542,3242 545,3296"/>
+        <Baseline points="545,3296 2130,3287"/>
+        <TextEquiv conf="0.993344698486657">
+          <Unicode>So iſt&#x27;s auch hier gegangen. Um die noch nicht abgeſchloſ⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7bde3818" custom="structure {type:default;}">
+        <Coords points="399,3365 399,3392 2088,3396 2090,3396 2092,3396 2128,3383 2128,3358 2124,3318 1798,3318 1758,3302 1756,3302 1754,3302 1594,3314 1554,3302 1552,3302 1549,3302 1547,3302 1514,3316 1478,3305 1475,3305 1101,3305 1099,3305 1096,3305 1049,3318 980,3305 977,3305 975,3305 973,3305 953,3320 686,3307 684,3307 681,3307 679,3307 661,3318 565,3309 563,3309 560,3309 558,3309 545,3322 397,3322 399,3365"/>
+        <Baseline points="399,3365 2128,3358"/>
+        <TextEquiv conf="0.9836140722036362">
+          <Unicode>ſenen Unterſuchungen wegen früherer Anſiedler beiſeite zu laſſen, ſo</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_16492e78"  >
+      <Coords points="151,262 151,952 2345,952 2345,262"/>
+    </TextRegion>
+  </Page>
+</PcGts>

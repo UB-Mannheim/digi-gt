@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://digi.bib.uni-mannheim.de/fileadmin/digi/1885309457">
+	<Creator>escriptorium</Creator>
+	<Created>2024-04-10T17:50:56.161001+02:00</Created>
+        <LastChange>2024-04-11T23:02:23.652980+02:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1885309457_0028.jpg" imageWidth="2584" imageHeight="4036">
+    <TextRegion id="eSc_textblock_b29241a1"  custom="structure {type:text;}">
+      <Coords points="468,466 2195,493 2204,3235 2178,3387 439,3379 439,511 468,466"/>
+      <TextLine id="eSc_line_b93557df" custom="structure {type:default;}">
+        <Coords points="2180,491 2157,491 2135,491 2112,491 2090,491 2068,491 2045,488 2023,488 2000,488 1978,488 1955,488 1933,488 1911,488 1888,486 1866,486 1843,486 1821,486 1798,486 1776,486 1754,484 1731,484 1709,484 1686,484 1664,484 1641,484 1619,484 1597,482 1574,482 1552,482 1529,482 1507,482 1484,482 1473,479 466,473 453,484 453,515 450,533 2180,556 2184,529 2182,491 2180,491"/>
+        <Baseline points="453,515 2184,529"/>
+        <TextEquiv conf="0.9808403849601746">
+          <Unicode>Sieger; der hl. Viktor wird auch in Xanten am Niederrhein verehrt,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f58adef8" custom="structure {type:default;}">
+        <Coords points="450,587 448,605 466,616 468,616 471,616 473,616 1119,609 1493,623 1496,623 2184,614 2186,598 2184,558 450,547 450,587"/>
+        <Baseline points="450,587 2186,598"/>
+        <TextEquiv conf="0.9889120058935197">
+          <Unicode>und aus Xanten ſtammt der Drachenſieger Siegfried! So ging in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7d3e965f" custom="structure {type:default;}">
+        <Coords points="448,677 621,690 623,690 1224,683 1321,695 1323,695 2184,686 2186,668 2184,627 1756,627 1747,621 1738,614 1736,614 1733,614 1731,614 1527,618 1345,623 1330,616 1318,612 1316,612 1314,612 1161,614 886,621 836,612 825,609 823,609 771,609 497,618 453,607 450,659 448,677"/>
+        <Baseline points="450,659 2186,668"/>
+        <TextEquiv conf="0.9888347008011558">
+          <Unicode>der Volksſage der Name jenes Biſchofs in den des Drachenbezwingers</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4441293b" custom="structure {type:default;}">
+        <Coords points="450,728 450,760 2182,760 2184,737 2182,697 450,690 450,728"/>
+        <Baseline points="450,728 2184,737"/>
+        <TextEquiv conf="0.9910896920388744">
+          <Unicode>über; der Drache aber erſcheint in vielen verwandten Sagen als</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_438e4d9d" custom="structure {type:default;}">
+        <Coords points="450,802 448,822 1121,822 1123,807 1121,766 1002,766 1000,764 989,753 986,753 984,753 982,753 980,753 977,753 977,755 968,764 966,764 962,764 903,753 901,753 450,757 450,802"/>
+        <Baseline points="450,802 1123,807"/>
+        <TextEquiv conf="0.9837285081545512">
+          <Unicode>Sinnbild des Heidentums.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fd19287e" custom="structure {type:default;}">
+        <Coords points="592,876 589,892 2180,905 2184,881 2184,840 2148,827 2146,827 2144,827 2081,838 2077,838 2063,838 1848,827 1846,827 1843,827 1841,827 1828,836 1821,840 1702,840 1668,834 1617,827 1614,827 1612,827 1588,834 1565,838 1538,831 1516,827 1514,827 1511,827 1473,831 1424,838 1397,831 1374,825 1372,825 1370,825 1341,829 1314,836 1294,829 1280,825 1278,825 1276,825 1161,829 935,836 897,825 894,825 892,825 890,825 888,825 886,825 868,838 670,838 592,822 592,876"/>
+        <Baseline points="592,876 2184,881"/>
+        <TextEquiv conf="0.9815435388258525">
+          <Unicode>Das war ein Anfang, der für unſre Gegend viel verſprach,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ba12f4ca" custom="structure {type:default;}">
+        <Coords points="448,946 446,964 2180,970 2184,952 2182,912 1812,899 1810,899 1706,910 1691,910 1689,910 1673,899 1671,899 1668,899 1666,899 1664,899 1641,910 1637,910 1626,910 1547,896 1545,896 1186,908 1139,908 1134,908 1108,896 1105,896 1103,896 1056,908 1049,908 1045,908 1016,894 1013,894 1011,894 921,905 919,905 874,894 872,894 870,894 868,894 865,894 850,905 847,905 785,894 782,894 780,894 746,905 744,905 733,905 589,894 587,894 448,903 448,946"/>
+        <Baseline points="448,946 2184,952"/>
+        <TextEquiv conf="0.9948904938770063">
+          <Unicode>und doch ſollte derſelbe ohne ſichtliche Nachwirkung bleiben. Denn</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f6af7472" custom="structure {type:default;}">
+        <Coords points="450,1015 448,1040 2180,1042 2184,1024 2182,986 2110,973 2108,973 1911,984 1877,984 1868,982 1830,973 1828,973 1825,973 1783,982 1769,984 1644,984 1641,982 1630,970 1628,970 1626,970 1623,970 1543,979 1525,982 1502,979 1424,970 1422,970 1354,979 1327,982 1321,979 1298,968 1296,968 1294,968 1184,977 1150,979 1141,977 1119,968 1117,968 1114,968 1112,968 1110,968 1096,977 1092,979 1067,977 1004,968 1002,968 1000,968 975,975 962,979 852,979 847,975 838,966 836,966 834,966 832,966 829,966 796,975 785,977 771,975 744,966 742,966 740,966 697,973 675,977 450,973 450,1015"/>
+        <Baseline points="450,1015 2184,1024"/>
+        <TextEquiv conf="0.9976543129467573">
+          <Unicode>nachdem die Burgunder in blutigen Kämpfen gegen den römiſchen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_43566bd5" custom="structure {type:default;}">
+        <Coords points="448,1091 448,1114 2182,1114 2182,1091 2180,1042 448,1049 448,1091"/>
+        <Baseline points="448,1091 2182,1091"/>
+        <TextEquiv>
+          <Unicode>Statthalter Aëtius und deſſen hunniſche Hilfsreiterei vom Jahre 435</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_25c2e2d4" custom="structure {type:default;}">
+        <Coords points="448,1159 446,1177 2180,1183 2184,1165 2182,1125 448,1118 448,1159"/>
+        <Baseline points="448,1159 2184,1165"/>
+        <TextEquiv conf="0.9950514364598403">
+          <Unicode>an mehrmals furchtbare Verluſte erlitten hatten, wanderte das ganze</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1a884386" custom="structure {type:default;}">
+        <Coords points="448,1228 446,1246 2180,1255 2184,1237 2182,1199 2099,1186 2097,1186 2043,1197 2020,1186 2018,1186 2016,1186 1861,1197 1837,1197 1823,1197 1749,1183 1747,1183 1745,1183 1700,1195 1682,1183 1680,1183 1677,1183 1675,1183 1608,1195 1601,1195 1594,1195 1534,1183 1532,1183 1529,1183 1502,1195 1498,1195 1493,1195 1453,1183 1451,1183 1449,1183 1446,1183 1410,1192 1401,1195 1186,1195 1182,1192 1166,1181 1164,1181 1161,1181 1159,1181 1157,1181 1121,1190 1112,1195 964,1195 957,1190 944,1181 942,1181 939,1181 937,1181 825,1190 803,1190 796,1190 767,1179 764,1179 762,1179 760,1179 728,1188 724,1190 722,1188 708,1179 706,1179 704,1179 702,1179 699,1179 677,1188 670,1190 448,1188 448,1228"/>
+        <Baseline points="448,1228 2184,1237"/>
+        <TextEquiv>
+          <Unicode>Volk im Jahre 443 aus und zog vom Rheine ſüdwärts nach Gallien,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_68accded" custom="structure {type:default;}">
+        <Coords points="448,1300 446,1318 915,1334 917,1334 2182,1327 2184,1309 2184,1271 2139,1255 2137,1255 2135,1255 2133,1255 2110,1266 2045,1255 2043,1255 1960,1269 1958,1269 1955,1269 1922,1255 1920,1255 1917,1255 1915,1255 1881,1269 1879,1269 1850,1255 1848,1255 1689,1253 1686,1253 1617,1266 1590,1255 1588,1255 1585,1255 1435,1266 1422,1266 1419,1266 1401,1253 1399,1253 1397,1253 1395,1253 1197,1264 1195,1264 1177,1251 1175,1251 1173,1251 1045,1251 1043,1251 1040,1251 1011,1264 1009,1264 1002,1264 921,1251 919,1251 917,1251 886,1264 883,1264 879,1264 845,1248 843,1248 841,1248 838,1248 809,1262 731,1251 728,1251 448,1260 448,1300"/>
+        <Baseline points="448,1300 2184,1309"/>
+        <TextEquiv conf="0.9919750645979127">
+          <Unicode>wo es in der Landſchaft Sabaudia (Savoyen) feſte Wohnſitze erhielt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c65357f1" custom="structure {type:default;}">
+        <Coords points="592,1372 592,1394 1269,1394 1278,1394 1388,1405 1390,1405 2182,1394 2184,1376 2182,1336 657,1336 592,1322 592,1372"/>
+        <Baseline points="592,1372 2184,1376"/>
+        <TextEquiv conf="0.99634623726209">
+          <Unicode>Auf dies für jene andere Gegend folgenreiche Ereignis iſt in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b702f34a" custom="structure {type:default;}">
+        <Coords points="446,1443 444,1461 2180,1468 2184,1450 2182,1410 446,1403 446,1443"/>
+        <Baseline points="446,1443 2184,1450"/>
+        <TextEquiv conf="0.9920644050552732">
+          <Unicode>unſrer Heimat ein halbes Jahrhundert verhältnismäßiger Ruhe ge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dc97cd11" custom="structure {type:default;}">
+        <Coords points="446,1515 444,1533 1740,1549 1742,1549 2180,1538 2182,1522 2180,1477 446,1473 446,1515"/>
+        <Baseline points="446,1515 2182,1522"/>
+        <TextEquiv conf="0.9995152155558268">
+          <Unicode>folgt. Von dem Kriegszuge des Hunnenkönigs Attila im Jahre 451,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_be42e21d" custom="structure {type:default;}">
+        <Coords points="446,1589 446,1609 2182,1609 2182,1589 2182,1553 2088,1540 2086,1540 2032,1551 1949,1540 1946,1540 1944,1540 1917,1551 1709,1540 1706,1540 1646,1551 1608,1540 1606,1540 1603,1540 1478,1551 1390,1540 1388,1540 1235,1551 1191,1540 1188,1540 1186,1540 1184,1540 1182,1540 1164,1551 1040,1540 1038,1540 962,1551 928,1540 926,1540 924,1540 838,1551 782,1540 780,1540 699,1551 637,1540 634,1540 632,1540 607,1551 565,1540 563,1540 560,1540 558,1540 527,1551 484,1540 482,1540 480,1540 477,1540 446,1551 446,1589"/>
+        <Baseline points="446,1589 2182,1589"/>
+        <TextEquiv conf="0.9772191284194826">
+          <Unicode>einem Zuge der allen Gegenden, welche er durchflutete, das Loos</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8c01e1e9" custom="structure {type:default;}">
+        <Coords points="446,1657 446,1686 2182,1681 2184,1663 2182,1623 446,1609 446,1657"/>
+        <Baseline points="446,1657 2184,1663"/>
+        <TextEquiv conf="0.9930739304912624">
+          <Unicode>fürchterlicher Verheerung brachte, wurde das Neckargebiet nicht un⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3dab193d" custom="structure {type:default;}">
+        <Coords points="446,1728 444,1744 497,1757 500,1760 2182,1760 2184,1733 2180,1686 446,1686 446,1728"/>
+        <Baseline points="446,1728 2184,1733"/>
+        <TextEquiv conf="0.996919140700371">
+          <Unicode>mittelbar betroffen, während z. B. die Stadt Mainz bis auf den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ae60f73e" custom="structure {type:default;}">
+        <Coords points="446,1800 444,1820 2178,1827 2182,1807 2180,1766 446,1753 446,1800"/>
+        <Baseline points="446,1800 2182,1807"/>
+        <TextEquiv conf="0.9914272814466242">
+          <Unicode>Boden verwüſtet wurde. Jedenfalls werden wir uns nach den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7f30aff6" custom="structure {type:default;}">
+        <Coords points="444,1870 444,1899 2182,1899 2184,1878 2182,1838 1863,1827 1861,1827 1859,1827 1837,1836 1830,1838 1816,1836 1772,1827 1769,1827 1767,1827 1765,1827 1754,1836 1747,1838 1702,1836 1565,1825 1563,1825 1462,1834 1437,1836 1413,1834 1312,1822 1309,1822 1307,1822 1285,1834 1256,1834 973,1822 971,1822 908,1831 894,1834 892,1831 877,1820 874,1820 872,1820 870,1820 868,1820 838,1831 836,1831 782,1820 780,1820 778,1820 737,1831 733,1831 720,1831 567,1820 565,1820 563,1820 560,1820 545,1831 540,1831 444,1831 444,1870"/>
+        <Baseline points="444,1870 2184,1878"/>
+        <TextEquiv conf="0.9907774378041752">
+          <Unicode>menſchenmordenden Kriegen der Völkerwanderung die Bevölkerung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7f92d076" custom="structure {type:default;}">
+        <Coords points="444,1944 441,1959 511,1975 513,1975 515,1975 563,1964 836,1964 852,1975 854,1975 856,1975 859,1975 1269,1966 1314,1977 1316,1977 1318,1977 2182,1968 2184,1948 2180,1899 444,1901 444,1944"/>
+        <Baseline points="444,1944 2184,1948"/>
+        <TextEquiv conf="0.9910444136588804">
+          <Unicode>als dünn und ſpärlich vorzuſtellen haben, zumal für das Gebiet</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3c684f11" custom="structure {type:default;}">
+        <Coords points="444,2018 444,2038 1155,2035 1155,2018 1155,1979 1087,1966 1085,1966 1083,1966 1081,1966 1067,1977 1043,1964 1040,1964 1038,1964 1036,1964 991,1977 937,1966 935,1966 816,1977 780,1964 778,1964 776,1964 773,1964 742,1977 693,1964 690,1964 688,1964 686,1964 684,1964 684,1966 670,1979 632,1979 614,1964 612,1964 610,1964 533,1964 531,1964 444,1977 444,2018"/>
+        <Baseline points="444,2018 1155,2018"/>
+        <TextEquiv conf="0.9994761395454407">
+          <Unicode>zwiſchen Neckar und Main.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2d52855a" custom="structure {type:default;}">
+        <Coords points="585,2089 585,2107 2182,2103 2184,2085 2180,2049 1442,2035 1440,2035 1437,2035 1435,2035 1417,2047 1292,2038 1289,2038 1287,2038 1285,2038 1265,2049 868,2038 865,2038 796,2049 731,2038 728,2038 726,2038 677,2049 598,2038 596,2038 594,2038 592,2038 583,2044 585,2089"/>
+        <Baseline points="585,2089 2184,2085"/>
+        <TextEquiv conf="0.9998623620380055">
+          <Unicode>Um dies herrenlos gewordene Gebiet erfolgte nunmehr ein</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ba9f3fa9" custom="structure {type:default;}">
+        <Coords points="444,2161 444,2190 2182,2179 2184,2161 2182,2121 444,2121 444,2161"/>
+        <Baseline points="444,2161 2184,2161"/>
+        <TextEquiv conf="0.9925876411180647">
+          <Unicode>jahrelanger Kampf, welcher zunächſt nicht ſowohl mit den Waffen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_af252684" custom="structure {type:default;}">
+        <Coords points="444,2231 444,2248 2180,2253 2184,2231 2182,2192 444,2190 444,2231"/>
+        <Baseline points="444,2231 2184,2231"/>
+        <TextEquiv conf="0.9993539608441866">
+          <Unicode>des Kriegs geführt wurde, als vielmehr mit den Friedenswerkzeugen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eac7b97e" custom="structure {type:default;}">
+        <Coords points="444,2302 444,2320 2178,2327 2182,2298 2178,2260 473,2251 471,2251 468,2251 441,2260 444,2302"/>
+        <Baseline points="444,2302 2182,2298"/>
+        <TextEquiv conf="0.9948251679025847">
+          <Unicode>mühevoller Urbarmachung und Bebauung des Landes. Von Süden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4eee82c5" custom="structure {type:default;}">
+        <Coords points="444,2374 444,2396 2180,2387 2182,2370 2180,2334 2139,2320 2137,2320 2135,2320 2133,2320 2086,2331 2050,2320 2047,2320 2045,2320 1435,2331 1350,2331 1345,2331 1314,2320 1312,2320 1309,2320 1307,2320 1267,2331 1249,2334 1220,2329 1159,2322 1157,2322 1155,2322 1137,2329 1128,2336 942,2336 933,2329 924,2322 921,2322 919,2322 917,2322 868,2329 836,2334 823,2329 803,2322 800,2322 798,2322 755,2329 726,2334 695,2329 657,2322 654,2322 441,2327 444,2374"/>
+        <Baseline points="444,2374 2182,2370"/>
+        <TextEquiv conf="0.9939033533296278">
+          <Unicode>her gingen die Alemannen wieder vor, um ſich die Rheinufer bis</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_34001631" custom="structure {type:default;}">
+        <Coords points="448,2439 446,2457 457,2468 457,2470 459,2470 462,2470 464,2473 722,2473 722,2470 724,2470 726,2470 746,2459 1060,2473 1063,2473 1422,2461 1482,2461 1516,2464 1664,2475 1666,2475 1733,2466 1749,2464 1756,2466 1780,2475 1783,2475 1785,2475 1787,2475 1816,2466 1825,2464 2175,2468 2180,2446 2178,2408 2000,2394 1998,2394 1996,2394 1964,2405 1962,2405 1926,2405 1601,2392 1599,2392 1540,2403 1532,2403 1511,2403 1392,2392 1390,2392 1321,2401 1298,2403 1235,2401 1076,2392 1074,2392 1072,2392 1043,2399 1027,2403 1009,2399 977,2390 975,2390 973,2390 971,2390 946,2399 937,2401 897,2399 794,2390 791,2390 789,2390 760,2396 744,2401 733,2396 715,2390 713,2390 711,2390 708,2390 688,2396 675,2401 448,2396 448,2439"/>
+        <Baseline points="448,2439 2180,2446"/>
+        <TextEquiv conf="0.9907128489206708">
+          <Unicode>Mainz und bis an den Main zu ſichern. Gleichzeitig aber begann,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7ff78156" custom="structure {type:default;}">
+        <Coords points="446,2511 444,2529 473,2542 475,2542 477,2544 695,2544 695,2542 697,2542 720,2531 834,2542 836,2542 838,2542 879,2531 1025,2544 1027,2547 1345,2547 1345,2544 1406,2533 1480,2544 1482,2544 1565,2533 1646,2547 1648,2547 1767,2535 2155,2547 2157,2547 2160,2547 2162,2547 2178,2533 2180,2518 2178,2479 2043,2466 2041,2466 1982,2477 1980,2477 1976,2477 1861,2466 1859,2466 1597,2475 1558,2464 1556,2464 1554,2464 1099,2475 1025,2475 1020,2475 995,2461 993,2461 991,2461 989,2461 966,2473 964,2475 845,2475 845,2473 832,2461 829,2461 827,2461 825,2461 764,2473 760,2473 755,2473 677,2461 675,2461 446,2470 446,2511"/>
+        <Baseline points="446,2511 2180,2518"/>
+        <TextEquiv conf="0.9904214788655765">
+          <Unicode>anfänglich noch wenig zahlreich, jene fränkiſche Einwanderung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9c5b22fd" custom="structure {type:default;}">
+        <Coords points="446,2585 446,2605 2180,2605 2180,2585 2180,2549 2112,2535 2110,2535 2108,2535 2070,2547 2032,2535 2029,2535 2027,2535 2025,2535 1991,2547 1390,2535 1388,2535 1386,2535 1383,2535 1368,2549 1260,2549 1224,2535 1222,2535 1220,2535 1217,2535 1173,2547 1141,2535 1139,2535 1137,2535 1134,2535 1087,2547 1013,2535 1011,2535 908,2547 807,2535 805,2535 720,2547 583,2535 580,2535 446,2547 446,2585"/>
+        <Baseline points="446,2585 2180,2585"/>
+        <TextEquiv conf="0.9990932236115138">
+          <Unicode>von Norden her, welche in den folgenden Jahrhunderten ſo ge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b3984343" custom="structure {type:default;}">
+        <Coords points="446,2657 446,2674 2182,2681 2184,2657 2184,2618 2088,2605 2086,2605 2023,2616 2000,2605 1998,2605 1996,2605 1994,2605 1971,2616 1953,2605 1951,2605 1949,2605 1946,2605 1736,2616 1718,2616 1713,2616 1671,2605 1668,2605 1666,2605 1664,2605 1641,2616 1639,2616 1637,2616 1592,2605 1590,2605 1588,2605 1585,2605 1583,2605 1570,2616 1567,2616 1534,2605 1532,2605 1529,2605 1527,2605 1525,2605 1511,2616 1509,2616 1473,2605 1471,2605 1469,2605 1466,2605 1437,2616 1433,2618 1256,2618 1251,2614 1240,2605 1238,2605 1235,2605 1233,2605 1231,2605 1206,2614 1200,2616 1195,2614 1166,2605 1164,2605 1161,2605 1159,2605 1121,2614 1112,2616 1092,2614 1013,2605 1011,2605 933,2614 908,2616 874,2614 771,2605 769,2605 767,2605 746,2614 737,2616 446,2614 446,2657"/>
+        <Baseline points="446,2657 2184,2657"/>
+        <TextEquiv conf="0.9899827118903871">
+          <Unicode>waltig zunehmen ſollte. So kam es, daß in den mittelrheiniſchen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a5b6ed85" custom="structure {type:default;}">
+        <Coords points="444,2728 444,2746 1592,2755 1594,2755 2171,2739 2173,2722 2169,2688 1621,2674 1619,2674 1534,2688 1222,2677 1220,2677 1217,2677 1184,2688 1137,2677 1134,2677 1132,2677 1130,2677 1128,2677 1112,2688 1049,2677 1047,2677 1045,2677 998,2690 928,2679 926,2679 693,2690 457,2679 455,2679 453,2679 450,2679 441,2683 444,2728"/>
+        <Baseline points="444,2728 2173,2722"/>
+        <TextEquiv conf="0.9941673278808594">
+          <Unicode>Gebieten — um einen Ausdruck moderner Politik zu gebrauchen —</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3a32ef86" custom="structure {type:default;}">
+        <Coords points="444,2798 444,2820 2178,2818 2180,2793 2175,2757 1834,2757 1807,2744 1805,2744 1803,2744 1801,2744 1798,2744 1780,2757 1410,2757 1314,2744 1312,2744 1251,2757 1244,2757 1242,2757 1229,2746 1226,2746 1224,2746 1222,2746 1130,2757 1112,2757 1096,2757 1018,2746 1016,2746 1013,2746 989,2757 984,2757 971,2757 901,2746 899,2746 441,2755 444,2798"/>
+        <Baseline points="444,2798 2180,2793"/>
+        <TextEquiv conf="0.985074371099472">
+          <Unicode>die Intereſſenſphären der beiden Völker zuſammentrafen, welchen es</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e190f541" custom="structure {type:default;}">
+        <Coords points="444,2872 444,2896 2180,2890 2182,2865 2178,2829 1897,2816 1895,2816 1834,2827 1812,2816 1810,2816 1807,2816 1754,2827 1740,2816 1738,2816 1736,2816 1733,2816 1731,2816 1700,2827 1668,2816 1666,2816 1664,2816 1563,2829 1558,2829 1547,2829 1112,2818 1110,2818 1108,2818 1072,2829 1025,2818 1022,2818 1020,2818 1018,2818 1016,2818 993,2831 989,2831 910,2820 908,2820 681,2831 679,2831 477,2820 475,2820 473,2820 441,2831 444,2872"/>
+        <Baseline points="444,2872 2182,2865"/>
+        <TextEquiv conf="0.9909890046486488">
+          <Unicode>gelungen war, über die Völkerwanderung in ſtetig fortſchreitender</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b1dee59c" custom="structure {type:default;}">
+        <Coords points="441,2941 441,2968 2178,2957 2180,2937 2175,2899 1868,2899 1848,2885 1846,2885 1843,2885 1841,2885 1839,2885 1810,2896 1646,2885 1644,2885 1641,2885 1617,2896 1590,2885 1588,2885 1585,2885 1583,2885 1581,2885 1567,2899 1366,2899 1336,2885 1334,2885 1332,2885 1330,2885 1327,2885 1303,2899 464,2887 462,2887 459,2887 457,2887 439,2896 441,2941"/>
+        <Baseline points="441,2941 2180,2937"/>
+        <TextEquiv conf="0.9889712084585162">
+          <Unicode>landwirtſchaftlicher Entwickelung ihre der römiſchen Herrſchaft ab⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_76458f80" custom="structure {type:default;}">
+        <Coords points="444,3013 444,3033 2108,3038 2110,3038 2184,3024 2184,3009 2182,2973 2142,2959 2139,2959 2137,2959 2135,2959 2106,2970 1937,2959 1935,2959 1933,2959 1931,2959 1915,2973 1545,2973 1471,2959 1469,2959 1392,2970 1361,2959 1359,2959 1357,2959 1354,2959 1307,2973 1256,2961 1253,2961 596,2973 493,2961 491,2961 488,2961 441,2975 444,3013"/>
+        <Baseline points="444,3013 2184,3009"/>
+        <TextEquiv conf="0.9989778116597967">
+          <Unicode>gerungenen Gebiete zu behaupten: der Alemannen am Oberrhein</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d487a133" custom="structure {type:default;}">
+        <Coords points="444,3083 444,3105 2182,3100 2182,3083 2182,3044 444,3044 444,3083"/>
+        <Baseline points="444,3083 2182,3083"/>
+        <TextEquiv conf="0.9926517235821691">
+          <Unicode>und der Franken am Niederrhein. In ſolchem Zuſammentreffen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3ef206de" custom="structure {type:default;}">
+        <Coords points="444,3154 444,3170 1307,3183 1309,3183 1419,3170 1493,3181 1496,3181 1498,3181 1545,3170 2130,3181 2133,3181 2135,3181 2180,3166 2180,3150 2175,3112 2059,3098 2056,3098 1942,3109 1917,3098 1915,3098 1913,3098 1911,3098 1908,3098 1890,3112 1776,3112 1731,3098 1729,3098 1727,3098 1599,3109 1265,3100 1262,3100 1260,3100 1258,3100 1242,3112 605,3100 603,3100 601,3100 569,3112 459,3100 457,3100 455,3100 453,3100 441,3109 444,3154"/>
+        <Baseline points="444,3154 2180,3150"/>
+        <TextEquiv conf="0.983375471830368">
+          <Unicode>beiderſeitiger Intereſſen bergen ſich aber je und je die Keime kriege⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3b65b64f" custom="structure {type:default;}">
+        <Coords points="444,3224 444,3244 2175,3240 2178,3219 2173,3179 1816,3170 1814,3170 1671,3181 1650,3181 1637,3181 1538,3170 1536,3170 1534,3170 1491,3181 1489,3181 1478,3181 1294,3172 1292,3172 1289,3172 1260,3183 1258,3183 1253,3183 1226,3172 1224,3172 1222,3172 870,3183 776,3172 773,3172 697,3183 643,3172 641,3172 639,3172 607,3183 486,3172 484,3172 482,3172 441,3186 444,3224"/>
+        <Baseline points="444,3224 2178,3219"/>
+        <TextEquiv conf="0.9970739126205445">
+          <Unicode>riſcher Verwicklungen (vergl. heutzutage Afrika und Oſtaſien). So</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_19e81efc" custom="structure {type:default;}">
+        <Coords points="446,3291 446,3314 2175,3314 2178,3296 2175,3255 446,3242 446,3291"/>
+        <Baseline points="446,3291 2178,3296"/>
+        <TextEquiv conf="0.9966542500715989">
+          <Unicode>konnte es denn auch nicht ausbleiben, daß mit der Zeit die beiden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_138506ce" custom="structure {type:default;}">
+        <Coords points="2173,3325 2088,3314 2086,3314 1985,3325 1982,3325 1942,3314 1940,3314 1937,3314 1819,3325 1812,3325 1794,3314 1792,3314 1789,3314 1787,3314 1785,3314 1751,3325 1736,3314 1733,3314 1731,3314 1729,3314 1727,3314 1691,3325 1689,3327 1558,3327 1556,3325 1543,3314 1540,3314 1538,3314 1536,3314 1457,3325 1446,3325 1433,3325 1354,3314 1352,3314 1350,3314 1321,3325 1314,3327 1040,3327 1034,3322 1009,3314 1007,3314 1004,3314 1002,3314 1000,3314 986,3322 982,3325 962,3322 892,3314 890,3314 816,3322 791,3325 769,3322 713,3314 711,3314 446,3320 446,3363 446,3396 1224,3405 1226,3405 1229,3405 1231,3405 1235,3401 1247,3394 1554,3394 1765,3403 1810,3405 1812,3405 1814,3405 1819,3405 1848,3394 1893,3405 1899,3405 1902,3405 1929,3405 2128,3394 2173,3405 2178,3363 2178,3358 2173,3325"/>
+        <Baseline points="446,3363 2178,3363"/>
+        <TextEquiv conf="0.9918016074225307">
+          <Unicode>wetteifernden Völker den zunehmenden Hader zu kriegeriſchem Aus⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_3e1d1cfc"  custom="structure {type:text;}">
+      <Coords points="1323,394 1361,394 1361,410 1300,410 1323,394"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_1a8646fe"  custom="structure {type:text;}">
+      <Coords points="1341,349 1361,349 1361,374 1336,374 1341,349"/>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_c2461fc5" custom="structure {type:default;}">
+        <Coords points="1281,386 1278,420 1366,423 1372,390 1372,336 1281,332 1281,386"/>
+        <Baseline points="1284,390 1374,392"/>
+        <TextEquiv>
+          <Unicode>14</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

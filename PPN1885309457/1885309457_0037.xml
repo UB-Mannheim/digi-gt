@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://digi.bib.uni-mannheim.de/fileadmin/digi/1885309457">
+	<Creator>escriptorium</Creator>
+	<Created>2024-04-10T17:50:57.513666+02:00</Created>
+        <LastChange>2024-04-11T23:02:42.306314+02:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1885309457_0037.jpg" imageWidth="2584" imageHeight="4036">
+    <TextRegion id="eSc_textblock_1d426200"  custom="structure {type:text;}">
+      <Coords points="361,484 2097,502 2079,3396 1902,3450 1890,3414 1738,3405 331,3387 361,484"/>
+      <TextLine id="eSc_line_e17585b5" custom="structure {type:default;}">
+        <Coords points="2061,500 2038,500 2016,500 1994,500 1971,500 1949,500 1926,500 1904,500 1881,500 1859,497 1837,497 1814,497 1792,497 1769,497 1747,497 1724,497 1702,497 1680,497 1657,495 1635,495 1612,495 1590,495 1567,495 1545,495 1523,495 1500,495 1478,495 1455,495 1433,493 1410,493 1388,493 1366,493 1343,493 1321,493 1298,493 1276,493 1253,493 1231,493 1209,491 1186,491 1164,491 1141,491 1119,491 1096,491 1074,491 1051,491 1029,491 1007,488 984,488 962,488 939,488 917,488 894,488 872,488 850,488 827,488 805,488 782,486 760,486 737,486 715,486 693,486 670,486 648,486 625,486 603,486 580,486 563,484 356,484 356,526 354,544 372,556 374,556 376,556 379,556 679,547 697,558 699,558 702,558 704,558 2081,553 2083,538 2081,500 2061,500"/>
+        <Baseline points="356,526 2083,538"/>
+        <TextEquiv conf="0.9945547502548968">
+          <Unicode>Ackerfeld in Lobedenburg, geleitet von dem frommen Grundſatz:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c47ebed8" custom="structure {type:default;}">
+        <Coords points="358,600 358,623 1195,623 1200,623 1222,634 1224,634 1226,634 1464,625 1478,625 1489,625 1659,636 1662,636 2083,625 2086,609 2083,567 358,556 358,600"/>
+        <Baseline points="358,600 2086,609"/>
+        <TextEquiv conf="0.9932599067687988">
+          <Unicode>Jener hat ſein Vermögen in dieſer Welt wohl beſeſſen, der ſich mit den</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_562caac7" custom="structure {type:default;}">
+        <Coords points="352,672 352,692 847,692 856,692 937,704 939,704 1464,695 1496,695 1505,695 1635,706 1637,706 2083,695 2086,679 2086,639 1991,625 1989,625 1987,625 1946,636 1944,639 1675,639 1668,636 1619,625 1617,625 1567,636 1561,636 1554,636 1502,623 1500,623 1498,623 1204,634 1179,634 1164,634 1013,623 1011,623 964,634 957,634 955,634 930,621 928,621 926,621 924,621 921,621 908,632 717,621 715,621 352,630 352,672"/>
+        <Baseline points="352,672 2086,679"/>
+        <TextEquiv conf="0.9883685219483297">
+          <Unicode>hinfälligen Gütern ewige Belohnungen erwirbt. Außerdem werden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f332dc02" custom="structure {type:default;}">
+        <Coords points="354,742 352,757 412,771 414,771 856,762 977,773 980,773 2081,764 2083,748 2081,710 1538,697 1536,697 1534,697 1511,708 1507,708 1502,706 1462,695 1460,695 1457,695 1404,706 1401,706 1399,706 1296,695 1294,695 1186,706 1177,706 1168,706 1096,695 1094,695 794,704 780,704 755,692 753,692 751,692 749,692 706,704 684,692 681,692 679,692 354,701 354,742"/>
+        <Baseline points="354,742 2083,748"/>
+        <TextEquiv conf="0.9990044737619067">
+          <Unicode>noch in Urkunden auswärtiger Beſitzer als Beſtandteile größerer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4f3d4c2f" custom="structure {type:default;}">
+        <Coords points="356,813 354,829 417,843 419,843 2079,840 2081,820 2077,775 1713,780 1697,771 1691,769 1689,769 1686,769 1664,771 1599,780 1558,771 1552,769 1549,769 1547,769 1545,769 1540,771 1523,780 1498,771 1489,766 1487,766 1484,766 1482,766 1475,769 1457,780 1262,780 1240,769 1235,766 1233,766 1081,766 1078,766 1074,766 1025,778 1009,766 1007,766 1004,766 1002,766 995,766 859,775 684,764 679,764 677,764 675,764 538,775 511,764 509,764 506,764 444,775 356,762 356,813"/>
+        <Baseline points="356,813 2081,820"/>
+        <TextEquiv conf="0.9992030970120834">
+          <Unicode>Schenkungen Wieſen auf der Lobedenowa in den Jahren 808 und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c6e84797" custom="structure {type:default;}">
+        <Coords points="352,883 349,901 843,917 845,917 1195,908 1217,919 1220,919 1222,919 2081,910 2083,892 2081,847 352,843 352,883"/>
+        <Baseline points="352,883 2083,892"/>
+        <TextEquiv>
+          <Unicode>851 aufgeführt. Dieſe Lobdenaue iſt jedenfalls der früher durch einen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7f34dad4" custom="structure {type:default;}">
+        <Coords points="354,957 352,975 2079,982 2083,964 2081,921 354,905 354,957"/>
+        <Baseline points="354,957 2083,964"/>
+        <TextEquiv conf="0.9959343345197913">
+          <Unicode>Neckararm, den jetzt trockenen Gieſen, zur Inſel geſtaltete Teil hieſiger</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_47114f27" custom="structure {type:default;}">
+        <Coords points="349,1029 347,1044 601,1058 603,1058 2079,1053 2081,1033 2079,993 349,986 349,1029"/>
+        <Baseline points="349,1029 2081,1033"/>
+        <TextEquiv conf="0.9989496583030337">
+          <Unicode>Gemarkung, welcher teilweiſe noch heute den Namen Aufeld führt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eb034e86" custom="structure {type:default;}">
+        <Coords points="491,1098 488,1114 569,1127 571,1127 2079,1125 2081,1105 2079,1065 2009,1051 2007,1051 2005,1051 2003,1051 1989,1062 1937,1051 1935,1051 1933,1051 1899,1062 1897,1062 1895,1062 1843,1051 1841,1051 1839,1051 1796,1062 1792,1062 1780,1062 1677,1051 1675,1051 1673,1051 1671,1051 1659,1060 1657,1065 1552,1065 1536,1060 1473,1049 1471,1049 1469,1049 1433,1060 1428,1060 1426,1060 1388,1049 1386,1049 1383,1049 1303,1060 1287,1060 1271,1060 1182,1049 1179,1049 1177,1049 1175,1049 1164,1058 1159,1062 1022,1062 1016,1058 991,1047 989,1047 986,1047 906,1058 892,1058 879,1056 809,1047 807,1047 746,1056 731,1058 713,1056 659,1047 657,1047 654,1047 628,1056 616,1058 491,1056 491,1098"/>
+        <Baseline points="491,1098 2081,1105"/>
+        <TextEquiv conf="0.9883399893130574">
+          <Unicode>Auch die ſchon früher erwähnten Nachbarorte Cilolfesheim</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_467666f4" custom="structure {type:default;}">
+        <Coords points="349,1139 349,1170 347,1186 2074,1195 2079,1179 2077,1136 352,1127 349,1139"/>
+        <Baseline points="349,1170 2079,1179"/>
+        <TextEquiv conf="0.9923976298534509">
+          <Unicode>und Botesheim ſind im Lorſcher Schenkungsbuche mehrfach beteiligt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bb1808ab" custom="structure {type:default;}">
+        <Coords points="349,1239 349,1266 2077,1266 2079,1248 2077,1208 349,1192 349,1239"/>
+        <Baseline points="349,1239 2079,1248"/>
+        <TextEquiv conf="0.9911953677733739">
+          <Unicode>Für unſer Ladenburg ſelbſt iſt der Mangel einer Mehrzahl von</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8f961139" custom="structure {type:default;}">
+        <Coords points="352,1311 349,1331 2074,1336 2079,1318 2079,1278 352,1266 352,1311"/>
+        <Baseline points="352,1311 2079,1318"/>
+        <TextEquiv conf="0.9766668908631624">
+          <Unicode>Schenkungen aus den damaligen Beſitzverhältniſſen zu erklären. Denn</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_417ac6a6" custom="structure {type:default;}">
+        <Coords points="2074,1349 1924,1336 1922,1336 1920,1336 1895,1347 1893,1347 1890,1347 1870,1336 1868,1336 1866,1336 1863,1336 1832,1345 1825,1347 1796,1345 1697,1336 1695,1336 1549,1343 1478,1345 1469,1340 1457,1334 1455,1334 1453,1334 1451,1334 1449,1334 1433,1340 1426,1345 1419,1340 1410,1334 1408,1334 1406,1334 1404,1334 1294,1340 1188,1345 1101,1338 1056,1334 1054,1334 1027,1336 955,1345 935,1336 926,1331 924,1331 921,1331 919,1331 908,1336 886,1343 874,1334 872,1331 870,1331 868,1331 865,1331 863,1331 854,1334 825,1343 717,1334 695,1331 693,1331 677,1331 580,1343 522,1331 520,1331 518,1331 515,1331 502,1345 397,1345 352,1329 349,1381 349,1403 906,1403 908,1403 921,1414 924,1414 926,1414 928,1414 1410,1405 1433,1405 1440,1405 1554,1417 1556,1417 2074,1405 2077,1387 2074,1349"/>
+        <Baseline points="349,1381 2077,1387"/>
+        <TextEquiv conf="0.9953043994618885">
+          <Unicode>wenn das geſamte frühere Königsgut ſich in biſchöflichem Beſitz be⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c55bb725" custom="structure {type:default;}">
+        <Coords points="347,1452 347,1479 2079,1475 2081,1459 2077,1410 1915,1421 1837,1408 1832,1408 1830,1408 1825,1408 1756,1421 1601,1408 1599,1408 1597,1408 1543,1421 1466,1405 1460,1405 1457,1405 1455,1405 1453,1405 1417,1421 1238,1421 1188,1405 1186,1405 1184,1405 1182,1405 1179,1405 1161,1421 1108,1421 1078,1405 1076,1405 977,1405 975,1405 973,1405 924,1419 856,1403 854,1403 852,1403 850,1403 847,1403 825,1417 764,1403 762,1403 760,1403 758,1403 740,1419 569,1419 538,1403 536,1403 533,1403 473,1417 450,1403 448,1403 446,1403 444,1403 441,1403 439,1403 421,1417 347,1401 347,1452"/>
+        <Baseline points="347,1452 2081,1459"/>
+        <TextEquiv conf="0.9895120749870936">
+          <Unicode>fand, ſo mag in den Händen frommer Privatbeſitzer nicht mehr</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a591d4f0" custom="structure {type:default;}">
+        <Coords points="345,1538 372,1553 374,1553 376,1553 567,1542 583,1553 585,1553 587,1553 589,1553 1011,1544 1090,1544 1099,1547 1134,1556 1137,1556 1139,1556 1193,1547 1213,1544 1253,1547 1357,1558 1359,1558 1361,1558 1383,1549 1388,1547 1392,1549 1404,1558 1406,1558 1408,1558 1410,1558 1413,1558 1440,1549 1451,1547 1462,1551 1484,1558 1487,1558 1489,1558 1491,1558 1520,1551 1540,1547 1585,1551 1662,1560 1664,1560 1666,1560 1697,1553 1713,1549 1722,1553 1738,1560 1740,1560 1742,1560 2077,1556 2079,1533 2077,1488 1814,1479 1812,1479 1776,1484 1731,1491 1668,1484 1614,1477 1612,1477 1570,1482 1520,1488 1453,1482 1410,1477 1408,1477 1379,1479 1323,1488 1296,1479 1287,1477 1285,1477 1283,1477 1280,1477 1278,1477 1276,1479 1265,1488 1191,1479 1157,1475 1155,1475 1126,1477 1060,1486 1038,1477 1031,1475 1029,1475 1027,1475 1009,1477 946,1486 903,1475 899,1475 897,1475 894,1475 892,1475 890,1475 874,1488 780,1488 753,1475 749,1473 746,1473 744,1473 690,1475 428,1484 397,1473 394,1473 392,1473 390,1473 388,1473 372,1484 352,1470 347,1524 345,1538"/>
+        <Baseline points="347,1524 2079,1533"/>
+        <TextEquiv conf="0.9922878713834853">
+          <Unicode>allzuviel ſchenkbarer Grund und Boden übrig geblieben ſein. Wir</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_885153bd" custom="structure {type:default;}">
+        <Coords points="347,1594 345,1612 423,1625 426,1625 1200,1618 1673,1632 1675,1632 2077,1621 2079,1603 2079,1562 1720,1549 1718,1549 1684,1556 1666,1560 1657,1556 1637,1547 1635,1547 1632,1547 1630,1547 1601,1556 1590,1560 1363,1560 1318,1551 1285,1547 1283,1547 1280,1547 1278,1547 1274,1551 1262,1558 1238,1551 1215,1544 1213,1544 1211,1544 1209,1544 1186,1549 1164,1556 1152,1549 1146,1544 1143,1544 1141,1544 1139,1544 1081,1549 989,1556 926,1547 908,1544 906,1544 883,1547 794,1556 733,1544 720,1542 717,1542 715,1542 711,1544 686,1553 614,1542 605,1542 603,1542 594,1542 477,1553 459,1542 457,1542 455,1542 453,1542 450,1542 423,1553 347,1540 347,1594"/>
+        <Baseline points="347,1594 2079,1603"/>
+        <TextEquiv conf="0.9911296454028807">
+          <Unicode>dürfen dabei nicht vergeſſen, daß die Ladenburger Mark ihren jetzigen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_734d8d17" custom="structure {type:default;}">
+        <Coords points="347,1665 347,1697 2077,1697 2079,1672 2079,1634 1731,1634 1724,1630 1711,1621 1709,1621 1706,1621 1704,1621 1702,1621 1682,1627 1673,1632 1664,1627 1646,1621 1644,1621 1641,1621 1639,1621 1637,1621 1626,1627 1619,1632 1583,1627 1532,1621 1529,1621 1473,1625 1433,1630 1422,1625 1406,1618 1404,1618 1401,1618 1372,1625 1348,1630 1303,1623 1256,1618 1253,1618 1211,1623 1152,1630 1137,1623 1130,1618 1128,1618 1126,1618 1123,1618 1112,1621 1090,1630 1076,1621 1072,1618 1069,1618 1067,1618 1065,1618 1036,1621 951,1630 933,1621 928,1616 926,1616 924,1616 921,1616 903,1618 868,1627 657,1616 634,1616 632,1616 625,1616 545,1627 522,1616 520,1616 347,1614 347,1665"/>
+        <Baseline points="347,1665 2079,1672"/>
+        <TextEquiv conf="0.9985666313479024">
+          <Unicode>ſtattlichen Umfang erſt nach dem Eingehen der beiden genannten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_74851381" custom="structure {type:default;}">
+        <Coords points="347,1735 345,1762 666,1755 677,1760 688,1766 690,1766 693,1766 845,1757 874,1757 877,1757 903,1769 906,1769 908,1769 989,1755 991,1739 991,1701 955,1688 953,1688 951,1688 347,1688 347,1735"/>
+        <Baseline points="347,1735 991,1739"/>
+        <TextEquiv conf="0.991447833677133">
+          <Unicode>Nachbarorte erlangt hat.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_60399664" custom="structure {type:default;}">
+        <Coords points="491,1809 488,1829 2072,1831 2077,1813 2074,1773 1570,1760 1567,1760 1529,1766 1498,1771 1471,1764 1449,1760 1446,1760 1444,1760 1419,1764 1390,1771 1359,1764 1341,1760 1339,1760 1336,1760 1316,1764 1285,1771 1267,1762 1253,1757 1251,1757 1249,1757 1247,1757 1235,1762 1224,1769 652,1757 650,1757 648,1757 612,1769 491,1755 491,1809"/>
+        <Baseline points="491,1809 2077,1813"/>
+        <TextEquiv conf="0.9966745564812108">
+          <Unicode>Zum Erſatz dafür, daß uns das Lorſcher Schenkungsbuch nur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ca58b31d" custom="structure {type:default;}">
+        <Coords points="345,1876 343,1894 1038,1912 1040,1912 2074,1905 2077,1887 2077,1849 1994,1834 1991,1834 1774,1845 1747,1845 1745,1845 1718,1831 1715,1831 1713,1831 1518,1840 1473,1843 1462,1840 1433,1831 1431,1831 1428,1831 1426,1831 1424,1831 1413,1840 1408,1843 1399,1840 1372,1829 1370,1829 1368,1829 1366,1829 1336,1838 1327,1840 1269,1838 1108,1829 1105,1829 1069,1836 1038,1840 1007,1834 968,1827 966,1827 863,1834 764,1838 722,1831 688,1825 686,1825 650,1829 612,1836 601,1829 596,1825 594,1825 592,1825 589,1825 587,1825 578,1829 563,1836 345,1827 345,1876"/>
+        <Baseline points="345,1876 2077,1887"/>
+        <TextEquiv conf="0.9883943708503947">
+          <Unicode>die eine ſpärliche Mitteilung über eine hieſige Vergabung darbietet,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_be4ed89f" custom="structure {type:default;}">
+        <Coords points="345,1948 343,1961 426,1975 428,1975 621,1966 1036,1979 1038,1979 2070,1973 2072,1959 2072,1919 2014,1905 2012,1905 2009,1905 1749,1917 1733,1917 1731,1917 1711,1903 1709,1903 1706,1903 1704,1903 1466,1914 1437,1914 1433,1914 1417,1903 1415,1903 1413,1903 1410,1903 1408,1903 1406,1903 1390,1912 1390,1914 1388,1912 1374,1901 1372,1901 1370,1901 1368,1901 1366,1901 1325,1912 1323,1912 1280,1901 1278,1901 1132,1901 1130,1901 1128,1901 1126,1901 1117,1910 1112,1912 1074,1910 928,1899 926,1899 924,1899 892,1908 881,1910 345,1903 345,1948"/>
+        <Baseline points="345,1948 2072,1959"/>
+        <TextEquiv conf="0.9746971835692724">
+          <Unicode>bringt es uns neue Beweiſe für die Bedeutung unſrer Stadt im</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c1f8d7fc" custom="structure {type:default;}">
+        <Coords points="349,2022 349,2047 2072,2047 2074,2029 2072,1986 1511,1986 1502,1979 1493,1973 1491,1973 1489,1973 1487,1973 1260,1977 980,1982 937,1973 919,1970 917,1970 823,1973 531,1979 349,1968 349,2022"/>
+        <Baseline points="349,2022 2074,2029"/>
+        <TextEquiv conf="0.9795226244365468">
+          <Unicode>Zeitalter der karolingiſchen Herrſcher. Für eine erhebliche Zahl von</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_846bb8e0" custom="structure {type:default;}">
+        <Coords points="343,2087 340,2105 383,2118 385,2118 388,2121 2074,2121 2077,2100 2077,2060 2032,2047 2029,2047 2027,2047 2025,2047 1996,2058 1969,2047 1967,2047 1964,2047 1875,2058 1747,2044 1745,2044 1742,2044 1693,2058 1558,2058 1540,2044 1538,2044 1536,2044 1534,2044 1437,2053 1422,2042 1419,2042 1417,2042 1415,2042 1413,2042 1410,2042 1395,2053 1253,2042 1251,2042 1177,2051 1161,2040 1159,2040 1157,2040 1155,2040 955,2051 917,2038 915,2038 912,2038 654,2049 632,2035 630,2035 628,2035 625,2035 623,2035 585,2047 486,2035 484,2035 343,2047 343,2087"/>
+        <Baseline points="343,2087 2077,2100"/>
+        <TextEquiv conf="0.9793887164662866">
+          <Unicode>wichtigen Rechtsgeſchäften und Gerichtsverhandlungen iſt unſre Stadt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_be01fda5" custom="structure {type:default;}">
+        <Coords points="343,2161 340,2177 363,2190 365,2190 367,2190 666,2181 776,2192 778,2192 2072,2186 2074,2170 2074,2132 343,2123 343,2161"/>
+        <Baseline points="343,2161 2074,2170"/>
+        <TextEquiv conf="0.9924108386039734">
+          <Unicode>als der Ort angegeben, in welchem oder bei welchem jene Verhand⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a43b8cab" custom="structure {type:default;}">
+        <Coords points="340,2233 338,2253 2070,2257 2074,2239 2072,2201 2014,2188 2012,2188 2009,2188 1964,2199 1962,2199 1951,2199 1769,2188 1767,2188 1724,2197 1713,2199 1700,2197 1659,2188 1657,2188 1655,2188 1623,2197 1610,2199 1588,2197 1534,2188 1532,2188 1529,2188 1509,2195 1498,2199 1487,2195 1464,2186 1462,2186 1460,2186 1217,2192 1058,2197 1045,2190 1034,2186 1031,2186 340,2186 340,2233"/>
+        <Baseline points="340,2233 2074,2239"/>
+        <TextEquiv conf="0.9854208641364927">
+          <Unicode>lungen vorgenommen wurden. Dabei iſt die Schreibweiſe und Be⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_db8b9ac3" custom="structure {type:default;}">
+        <Coords points="343,2307 343,2338 464,2327 536,2336 556,2338 558,2338 560,2338 567,2336 587,2327 776,2327 787,2334 796,2338 798,2338 800,2338 803,2338 1256,2325 1256,2307 1256,2269 1184,2255 1182,2255 948,2266 935,2255 933,2255 930,2255 928,2255 926,2255 886,2266 805,2255 803,2255 800,2255 798,2255 782,2269 679,2269 641,2255 639,2255 637,2255 634,2255 632,2255 632,2257 621,2269 468,2269 401,2255 399,2255 343,2266 343,2307"/>
+        <Baseline points="343,2307 1256,2307"/>
+        <TextEquiv conf="0.9981303249086653">
+          <Unicode>zeichnung eine mehrfach wechſelnde.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6fcfda0d" custom="structure {type:default;}">
+        <Coords points="486,2376 484,2396 2072,2403 2077,2381 2074,2336 486,2329 486,2376"/>
+        <Baseline points="486,2376 2077,2381"/>
+        <TextEquiv conf="0.9891170941550156">
+          <Unicode>Schon aus der Zeit vor der Gründung von Lorſch datiert die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_31f9dd96" custom="structure {type:default;}">
+        <Coords points="343,2446 340,2464 410,2477 412,2477 1359,2470 1498,2482 1500,2482 2070,2470 2072,2452 2070,2412 1884,2399 1881,2399 1879,2399 1877,2399 1859,2410 1857,2412 1693,2412 1691,2410 1668,2399 1666,2399 1664,2399 1460,2408 1431,2396 1428,2396 1426,2396 1424,2396 1377,2408 1374,2408 1366,2408 1063,2396 1060,2396 1058,2396 1036,2408 1034,2408 1031,2408 995,2396 993,2396 991,2396 935,2408 926,2408 917,2408 870,2394 868,2394 865,2394 343,2403 343,2446"/>
+        <Baseline points="343,2446 2072,2452"/>
+        <TextEquiv conf="0.9902338728760228">
+          <Unicode>Schenkung einiger Huben in Weinheim an die Peterskirche zu Heppen⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e237e946" custom="structure {type:default;}">
+        <Coords points="338,2515 336,2544 2072,2544 2074,2524 2074,2484 1778,2470 1776,2470 1619,2479 1592,2468 1590,2468 1588,2468 1585,2468 1558,2479 1558,2482 1437,2482 1435,2479 1422,2468 1419,2468 1417,2468 1415,2468 1413,2468 1390,2479 1388,2479 1372,2479 1215,2468 1213,2468 1168,2477 1128,2466 1126,2466 1123,2466 1065,2477 1063,2477 1029,2466 1027,2466 1025,2466 338,2473 338,2515"/>
+        <Baseline points="338,2515 2074,2524"/>
+        <TextEquiv conf="0.9985335853792006">
+          <Unicode>heim, geſchehen in der Villa Butthesheim nahe bei Lobetdenbure</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e8d15948" custom="structure {type:default;}">
+        <Coords points="343,2585 340,2605 2070,2612 2074,2594 2072,2553 1644,2553 1623,2547 1594,2540 1592,2540 1590,2540 1424,2544 1276,2549 1238,2542 1206,2538 1204,2538 1056,2540 778,2547 758,2538 753,2535 751,2535 749,2535 702,2535 480,2544 343,2533 343,2585"/>
+        <Baseline points="343,2585 2074,2594"/>
+        <TextEquiv conf="0.9903840381523659">
+          <Unicode>755. In den Jahren 765 und folgenden wurde verhandelt über</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ae6c26d3" custom="structure {type:default;}">
+        <Coords points="343,2659 340,2677 412,2690 414,2692 2070,2692 2072,2666 2070,2625 343,2618 343,2659"/>
+        <Baseline points="343,2659 2072,2666"/>
+        <TextEquiv conf="0.9988157991319895">
+          <Unicode>Schenkungen in Handſchuhsheim und andern Orten, im feſten Platze</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_03117450" custom="structure {type:default;}">
+        <Coords points="340,2726 338,2748 2068,2755 2072,2737 2070,2692 340,2686 340,2726"/>
+        <Baseline points="340,2726 2072,2737"/>
+        <TextEquiv conf="0.9965839962490269">
+          <Unicode>(castrum) Lobodone, in der öffentlichen Stadt Loboduna, wobei</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8a4a8aa3" custom="structure {type:default;}">
+        <Coords points="340,2798 338,2816 2065,2827 2070,2809 2068,2764 340,2753 340,2798"/>
+        <Baseline points="340,2798 2070,2809"/>
+        <TextEquiv conf="0.9919347447507522">
+          <Unicode>die Anwendung der überlieferten keltiſch⸗römiſchen Schreibweiſe wohl</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_150666d4" custom="structure {type:default;}">
+        <Coords points="340,2872 340,2899 2068,2899 2070,2879 2068,2836 1879,2825 1877,2825 1825,2834 1814,2836 1812,2834 1798,2825 1796,2825 1794,2825 1792,2825 1789,2825 1787,2825 1778,2834 1774,2838 1612,2838 1606,2834 1588,2825 1585,2825 1583,2825 1520,2834 1498,2836 1469,2834 1370,2822 1368,2822 1366,2822 1332,2834 1325,2834 1321,2834 1285,2822 1283,2822 1280,2822 1155,2831 1130,2834 1114,2831 1045,2822 1043,2822 1040,2822 1009,2831 1000,2834 986,2831 915,2820 912,2820 340,2829 340,2872"/>
+        <Baseline points="340,2872 2070,2879"/>
+        <TextEquiv conf="0.9969418599055364">
+          <Unicode>zu bemerken iſt. Dieſelbe Schreibweiſe finden wir auch in der Ur⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_70719f53" custom="structure {type:default;}">
+        <Coords points="338,2939 336,2957 370,2970 372,2970 374,2970 1361,2966 1406,2977 1408,2977 1410,2977 1619,2968 1724,2979 1727,2979 2068,2968 2070,2950 2070,2912 2038,2899 2036,2899 2034,2899 1879,2910 1870,2910 1866,2910 1801,2899 1798,2899 1796,2899 1767,2910 1763,2910 1760,2910 1718,2896 1715,2896 1713,2896 1711,2896 1689,2908 1675,2896 1673,2896 1671,2896 1668,2896 1666,2896 1630,2908 1628,2908 1623,2908 1502,2896 1500,2896 1498,2896 1462,2908 1457,2908 1453,2908 1431,2896 1428,2896 1426,2896 1424,2896 1386,2905 1379,2908 1370,2905 1334,2894 1332,2894 1330,2894 1204,2905 1186,2905 1179,2905 1148,2894 1146,2894 1143,2894 1083,2903 1067,2905 1034,2903 903,2892 901,2892 776,2901 737,2903 690,2901 545,2890 542,2890 338,2896 338,2939"/>
+        <Baseline points="338,2939 2070,2950"/>
+        <TextEquiv conf="0.9909450023893326">
+          <Unicode>kunde über eine Schenkung an das Kloſter Fulda, welche Walaram⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e0736486" custom="structure {type:default;}">
+        <Coords points="338,3013 336,3031 998,3047 1000,3047 1442,3038 1549,3049 1552,3049 2068,3038 2070,3020 2068,2979 338,2968 338,3013"/>
+        <Baseline points="338,3013 2070,3020"/>
+        <TextEquiv conf="0.9997351531122551">
+          <Unicode>nus von Schwabenheim unter Zeugenſchaft des Gaugrafen Warinus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ecf5ab55" custom="structure {type:default;}">
+        <Coords points="338,3083 336,3109 2063,3118 2068,3089 2065,3040 338,3040 338,3083"/>
+        <Baseline points="338,3083 2068,3089"/>
+        <TextEquiv conf="0.9996881011932616">
+          <Unicode>hier im Jahre 762 verbriefen ließ, ein Zeichen davon, auf welch</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2f198280" custom="structure {type:default;}">
+        <Coords points="338,3154 336,3174 728,3188 731,3188 852,3179 854,3179 856,3179 935,3190 937,3190 2065,3183 2068,3161 2065,3123 1962,3123 1962,3121 1946,3109 1944,3109 1942,3109 1940,3109 1879,3121 1875,3121 1857,3121 1628,3109 1626,3109 1558,3118 1543,3121 1529,3118 1469,3107 1466,3107 1464,3107 1462,3107 1446,3118 1444,3121 1285,3121 1283,3118 1269,3107 1267,3107 1265,3107 1262,3107 1197,3118 1186,3118 1177,3116 1132,3107 1130,3107 1128,3107 1099,3116 1092,3118 1083,3116 1045,3107 1043,3107 1040,3107 977,3116 957,3118 780,3118 776,3116 760,3105 758,3105 755,3105 753,3105 697,3114 686,3116 684,3114 670,3105 668,3105 666,3105 663,3105 661,3105 632,3114 625,3116 614,3114 565,3105 563,3105 560,3105 558,3105 545,3114 540,3116 529,3114 486,3105 484,3105 482,3105 457,3114 448,3116 439,3114 414,3105 412,3105 410,3105 338,3112 338,3154"/>
+        <Baseline points="338,3154 2068,3161"/>
+        <TextEquiv conf="0.9964526965067937">
+          <Unicode>bedeutende Entfernungen die Vergabungen jenes Zeitalters ſich er⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a4521854" custom="structure {type:default;}">
+        <Coords points="338,3228 338,3251 569,3248 569,3228 569,3192 509,3192 506,3190 482,3174 480,3174 477,3174 475,3174 394,3188 358,3174 356,3174 354,3174 352,3174 349,3174 338,3181 338,3228"/>
+        <Baseline points="338,3228 569,3228"/>
+        <TextEquiv conf="0.9999800801277161">
+          <Unicode>ſtreckten.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_65ff892b" custom="structure {type:default;}">
+        <Coords points="480,3298 477,3316 2063,3331 2068,3305 2063,3255 480,3255 480,3298"/>
+        <Baseline points="480,3298 2068,3305"/>
+        <TextEquiv conf="0.9932541900447437">
+          <Unicode>Nicht unerwähnt wollen wir laſſen, daß im Jahre 773 auch</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ca6a3716" custom="structure {type:default;}">
+        <Coords points="336,3370 334,3399 1004,3410 1007,3410 1065,3399 1074,3399 1078,3399 1105,3410 1108,3410 1110,3410 1173,3399 1186,3399 1215,3399 1397,3412 1399,3412 2065,3399 2068,3374 2065,3334 1069,3334 1067,3331 1045,3320 1043,3320 1040,3320 1038,3320 1007,3331 1002,3331 995,3331 921,3320 919,3320 336,3329 336,3370"/>
+        <Baseline points="336,3370 2068,3374"/>
+        <TextEquiv conf="0.9822734334776478">
+          <Unicode>ein Rebſtück bei Huſun als zu einer Schenkung gehörend genannt</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_f9734b09"  custom="structure {type:text;}">
+      <Coords points="1186,358 1262,358 1253,410 1184,410 1186,358"/>
+      <TextLine id="eSc_line_2e26f4eb" custom="structure {type:default;}">
+        <Coords points="1253,381 1231,358 1209,358 1186,358 1186,399 1186,426 1265,412 1265,399 1265,356 1253,354 1253,381"/>
+        <Baseline points="1186,399 1265,399"/>
+        <TextEquiv conf="0.9999749064445496">
+          <Unicode>23</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

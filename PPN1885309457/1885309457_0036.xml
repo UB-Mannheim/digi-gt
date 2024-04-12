@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://digi.bib.uni-mannheim.de/fileadmin/digi/1885309457">
+	<Creator>escriptorium</Creator>
+	<Created>2024-04-10T17:50:57.370866+02:00</Created>
+        <LastChange>2024-04-11T23:02:42.529887+02:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1885309457_0036.jpg" imageWidth="2584" imageHeight="4036">
+    <TextRegion id="eSc_textblock_dc4ccd16"  custom="structure {type:text;}">
+      <Coords points="621,439 2348,466 2330,3361 592,3361 583,977 592,457 621,439"/>
+      <TextLine id="eSc_line_e5001e3a" custom="structure {type:default;}">
+        <Coords points="2321,464 2299,464 2276,464 2254,464 2231,464 2209,464 2186,461 2164,461 2142,461 2119,461 2097,461 2074,461 2052,459 2029,459 2007,459 1985,459 1962,459 1940,459 1917,459 1895,457 1872,457 1850,457 1828,457 1805,457 1783,457 1760,455 1738,455 1715,455 1693,455 1671,455 1648,455 1626,455 1603,452 1581,452 1558,452 1536,452 1514,452 1491,452 1480,450 601,448 596,452 596,491 594,508 2330,515 2335,497 2332,464 2321,464"/>
+        <Baseline points="596,491 2335,497"/>
+        <TextEquiv conf="0.9870248778777964">
+          <Unicode>ſchriften bezeugt. Konnten in Neuenheim, bei Oſterburken und anders⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_54b79bc1" custom="structure {type:default;}">
+        <Coords points="596,562 594,578 672,591 675,591 1121,582 1209,594 1211,594 2332,585 2335,569 2332,526 596,520 596,562"/>
+        <Baseline points="596,562 2335,569"/>
+        <TextEquiv conf="0.9990940997377038">
+          <Unicode>wo Heiligtümer des perſiſchen Sonnengottes Mithras entſtehen, ſo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9c712997" custom="structure {type:default;}">
+        <Coords points="598,632 596,659 2330,661 2335,639 2332,598 2256,585 2254,585 2056,594 2007,596 1987,594 1929,585 1926,585 1924,585 1906,594 1899,596 1866,591 1803,585 1801,585 1798,585 1796,585 1785,591 1778,596 1745,591 1684,582 1682,582 1680,582 1677,582 1666,589 1659,594 1590,589 1480,582 1478,582 1475,582 1473,582 1464,589 1453,596 1231,596 1164,585 1121,580 1119,580 980,582 663,591 598,580 598,632"/>
+        <Baseline points="598,632 2335,639"/>
+        <TextEquiv conf="0.9883993530974668">
+          <Unicode>kann auch das Vorhandenſein chriſtlichen Gottesdienſtes nicht völlig</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f01d229e" custom="structure {type:default;}">
+        <Coords points="598,704 596,719 628,733 630,733 632,733 1065,724 1184,735 1186,735 2335,726 2337,710 2332,656 2220,668 2110,656 2108,656 2106,656 2103,656 2070,668 1868,656 1859,656 1857,656 1852,656 1758,668 1693,656 1677,654 1675,654 1673,654 1664,656 1623,665 1552,656 1527,654 1292,654 1289,654 1287,654 1285,654 1283,656 1265,668 1195,668 1175,656 1166,652 1164,652 1161,652 1159,652 1146,656 1130,663 1065,656 1009,652 915,652 912,652 910,652 908,652 901,656 892,663 847,656 805,652 803,652 800,652 798,652 791,656 782,663 758,656 731,652 728,652 598,656 598,704"/>
+        <Baseline points="598,704 2337,710"/>
+        <TextEquiv conf="0.9923148788511753">
+          <Unicode>in Abrede geſtellt werden. Doch dürfen wir uns der Annahme nicht</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0d3c9eca" custom="structure {type:default;}">
+        <Coords points="596,773 594,791 650,807 652,807 654,807 762,795 780,807 782,807 785,807 787,807 912,795 1011,807 1013,807 1016,807 1040,795 1043,795 1049,795 1137,807 1139,807 1229,798 1253,809 1256,809 1258,809 1316,798 1318,798 1343,809 1345,809 1348,809 1480,798 1507,798 1552,800 1763,811 1765,811 1812,802 1823,800 1843,802 1922,811 1924,811 2332,804 2335,780 2330,730 596,730 596,773"/>
+        <Baseline points="596,773 2335,780"/>
+        <TextEquiv conf="0.9838111156767065">
+          <Unicode>verſchließen, daß dieſe ohnehin durch zeitweiſe Verfolgung zurück⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_02012737" custom="structure {type:default;}">
+        <Coords points="596,845 596,874 2330,867 2332,849 2330,811 2238,798 2236,798 1780,809 1731,809 1715,809 1599,798 1597,798 1509,809 1496,809 1491,809 1462,795 1460,795 1457,795 1455,795 1424,807 1327,795 1325,795 1323,795 1298,807 1298,809 1204,809 1204,807 1191,795 1188,795 1186,795 1184,795 1078,807 1072,807 1069,807 1040,795 1038,795 1036,795 596,804 596,845"/>
+        <Baseline points="596,845 2332,849"/>
+        <TextEquiv conf="0.9955582931890326">
+          <Unicode>gedrängten Anfänge in unſrer Gegend den Stürmen der Völker⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d57e9b51" custom="structure {type:default;}">
+        <Coords points="598,914 596,937 870,948 872,948 874,948 877,948 890,939 892,937 897,939 924,948 926,948 928,948 930,948 962,939 968,937 980,939 1027,948 1029,948 1117,939 1139,937 1155,939 1217,950 1220,950 1675,939 1727,939 1729,939 1756,952 1758,952 1760,952 2330,939 2332,921 2330,883 2267,869 2265,869 2213,881 2211,881 2198,881 1749,867 1747,867 1745,867 1715,878 1713,878 1711,878 1646,867 1644,867 1523,878 1505,878 1493,878 1424,867 1422,867 1419,867 1388,876 1381,881 1179,881 1175,876 1166,867 1164,867 1161,867 1159,867 1000,874 960,876 955,874 942,865 939,865 937,865 935,865 598,872 598,914"/>
+        <Baseline points="598,914 2332,921"/>
+        <TextEquiv conf="0.9770165598019958">
+          <Unicode>wanderung ſo gut wie ganz erlegen ſind. Erſt die fränkiſche Ein⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9fdaf430" custom="structure {type:default;}">
+        <Coords points="596,986 594,1004 695,1017 697,1017 1139,1009 1202,1020 1204,1020 2330,1011 2332,993 2330,952 596,941 596,986"/>
+        <Baseline points="596,986 2332,993"/>
+        <TextEquiv conf="0.9915734207819379">
+          <Unicode>wanderung ſeit dem Jahre 500 brachte das Volksmaterial, welches</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_efbc7a06" custom="structure {type:default;}">
+        <Coords points="596,1058 594,1082 598,1087 601,1087 601,1089 603,1089 605,1089 607,1089 2063,1082 2065,1065 2063,1022 1092,1022 1083,1011 1081,1011 1081,1009 1078,1009 1076,1009 1074,1009 1000,1009 686,1017 596,1006 596,1058"/>
+        <Baseline points="596,1058 2065,1065"/>
+        <TextEquiv conf="0.9962218616689954">
+          <Unicode>ſich für das Chriſtentum jener Zeit als geeignet erwies.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aab6cbe3" custom="structure {type:default;}">
+        <Coords points="740,1127 737,1148 2330,1156 2335,1139 2332,1087 2086,1098 2020,1085 2016,1085 2014,1085 2012,1085 1989,1096 1857,1085 1855,1085 1852,1085 1780,1096 1767,1085 1765,1085 1763,1085 1760,1085 1706,1096 1693,1085 1693,1082 1691,1082 1689,1082 1686,1082 1650,1082 1379,1094 1343,1082 1339,1080 1336,1080 1334,1080 1289,1082 1076,1091 1025,1080 1011,1078 1009,1078 1007,1078 1002,1080 984,1089 740,1080 740,1127"/>
+        <Baseline points="740,1127 2335,1139"/>
+        <TextEquiv conf="0.9930865848273561">
+          <Unicode>War es einmal ſo weit gekommen, ſo konnte nach dem Geiſte</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1ef01afe" custom="structure {type:default;}">
+        <Coords points="594,1201 594,1233 1269,1224 1316,1235 1318,1235 1321,1235 1334,1235 1765,1226 2144,1237 2160,1237 2162,1237 2164,1237 2236,1226 2326,1237 2330,1206 2330,1165 2301,1152 2299,1152 2296,1152 2294,1152 2269,1165 2184,1165 2112,1165 2112,1163 2088,1152 2086,1152 2083,1152 2081,1152 2043,1163 2041,1163 2038,1163 1969,1152 1967,1152 1964,1152 1944,1163 1940,1165 1668,1165 1662,1161 1648,1152 1646,1152 1644,1152 1641,1152 594,1154 594,1201"/>
+        <Baseline points="594,1201 2330,1206"/>
+        <TextEquiv conf="0.9946686240934557">
+          <Unicode>jener Zeit auch die Gründung von Klöſtern unmöglich länger auf</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1e85ee32" custom="structure {type:default;}">
+        <Coords points="596,1271 596,1298 2330,1298 2332,1280 2332,1242 2299,1228 2296,1228 2294,1228 2227,1239 2222,1239 2213,1239 2072,1228 2070,1228 1953,1237 1899,1239 1877,1235 1837,1226 1834,1226 1731,1233 1668,1237 1606,1233 1543,1226 1540,1226 1538,1226 1527,1230 1511,1237 1424,1228 1359,1224 1357,1224 1354,1224 1343,1228 1327,1235 1179,1226 1130,1224 1128,1224 1112,1226 1040,1235 1009,1224 1002,1222 1000,1222 998,1222 942,1224 681,1233 596,1219 596,1271"/>
+        <Baseline points="596,1271 2332,1280"/>
+        <TextEquiv conf="0.996493215744312">
+          <Unicode>ſich warten laſſen. Nicht mehr als Miſſionsſtation, wohl aber als</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5365b578" custom="structure {type:default;}">
+        <Coords points="596,1343 596,1367 1130,1367 1139,1367 1209,1378 1211,1378 1680,1369 1702,1369 1706,1369 1798,1381 1801,1381 2335,1369 2337,1349 2337,1309 2169,1296 2166,1296 2164,1296 2137,1307 2137,1309 1942,1309 1940,1307 1915,1296 1913,1296 1911,1296 1787,1307 1769,1307 1767,1307 1751,1293 1749,1293 1747,1293 1745,1293 1574,1304 1565,1304 1547,1304 1253,1293 1251,1293 1202,1304 1193,1304 1184,1304 1112,1291 1110,1291 1108,1291 1078,1302 1076,1302 935,1291 933,1291 596,1300 596,1343"/>
+        <Baseline points="596,1343 2337,1349"/>
+        <TextEquiv conf="0.9987993249121834">
+          <Unicode>religiöſer Mittelpunkt zur Befeſtigung und Beſſerung des noch jungen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8f593707" custom="structure {type:default;}">
+        <Coords points="596,1414 594,1432 2328,1439 2332,1421 2330,1381 596,1374 596,1414"/>
+        <Baseline points="596,1414 2332,1421"/>
+        <TextEquiv conf="0.9935974029243969">
+          <Unicode>und rohen Chriſtentums wurde im Jahre 764 das Kloſter Laures⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d8d21f6a" custom="structure {type:default;}">
+        <Coords points="596,1486 594,1511 2328,1522 2332,1493 2330,1452 2247,1439 2245,1439 2090,1450 2077,1450 2061,1450 1929,1439 1926,1439 1877,1448 1868,1450 1861,1448 1830,1439 1828,1439 1825,1439 1772,1448 1758,1450 1745,1448 1682,1437 1680,1437 1677,1437 1675,1437 1659,1448 1653,1448 1556,1437 1554,1437 1383,1446 1343,1448 1292,1446 1072,1435 1069,1435 1067,1435 1027,1446 1020,1446 1011,1443 971,1435 968,1435 966,1435 964,1435 935,1443 928,1446 921,1443 890,1435 888,1435 886,1435 883,1435 881,1435 868,1443 863,1446 596,1443 596,1486"/>
+        <Baseline points="596,1486 2332,1493"/>
+        <TextEquiv conf="0.9914761869633784">
+          <Unicode>ham, heute Lorſch an der Weſchnitz unfern Bensheim gegründet,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_01b45e8b" custom="structure {type:default;}">
+        <Coords points="594,1558 592,1574 722,1587 724,1587 1058,1580 1155,1578 1159,1580 1168,1589 1170,1589 1173,1589 1175,1589 1491,1585 1727,1580 1740,1587 1751,1591 1754,1591 1756,1594 2328,1594 2330,1565 2328,1524 1754,1524 1738,1517 1718,1511 1715,1511 1713,1511 1514,1515 1278,1520 1202,1511 1168,1509 1166,1509 1049,1511 657,1517 594,1506 594,1558"/>
+        <Baseline points="594,1558 2330,1565"/>
+        <TextEquiv conf="0.9961660904962508">
+          <Unicode>im obern Rheingau, nicht weit von der Grenze des Lobdengaues.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f8dd641a" custom="structure {type:default;}">
+        <Coords points="594,1630 592,1650 2321,1661 2326,1636 2321,1583 2258,1596 2061,1596 2041,1583 2038,1583 2036,1583 2034,1583 2032,1583 2029,1583 1994,1594 1955,1583 1953,1583 1951,1583 1949,1583 1906,1583 1671,1591 1662,1585 1657,1580 1655,1580 1653,1580 1650,1580 1648,1580 1632,1585 1606,1591 1413,1585 1265,1580 1262,1580 1260,1580 1238,1585 1213,1591 1191,1585 1161,1578 1159,1578 1157,1578 1105,1587 1081,1591 865,1591 861,1587 852,1578 850,1578 847,1578 845,1578 843,1578 823,1587 818,1589 814,1587 800,1578 798,1578 796,1578 794,1578 594,1587 594,1630"/>
+        <Baseline points="594,1630 2326,1636"/>
+        <TextEquiv conf="0.9937091628710429">
+          <Unicode>Gründer des neuen Gotteshauſes waren der reiche Rheingaugraf</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e05128cb" custom="structure {type:default;}">
+        <Coords points="594,1701 592,1717 2328,1722 2332,1706 2330,1663 1520,1663 1469,1654 1431,1650 1428,1650 1197,1652 652,1659 594,1648 594,1701"/>
+        <Baseline points="594,1701 2332,1706"/>
+        <TextEquiv conf="0.9967566203262846">
+          <Unicode>Cancor und deſſen gottſelige Mutter Williſwinda. Von dieſen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9225d4fc" custom="structure {type:default;}">
+        <Coords points="594,1771 592,1789 634,1802 637,1802 639,1802 1191,1796 1383,1793 1417,1798 1473,1804 1475,1807 2330,1807 2332,1775 2330,1733 594,1728 594,1771"/>
+        <Baseline points="594,1771 2332,1775"/>
+        <TextEquiv conf="0.9774270843768466">
+          <Unicode>erhielt das Kloſter ſeine erſte Güterſchenkung in unſrem Gau, nämlich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8f62e70e" custom="structure {type:default;}">
+        <Coords points="596,1843 594,1858 794,1872 796,1872 2328,1870 2330,1847 2328,1807 596,1796 596,1843"/>
+        <Baseline points="596,1843 2330,1847"/>
+        <TextEquiv conf="0.9917508507928541">
+          <Unicode>die Kirche in Scarra, dem ehemaligen Mutterorte von Sandhofen,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4be43fbf" custom="structure {type:default;}">
+        <Coords points="596,1917 596,1939 2330,1939 2330,1917 2330,1878 2227,1865 2225,1865 2222,1865 2189,1876 2186,1876 2106,1865 2103,1865 2101,1865 2077,1876 2074,1878 1863,1878 1861,1876 1837,1865 1834,1865 1832,1865 1778,1876 1769,1876 1763,1876 1733,1865 1731,1865 1729,1865 1727,1865 1691,1874 1682,1876 1671,1874 1612,1865 1610,1865 1608,1865 1585,1874 1579,1876 1540,1874 1401,1865 1399,1865 1397,1865 1379,1874 1372,1876 1357,1874 1314,1865 1132,1865 1130,1865 1128,1865 1126,1865 1117,1872 1110,1876 1085,1872 1034,1865 1031,1865 1029,1865 1009,1872 998,1876 975,1872 937,1865 935,1865 596,1870 596,1917"/>
+        <Baseline points="596,1917 2330,1917"/>
+        <TextEquiv conf="0.9992171324068501">
+          <Unicode>mit Zuſtimmung des in Lobedunburg wohnenden Gaugrafen Warinus.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_de2d1481" custom="structure {type:default;}">
+        <Coords points="598,1984 596,2002 650,2015 652,2015 1401,2004 1449,2004 1453,2004 1507,2018 1509,2018 1511,2018 1514,2018 1545,2006 1576,2018 1579,2018 1581,2018 1729,2006 1765,2018 1767,2018 1769,2020 1906,2020 1906,2018 1908,2018 1911,2018 1926,2006 2254,2018 2256,2018 2330,2004 2332,1988 2330,1952 2227,1937 2225,1937 2222,1937 2178,1950 2173,1950 2162,1950 2029,1937 2027,1937 2025,1937 2023,1937 2007,1948 2003,1952 1823,1952 1810,1946 1778,1937 1776,1937 1774,1937 1772,1937 1769,1937 1758,1946 1749,1952 1547,1952 1518,1944 1484,1937 1482,1937 1480,1937 1453,1944 1433,1948 1424,1944 1410,1935 1408,1935 1406,1935 1404,1935 1363,1944 1345,1946 1321,1941 1269,1935 1267,1935 1265,1935 1249,1941 1235,1948 1184,1941 1134,1935 1034,1935 1031,1935 1029,1935 1027,1935 1022,1939 1011,1948 982,1939 966,1935 964,1935 962,1935 939,1939 894,1948 843,1937 820,1935 818,1935 598,1935 598,1984"/>
+        <Baseline points="598,1984 2332,1988"/>
+        <TextEquiv conf="0.9968593255166085">
+          <Unicode>Auf dieſe erſte folgten alsbald eine ganze Menge weiterer Ver⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4d63dbd4" custom="structure {type:default;}">
+        <Coords points="594,2062 594,2083 607,2091 610,2091 612,2091 614,2091 702,2080 800,2091 803,2091 805,2091 854,2080 1025,2091 1027,2091 1029,2091 1056,2080 1200,2091 1202,2091 1404,2080 1446,2091 1449,2091 1451,2091 1529,2078 1626,2089 1628,2089 1778,2078 2294,2089 2296,2089 2299,2089 2335,2074 2335,2058 2330,2020 2254,2006 2252,2006 2148,2018 1765,2006 1763,2006 1628,2018 1547,2006 1545,2006 1543,2006 1496,2018 1466,2006 1464,2006 1462,2006 1395,2020 1372,2009 1370,2009 1368,2009 1283,2020 892,2009 890,2009 791,2020 657,2009 654,2009 592,2022 594,2062"/>
+        <Baseline points="594,2062 2335,2058"/>
+        <TextEquiv conf="0.9997791284695268">
+          <Unicode>gabungen aus ſämtlichen Orten der Umgegend bis auf ganz gehörige</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_73dac542" custom="structure {type:default;}">
+        <Coords points="598,2130 598,2152 2332,2152 2332,2130 2332,2091 2160,2078 2157,2078 2099,2089 2097,2089 2092,2089 2047,2078 2045,2078 2043,2078 2041,2078 2007,2089 2003,2089 1994,2089 1902,2078 1899,2078 1897,2078 1861,2089 1855,2089 1843,2089 1763,2078 1760,2078 1695,2087 1680,2089 1659,2087 1572,2078 1570,2078 1529,2087 1516,2089 1500,2087 1446,2078 1444,2078 1370,2087 1343,2089 1323,2087 1271,2078 1269,2078 1224,2087 1202,2089 1159,2085 1072,2078 1069,2078 1067,2078 1049,2085 1040,2089 1013,2085 964,2078 962,2078 897,2085 852,2089 832,2085 807,2078 805,2078 803,2078 800,2078 778,2085 760,2089 742,2085 722,2078 720,2078 717,2078 598,2083 598,2130"/>
+        <Baseline points="598,2130 2332,2130"/>
+        <TextEquiv conf="0.9997535770939242">
+          <Unicode>Entfernung hin, der großen Mehrzahl nach dem Zeitalter Pippins</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2598e947" custom="structure {type:default;}">
+        <Coords points="596,2197 596,2224 2330,2219 2332,2201 2330,2161 596,2157 596,2197"/>
+        <Baseline points="596,2197 2332,2201"/>
+        <TextEquiv conf="0.9997963845729828">
+          <Unicode>und Karl des Großen angehörig. Aus den Angaben der Urkunden,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3177343a" custom="structure {type:default;}">
+        <Coords points="2326,2231 594,2228 594,2269 592,2287 2328,2291 2332,2273 2330,2269 2326,2231"/>
+        <Baseline points="594,2269 2332,2273"/>
+        <TextEquiv conf="0.9991142941372735">
+          <Unicode>welche uns in dem hochwichtigen Lorſcher Schenkungsbuche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_83709c06" custom="structure {type:default;}">
+        <Coords points="594,2340 592,2358 641,2372 643,2372 646,2372 1401,2363 1505,2374 1507,2374 2330,2363 2332,2345 2328,2293 594,2298 594,2340"/>
+        <Baseline points="594,2340 2332,2345"/>
+        <TextEquiv conf="0.9967952624839895">
+          <Unicode>erhalten ſind, erfahren wir eine Menge von Einzelheiten zur Kenntnis</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_94f39575" custom="structure {type:default;}">
+        <Coords points="594,2412 594,2435 2330,2435 2332,2417 2330,2374 594,2370 594,2412"/>
+        <Baseline points="594,2412 2332,2417"/>
+        <TextEquiv conf="0.9938272284343839">
+          <Unicode>der Hof⸗ und Landwirtſchaft unſerer Gegend. Geſchenkt wurden hie</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d77838d8" custom="structure {type:default;}">
+        <Coords points="594,2482 592,2500 646,2513 648,2513 1460,2504 1475,2515 1478,2515 1480,2515 1482,2515 2330,2504 2332,2486 2330,2446 594,2441 594,2482"/>
+        <Baseline points="594,2482 2332,2486"/>
+        <TextEquiv conf="0.9940030703177819">
+          <Unicode>und da ganze Hofgüter mit ſämtlichen Gebäuden, Leibeigenen, Vieh⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f19766f9" custom="structure {type:default;}">
+        <Coords points="596,2553 596,2585 2330,2585 2332,2558 2330,2513 596,2509 596,2553"/>
+        <Baseline points="596,2553 2332,2558"/>
+        <TextEquiv conf="0.9879081891849637">
+          <Unicode>ſtand und geſamtem Grundbeſitz, der Regel nach in der Weiſe, daß</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_69c04aef" custom="structure {type:default;}">
+        <Coords points="594,2623 592,2643 1545,2659 1547,2659 2330,2648 2332,2627 2332,2587 2285,2576 2283,2576 2281,2576 2278,2576 2247,2587 2202,2576 2200,2576 2198,2576 2121,2587 2119,2587 2117,2587 2052,2576 1893,2576 1890,2576 1888,2576 1886,2576 1872,2587 1870,2587 1863,2587 1787,2576 1785,2576 1783,2576 1742,2587 1736,2589 1608,2589 1603,2585 1592,2576 1590,2576 1588,2576 1585,2576 1410,2585 1390,2585 1386,2585 1350,2574 1348,2574 1345,2574 1253,2585 1240,2585 1238,2585 1217,2574 1215,2574 1213,2574 1211,2574 1179,2585 1175,2585 1168,2585 1121,2574 1119,2574 1117,2574 1114,2574 1103,2583 1099,2585 1072,2583 939,2574 937,2574 935,2574 912,2583 906,2585 897,2583 861,2574 859,2574 856,2574 594,2580 594,2623"/>
+        <Baseline points="594,2623 2332,2627"/>
+        <TextEquiv conf="0.9942800384579282">
+          <Unicode>die Schenkgeber gegen Entrichtung einer gewiſſen jährlichen Abgabe</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_85c450bc" custom="structure {type:default;}">
+        <Coords points="596,2699 596,2728 648,2717 679,2728 681,2728 684,2728 695,2728 859,2717 1141,2726 1249,2728 1251,2728 1318,2724 1473,2715 1491,2724 1498,2726 1500,2726 1502,2726 1529,2724 1597,2715 1655,2722 1689,2726 1691,2726 1729,2722 1789,2715 1825,2722 1852,2726 1855,2726 1857,2726 1875,2722 1895,2715 1913,2722 1929,2726 1931,2726 1933,2726 2328,2717 2330,2695 2326,2659 1783,2659 1780,2657 1767,2645 1765,2645 1763,2645 1760,2645 1758,2645 1756,2645 1742,2654 1740,2657 1738,2654 1711,2645 1709,2645 1706,2645 1644,2654 1628,2657 1574,2654 1422,2648 1419,2648 1417,2648 1415,2648 1408,2654 1401,2659 1366,2654 1316,2648 1314,2648 1312,2648 1294,2654 1278,2659 1247,2654 1211,2648 1209,2648 1152,2652 1099,2659 1038,2652 989,2648 986,2648 594,2650 596,2699"/>
+        <Baseline points="596,2699 2330,2695"/>
+        <TextEquiv conf="0.9932312975164319">
+          <Unicode>Nutznießer blieben. Unter den Gebäuden ſind an mehreren Orten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7a3f3efb" custom="structure {type:default;}">
+        <Coords points="594,2771 594,2791 2328,2787 2330,2766 2326,2728 592,2728 594,2771"/>
+        <Baseline points="594,2771 2330,2766"/>
+        <TextEquiv conf="0.9985674735572603">
+          <Unicode>auch Kirchen genannt, weil eben vielfach die erſten chriſtlichen Gottes⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6c6bae7d" custom="structure {type:default;}">
+        <Coords points="592,2843 592,2867 881,2861 921,2865 968,2872 971,2872 1034,2865 1072,2861 1099,2865 1148,2872 1150,2872 1152,2872 1155,2872 1166,2863 1175,2858 1305,2858 1339,2863 1395,2870 1397,2870 1460,2861 1482,2858 1487,2861 1498,2870 1500,2870 1502,2870 1505,2872 1706,2872 1706,2870 1758,2858 1772,2856 1783,2858 1816,2867 1819,2867 1821,2870 2050,2870 2050,2867 2052,2867 2086,2856 2088,2856 2099,2856 2305,2867 2308,2867 2310,2867 2312,2867 2332,2854 2332,2836 2328,2791 589,2789 592,2843"/>
+        <Baseline points="592,2843 2332,2836"/>
+        <TextEquiv conf="0.9898942323831411">
+          <Unicode>häuſer jener Zeit auf den Höfen der großen Gutsbeſitzer errichtet</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_073954c9" custom="structure {type:default;}">
+        <Coords points="594,2912 594,2932 2328,2928 2330,2908 2326,2870 2171,2856 2169,2856 2079,2867 2072,2870 1897,2870 1895,2867 1884,2856 1881,2856 1879,2856 1877,2856 1733,2865 1704,2867 1695,2865 1659,2856 1657,2856 1655,2856 1653,2856 1628,2865 1623,2867 1608,2865 1543,2856 1540,2856 1471,2865 1433,2870 1415,2865 1395,2858 1392,2858 1390,2858 1323,2865 1267,2870 1206,2865 1146,2858 1143,2858 1141,2858 1123,2863 1105,2870 1085,2863 1067,2858 1065,2858 1063,2858 1018,2863 966,2870 921,2863 888,2858 886,2858 845,2863 782,2870 592,2863 594,2912"/>
+        <Baseline points="594,2912 2330,2908"/>
+        <TextEquiv conf="0.9952811690477225">
+          <Unicode>worden ſind. Außerdem erhielt das Kloſter auch zahlreiche Einzel⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5dce015c" custom="structure {type:default;}">
+        <Coords points="592,2984 592,3009 2274,3011 2276,3011 2332,2997 2332,2979 2328,2941 1543,2928 1540,2928 1455,2941 724,2930 722,2930 589,2944 592,2984"/>
+        <Baseline points="592,2984 2332,2979"/>
+        <TextEquiv conf="0.9953139079734683">
+          <Unicode>grundſtücke geſchenkt, darunter an der Bergſtraße und den Neckar</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1546f886" custom="structure {type:default;}">
+        <Coords points="594,3056 594,3074 1549,3069 1552,3051 1547,3015 1269,3002 1267,3002 1200,3013 1184,3002 1182,3002 1179,3002 1177,3002 1175,3002 1150,3013 984,3004 982,3004 980,3004 977,3004 964,3018 850,3018 823,3004 820,3004 818,3004 713,3015 650,3004 648,3004 646,3004 592,3018 594,3056"/>
+        <Baseline points="594,3056 1552,3051"/>
+        <TextEquiv conf="0.9934561765856214">
+          <Unicode>entlang namentlich auch viele Reben.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_53619925" custom="structure {type:default;}">
+        <Coords points="735,3127 735,3148 2330,3141 2330,3123 2326,3085 2243,3071 2240,3071 2238,3071 2200,3083 2198,3085 2050,3085 2045,3083 2025,3071 2023,3071 2020,3071 2018,3071 2016,3071 2005,3083 2003,3085 1897,3085 1888,3080 1850,3071 1848,3071 1846,3071 1843,3071 1841,3071 1830,3080 1828,3083 1825,3080 1803,3071 1801,3071 1798,3071 1796,3071 1769,3080 1763,3083 1756,3080 1731,3071 1729,3071 1727,3071 1617,3080 1572,3083 1563,3080 1543,3071 1540,3071 1538,3071 1536,3071 1534,3071 1534,3074 1527,3080 1520,3087 1415,3087 1406,3078 1401,3074 1399,3074 1397,3074 1395,3074 1392,3074 1372,3078 1345,3085 1296,3078 1262,3074 1260,3074 1258,3074 1256,3074 1251,3078 1238,3085 1226,3078 1217,3074 1215,3074 1119,3074 1117,3074 1114,3074 1112,3074 1110,3076 1099,3085 733,3076 735,3127"/>
+        <Baseline points="735,3127 2330,3123"/>
+        <TextEquiv conf="0.9988120403783075">
+          <Unicode>Dabei iſt aber beſonders bemerkenswert, daß gerade aus dem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_05417fda" custom="structure {type:default;}">
+        <Coords points="594,3199 594,3219 715,3231 717,3231 720,3231 740,3219 744,3219 2326,3219 2328,3190 2323,3154 592,3154 594,3199"/>
+        <Baseline points="594,3199 2328,3190"/>
+        <TextEquiv conf="0.9967767578182798">
+          <Unicode>Hauptorte des Lobdengaues ſich nur eine einzige Vergabung an jenes</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d8a331a3" custom="structure {type:default;}">
+        <Coords points="594,3269 594,3289 1747,3296 1749,3296 1803,3284 1812,3284 2326,3284 2328,3262 2323,3224 592,3219 594,3269"/>
+        <Baseline points="594,3269 2328,3262"/>
+        <TextEquiv conf="0.9902426682985745">
+          <Unicode>Kloſter aufgezeichnet findet. Im Jahre 765 oder 766 nämlich über⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8aea453e" custom="structure {type:default;}">
+        <Coords points="594,3343 594,3374 2328,3363 2328,3336 2323,3298 1978,3284 1976,3284 1920,3296 1702,3287 1700,3287 1614,3298 1579,3287 1576,3287 1574,3287 1572,3287 1570,3287 1554,3300 1359,3300 1332,3287 1330,3287 1327,3287 1235,3298 1209,3287 1206,3287 1204,3287 1202,3287 1157,3300 1119,3289 1117,3289 1114,3289 1112,3289 1065,3300 955,3289 953,3289 816,3300 771,3289 769,3289 767,3289 764,3289 731,3300 634,3289 632,3289 630,3289 592,3302 594,3343"/>
+        <Baseline points="594,3343 2328,3336"/>
+        <TextEquiv conf="0.9873504941746339">
+          <Unicode>giebt ein gewiſſer Germund etwa einen Manſus nebſt 3 Morgen</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d765ff0d"  custom="structure {type:text;}">
+      <Coords points="1464,313 1514,322 1505,374 1444,365 1464,313"/>
+      <TextLine id="eSc_line_3009551e" custom="structure {type:default;}">
+        <Coords points="1493,319 1460,329 1456,302 1426,299 1426,359 1426,390 1507,396 1510,359 1503,339 1493,319"/>
+        <Baseline points="1429,360 1511,360"/>
+        <TextEquiv conf="0.9975213706493378">
+          <Unicode>22</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

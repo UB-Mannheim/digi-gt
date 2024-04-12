@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://digi.bib.uni-mannheim.de/fileadmin/digi/1885309457">
+	<Creator>escriptorium</Creator>
+	<Created>2024-04-10T17:50:53.588920+02:00</Created>
+        <LastChange>2024-04-11T23:01:54.945638+02:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1885309457_0011.jpg" imageWidth="2584" imageHeight="4036">
+    <TextRegion id="eSc_textblock_4bcb9a91"  custom="structure {type:text;}">
+      <Coords points="1126,869 1379,869 1424,896 1415,1056 1343,1112 1390,1139 1944,1112 2036,1076 2133,1094 2142,2051 2115,2141 529,2141 421,2078 403,1722 484,1165 538,1130 1182,1121 1202,1103 1139,1085 1211,1004 1103,993 1094,896 1126,869"/>
+      <TextLine id="eSc_line_a69bd765" custom="structure {type:default;}">
+        <Coords points="1105,966 1105,986 1134,1002 1137,1002 1139,1002 1141,1002 1143,1002 1161,988 1235,1002 1238,1002 1415,988 1415,966 1415,894 1370,878 1368,878 1366,878 1274,894 1253,878 1251,878 1249,878 1247,878 1244,878 1206,892 1134,878 1132,878 1130,878 1128,878 1105,892 1105,966"/>
+        <Baseline points="1105,966 1415,966"/>
+        <TextEquiv conf="0.9881626197269985">
+          <Unicode>Inhalt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1e49622f" custom="structure {type:default;}">
+        <Coords points="2115,1089 2092,1085 2070,1080 2047,1078 2025,1078 2025,1116 2025,1139 2117,1143 2119,1116 2119,1091 2115,1089"/>
+        <Baseline points="2025,1116 2119,1116"/>
+        <TextEquiv conf="0.9999959230422973">
+          <Unicode>Seite</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f39f1378" custom="structure {type:default;}">
+        <Coords points="1567,1130 1534,1130 1500,1133 1466,1133 1433,1136 1399,1136 1376,1126 534,1130 524,1136 524,1183 524,1197 2136,1193 2136,1183 2133,1126 1577,1126 1567,1130"/>
+        <Baseline points="527,1185 2139,1185"/>
+        <TextEquiv conf="0.9877649790474347">
+          <Unicode>Einleitung . . . . . . . . . . . . . . . . . . . . . VII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_91c35592" custom="structure {type:default;}">
+        <Coords points="2133,1187 551,1187 538,1170 487,1170 487,1230 484,1257 2133,1264 2139,1234 2136,1183 2133,1187"/>
+        <Baseline points="488,1233 2141,1237"/>
+        <TextEquiv conf="0.9946011044085026">
+          <Unicode>I. Vorgeſchichtliches. Das Loupodunon der Kelten . . . . . . . 1</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9519f379" custom="structure {type:default;}">
+        <Coords points="467,1278 467,1288 464,1318 2143,1318 2146,1298 2143,1241 494,1241 467,1278"/>
+        <Baseline points="468,1291 2148,1300"/>
+        <TextEquiv>
+          <Unicode>II. Das Lopodunum der Römer. Trajanus . . . . . . . . . . 4</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_716b2f8a" custom="structure {type:default;}">
+        <Coords points="450,1349 450,1374 2012,1363 2014,1345 2009,1309 448,1307 450,1349"/>
+        <Baseline points="450,1349 2014,1345"/>
+        <TextEquiv conf="0.9914452189748938">
+          <Unicode>III. Alemannen. Burgunder. Franken. Die Lobodunburg der Deutſchen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_85f3e4d6" custom="structure {type:default;}">
+        <Coords points="2129,1368 608,1355 608,1409 605,1426 2133,1426 2136,1415 2133,1395 2129,1368"/>
+        <Baseline points="612,1410 2137,1419"/>
+        <TextEquiv conf="0.9861180885480001">
+          <Unicode>Der Lobdengau . . . . . . . . . . . . . . . . . . 12</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f69317db" custom="structure {type:default;}">
+        <Coords points="439,1457 441,1470 441,1486 2016,1479 2018,1464 2014,1430 1933,1417 1931,1417 1798,1428 1767,1417 1765,1417 1763,1417 1581,1428 1563,1417 1561,1417 1558,1417 1556,1417 1487,1430 1009,1419 1007,1419 1004,1419 964,1432 937,1421 935,1421 933,1421 720,1432 646,1421 643,1421 641,1421 603,1432 558,1421 556,1421 554,1421 551,1421 515,1432 464,1421 462,1421 459,1421 457,1421 444,1428 439,1457"/>
+        <Baseline points="441,1470 2018,1464"/>
+        <TextEquiv conf="0.9835473624142733">
+          <Unicode>IV. Die Lobotenburg im Beſitz der Biſchöfe von Worms. Die Lorſcher</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e96c28a4" custom="structure {type:default;}">
+        <Coords points="608,1523 605,1553 2149,1547 2153,1530 2153,1489 608,1483 608,1523"/>
+        <Baseline points="612,1526 2154,1533"/>
+        <TextEquiv conf="0.9902925642870241">
+          <Unicode>Schenkungen. Die Gaugrafen und der Stalbühel . . . . . . 19</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_33a581b3" custom="structure {type:default;}">
+        <Coords points="770,1526 736,1526 703,1526 669,1526 635,1526 632,1523 467,1523 467,1580 464,1611 2136,1611 2139,1597 2136,1540 800,1526 770,1526"/>
+        <Baseline points="468,1583 2140,1600"/>
+        <TextEquiv>
+          <Unicode>V. Mittelalter. Lobotenburg–Lautenburg . . . . . . . . . . . 26</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fa2ddaf8" custom="structure {type:default;}">
+        <Coords points="450,1645 450,1659 610,1672 612,1672 746,1661 782,1659 803,1661 868,1672 870,1672 1359,1663 1540,1661 1617,1665 1722,1670 1724,1670 1727,1670 1729,1670 1733,1665 1747,1657 2110,1665 2115,1641 2110,1607 448,1603 450,1645"/>
+        <Baseline points="450,1645 2115,1641"/>
+        <TextEquiv conf="0.9950746096355815">
+          <Unicode>VI. Mittelalter. Laudenburg halb wormſiſch, halb pfälziſch . . . . . 38</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c4b04522" custom="structure {type:default;}">
+        <Coords points="440,1705 437,1722 2116,1732 2123,1708 2119,1661 440,1654 440,1705"/>
+        <Baseline points="444,1706 2124,1710"/>
+        <TextEquiv conf="0.9979436783229604">
+          <Unicode>VII. Neue Zeit. Laudenburg im Zeitalter der Reformation . . . . . 44</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_043abe49" custom="structure {type:default;}">
+        <Coords points="408,1766 408,1784 2110,1784 2112,1762 2106,1724 405,1724 408,1766"/>
+        <Baseline points="408,1766 2112,1762"/>
+        <TextEquiv>
+          <Unicode>VIII. Laudenburg–Ladenburg im dreißigjährigen Kriege . . . . . . . 53</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4a1357df" custom="structure {type:default;}">
+        <Coords points="441,1825 441,1854 612,1840 767,1852 803,1854 805,1854 807,1854 814,1852 847,1838 868,1852 870,1852 872,1852 874,1852 877,1852 879,1852 903,1840 933,1849 937,1852 939,1852 942,1852 944,1852 948,1849 986,1834 1063,1849 1081,1852 1083,1852 1296,1847 1298,1847 1300,1847 1321,1831 1343,1847 1345,1849 1348,1849 1350,1849 1352,1852 1653,1852 1653,1849 1655,1849 1668,1843 1697,1829 2115,1838 2117,1816 2112,1784 439,1782 441,1825"/>
+        <Baseline points="441,1825 2117,1816"/>
+        <TextEquiv>
+          <Unicode>IX. Ladenburg ſeit 1648. Sequeſtration., Franzoſenkriege . . . . . . 65</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_535279df" custom="structure {type:default;}">
+        <Coords points="459,1883 459,1912 2012,1901 2012,1883 2012,1849 1814,1849 1812,1847 1789,1836 1787,1836 1785,1836 459,1845 459,1883"/>
+        <Baseline points="459,1883 2012,1883"/>
+        <TextEquiv conf="0.9907181339604514">
+          <Unicode>X. Ladenburg ganz pfälziſch ſeit 1705. Städtiſche Verhältniſſe vergan⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cba2deb7" custom="structure {type:default;}">
+        <Coords points="602,1940 602,1970 2133,1974 2136,1940 2136,1900 602,1900 602,1940"/>
+        <Baseline points="603,1944 2139,1944"/>
+        <TextEquiv conf="0.9874333491865194">
+          <Unicode>gener Zeit . . . . . . . . . . . . . . . . . . . . 73</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9ddf7afa" custom="structure {type:default;}">
+        <Coords points="444,2001 440,2014 2116,2034 2123,2007 2116,1950 444,1950 444,2001"/>
+        <Baseline points="446,2002 2125,2008"/>
+        <TextEquiv conf="0.9795785243831464">
+          <Unicode>XI. Aus den letzten hundert Jahren ſeit 1792 . . . . . . . . . . 84</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f0b99472" custom="structure {type:default;}">
+        <Coords points="427,2058 423,2081 2139,2081 2143,2071 2139,2024 427,2007 427,2058"/>
+        <Baseline points="428,2060 2145,2073"/>
+        <TextEquiv conf="0.9962370726797316">
+          <Unicode>XII. Kirchen. Stiftungen. Schulen. . . . . . . . . . . . . . 94</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_586b7e78" custom="structure {type:default;}">
+        <Coords points="536,2118 536,2159 677,2157 679,2157 713,2141 823,2159 825,2159 942,2143 991,2159 993,2159 995,2159 998,2159 1027,2143 1056,2159 1058,2159 1060,2159 1063,2159 1285,2157 1287,2157 1330,2143 1381,2154 1383,2154 1386,2154 1426,2139 1462,2152 1464,2152 1466,2152 1852,2139 1895,2154 1897,2154 1899,2154 1902,2154 1962,2139 1980,2154 1982,2154 1985,2154 1987,2154 1989,2154 1991,2154 2009,2143 2112,2154 2117,2114 2110,2071 1565,2080 1498,2071 1478,2069 1475,2069 1460,2071 1413,2080 1381,2071 1372,2069 1370,2069 1368,2069 1345,2071 1265,2083 1226,2071 1224,2071 1222,2071 1220,2071 1209,2071 1087,2083 1034,2071 1027,2071 883,2071 881,2071 879,2071 877,2071 854,2083 533,2074 536,2118"/>
+        <Baseline points="536,2118 2117,2114"/>
+        <TextEquiv conf="0.9964521886810424">
+          <Unicode>Schluß. Unſer Gedächtnisfeſt 16. Oktober 1898 . . . . . . . 105</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_4b333082"  custom="structure {type:text;}">
+      <Coords points="1294,2493 1334,2518 1265,2526 1289,2553 1193,2544 1211,2502 1294,2493"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_b960e5ca"  custom="structure {type:text;}">
+      <Coords points="1305,2448 1316,2473 1274,2464 1274,2457 1305,2448"/>
+    </TextRegion>
+  </Page>
+</PcGts>

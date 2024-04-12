@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://digi.bib.uni-mannheim.de/fileadmin/digi/1885309457">
+	<Creator>escriptorium</Creator>
+	<Created>2024-04-10T17:50:53.007686+02:00</Created>
+        <LastChange>2024-04-11T23:01:48.020594+02:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1885309457_0007.jpg" imageWidth="2540" imageHeight="4036">
+    <TextRegion id="eSc_textblock_cf220de5"  custom="structure {type:text;}">
+      <Coords points="691,1614 1703,1623 1738,1650 1738,1719 1703,1764 1471,1764 1344,1890 996,1890 951,1863 967,1755 673,1737 664,1641 691,1614"/>
+      <TextLine id="eSc_line_23761770" custom="structure {type:default;}">
+        <Coords points="1537,1621 1523,1621 1429,1637 1409,1621 1402,1621 1369,1621 1335,1617 1301,1617 1268,1617 1264,1617 1261,1617 1258,1617 1234,1641 1069,1641 901,1617 898,1617 894,1617 837,1637 703,1617 699,1617 696,1617 693,1617 662,1668 662,1701 662,1762 851,1762 851,1759 854,1759 955,1732 1238,1732 1298,1755 1305,1759 1308,1759 1312,1759 1315,1759 1322,1755 1379,1735 1698,1752 1702,1701 1702,1641 1567,1621 1537,1621"/>
+        <Baseline points="663,1703 1705,1704"/>
+        <TextEquiv>
+          <Unicode>Lopodunum–Ladenburg</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f6aa963d" custom="structure {type:default;}">
+        <Coords points="1023,1847 1023,1892 1088,1892 1088,1890 1090,1890 1092,1890 1092,1887 1094,1887 1110,1874 1146,1883 1175,1890 1178,1890 1180,1890 1204,1881 1227,1872 1245,1878 1283,1890 1285,1890 1287,1890 1368,1870 1368,1847 1368,1796 1023,1793 1023,1847"/>
+        <Baseline points="1023,1847 1368,1847"/>
+        <TextEquiv conf="0.9999252110719681">
+          <Unicode>98 bis 1898.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

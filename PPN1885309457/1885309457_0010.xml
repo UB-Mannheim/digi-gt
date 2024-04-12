@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://digi.bib.uni-mannheim.de/fileadmin/digi/1885309457">
+	<Creator>escriptorium</Creator>
+	<Created>2024-04-10T17:50:53.441029+02:00</Created>
+        <LastChange>2024-04-11T23:01:48.588362+02:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1885309457_0010.jpg" imageWidth="2584" imageHeight="4036">
+    <TextRegion id="eSc_textblock_f96faa56"  custom="structure {type:text;}">
+      <Coords points="1213,1973 1540,2018 1576,2116 1585,2365 1684,2412 1657,2491 1139,2500 1067,2464 1112,2089 1139,2000 1213,1973"/>
+      <TextLine id="eSc_line_a5520fb7" >
+        <Coords points="1403,2001 1369,1994 1335,1991 1302,1984 1268,1981 1234,1977 1201,1977 1167,1987 1167,2044 1167,2061 1446,2054 1446,2044 1416,2001 1403,2001"/>
+        <Baseline points="1169,2046 1450,2046"/>
+        <TextEquiv>
+          <Unicode>H 1930</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bc005572" custom="structure {type:default;}">
+        <Coords points="1161,2161 1159,2177 1534,2195 1538,2170 1538,2123 1440,2100 1437,2100 1271,2116 1265,2116 1249,2100 1249,2098 1247,2098 1244,2098 1202,2096 1200,2096 1197,2096 1161,2109 1161,2161"/>
+        <Baseline points="1161,2161 1538,2170"/>
+        <TextEquiv>
+          <Unicode>Wissenschaftliche</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b5b82c04" custom="structure {type:default;}">
+        <Coords points="1137,2239 1134,2257 1518,2271 1523,2251 1518,2174 1480,2188 1449,2174 1446,2174 1444,2174 1442,2174 1413,2177 1325,2181 1309,2177 1280,2168 1278,2168 1276,2168 1274,2168 1251,2179 1247,2181 1240,2179 1213,2165 1211,2165 1209,2165 1137,2179 1137,2239"/>
+        <Baseline points="1137,2239 1523,2251"/>
+        <TextEquiv>
+          <Unicode>Stadtbibliothek</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c5cb26c4" custom="structure {type:default;}">
+        <Coords points="1197,2311 1195,2338 1455,2338 1457,2316 1455,2266 1357,2251 1354,2251 1289,2262 1269,2248 1267,2248 1265,2248 1262,2248 1197,2260 1197,2311"/>
+        <Baseline points="1197,2311 1457,2316"/>
+        <TextEquiv>
+          <Unicode>Mannheim</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c10aa76e" custom="structure {type:default;}">
+        <Coords points="1672,2438 1638,2394 1608,2377 1591,2377 1557,2394 1530,2374 1440,2374 1440,2377 1419,2394 1288,2384 1268,2404 1180,2404 1150,2377 1066,2387 1069,2495 1241,2495 1305,2519 1480,2515 1500,2492 1544,2512 1702,2509 1705,2455 1699,2401 1672,2394 1672,2438"/>
+        <Baseline points="1071,2464 1706,2457"/>
+        <TextEquiv>
+          <Unicode>Inv. e. 6HHH / S. 4399</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_f10923b8"  custom="structure {type:text;}">
+      <Coords points="971,3210 1738,3219 1747,3262 1702,3289 1067,3289 951,3271 971,3210"/>
+      <TextLine id="eSc_line_15a1f361" custom="structure {type:default;}">
+        <Coords points="1722,3217 1664,3217 1653,3217 1630,3217 1608,3217 1585,3217 1563,3217 1540,3215 1518,3215 1496,3215 1473,3215 1451,3215 1428,3215 1406,3215 1383,3215 1361,3215 1339,3213 1316,3213 1294,3213 1271,3213 1249,3213 1226,3213 1204,3213 1182,3213 1161,3210 975,3215 957,3246 957,3251 955,3284 1152,3280 1173,3287 1195,3293 1197,3293 1200,3293 1249,3284 1276,3280 1283,3284 1292,3293 1294,3293 1296,3293 1298,3293 1415,3282 1437,3282 1440,3282 1464,3296 1466,3296 1469,3296 1471,3296 1473,3296 1489,3284 1518,3296 1520,3296 1523,3296 1525,3296 1527,3296 1545,3284 1700,3296 1702,3296 1704,3296 1733,3280 1736,3255 1733,3226 1722,3217"/>
+        <Baseline points="957,3251 1736,3255"/>
+        <TextEquiv>
+          <Unicode>Hofbuchdruckerei Greiner &amp; Pfeiffer, Stuttgart.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
