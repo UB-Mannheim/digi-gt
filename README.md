@@ -25,6 +25,7 @@ removed, too.:
 - PPN1807527700 – [Ioannis Lodovici Vivis Von Gebirliche[m] Thun vnd Lassen aines Ehemanns](http://digi.bib.uni-mannheim.de/urn/urn:nbn:de:bsz:180-digad-36180)
 - PPN1837705283 – [Francisci Gvyeti Andegavi Monobiblos siue generosae poesews specimen (1602)](http://digi.bib.uni-mannheim.de/urn/urn:nbn:de:bsz:180-digad-36293)
 - PPN1885309457 – [Lopodunum - Ladenburg 98 bis 1898 (1900)](http://digi.bib.uni-mannheim.de/urn/urn:nbn:de:bsz:180-digad-36708)
+- PPN1890801038 - [La Morale De Confucius Philosophe De La Chine (1688)](http://digi.bib.uni-mannheim.de/urn/urn:nbn:de:bsz:180-digad-36775)
 
 ## Links
 
