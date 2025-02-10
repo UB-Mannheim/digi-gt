@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://digi.bib.uni-mannheim.de/fileadmin/digi/1653000953">
+	<Creator>escriptorium</Creator>
+	<Created>2025-02-10T19:45:27.959043+00:00</Created>
+        <LastChange>2025-02-10T19:45:27.959073+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1653000953_0001.jpg" imageWidth="2568" imageHeight="3595">
+    <TextRegion id="eSc_textblock_c598f4b1"  custom="structure {type:text;}">
+      <Coords points="1009,79 1290,87 1306,125 1251,157 917,149 883,205 191,205 167,157 191,87 485,135 883,127 1009,79"/>
+      <TextLine id="eSc_line_a96d2f35" custom="structure {type:default;}">
+        <Coords points="1267,85 1255,85 1197,89 1163,81 1145,81 1125,81 1105,81 1091,81 1081,89 1003,79 985,83 989,133 989,157 1290,149 1290,123 1284,85 1267,85"/>
+        <Baseline points="989,133 1290,123"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2f4ed9ad" custom="structure {type:default;}">
+        <Coords points="873,127 871,127 851,137 779,127 773,129 753,129 743,129 727,139 657,139 649,131 633,131 613,131 605,131 569,137 529,133 513,133 493,133 473,133 453,129 433,125 431,125 193,133 193,183 193,219 249,225 251,225 283,219 323,211 337,219 347,223 349,223 351,223 353,223 369,219 391,211 399,217 407,225 407,227 409,227 411,227 413,229 469,229 469,227 471,227 473,227 489,217 497,211 601,211 609,215 625,227 627,227 629,227 631,229 751,229 751,227 753,227 781,215 785,213 797,215 859,223 861,223 863,223 881,213 881,183 877,127 873,127"/>
+        <Baseline points="193,183 881,183"/>
+        <TextEquiv>
+          <Unicode>Professor Dr. Otto Selz</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_30890d05"  custom="structure {type:text;}">
+      <Coords points="691,455 1880,463 1920,509 727,541 671,509 691,455"/>
+      <TextLine id="eSc_line_7625b394" custom="structure {type:default;}">
+        <Coords points="1892,481 1874,463 1706,463 1704,461 1692,461 1672,461 1652,461 1632,461 1612,461 1592,461 1584,459 1574,461 1560,459 1552,459 1532,459 1512,459 1492,459 1472,459 1452,459 1432,459 1412,459 1392,459 1372,459 1352,459 1346,459 1342,461 1330,459 1312,459 1292,459 1273,457 1253,457 1233,457 1225,457 1221,463 1167,463 1161,457 1153,457 1133,457 1125,457 1111,463 1053,463 1043,457 1033,457 1013,457 993,457 973,463 905,463 895,455 893,455 873,455 853,455 833,455 813,455 793,455 773,455 753,455 733,455 713,455 693,455 695,503 697,547 717,537 737,547 739,547 741,547 743,547 745,547 787,537 847,547 851,547 853,547 855,547 857,547 897,537 1898,547 1902,501 1894,485 1892,481"/>
+        <Baseline points="695,503 1902,501"/>
+        <TextEquiv>
+          <Unicode>Personal Information.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_4f081a5b"  custom="structure {type:text;}">
+      <Coords points="723,599 2496,631 2480,972 2440,1134 2472,1406 2432,1533 2440,1851 2424,1899 2320,1957 2424,2013 2464,2077 2448,2250 2416,2276 2456,2428 2424,2564 2448,3059 2424,3145 1484,3169 1362,3209 375,3193 391,679 535,615 723,599"/>
+      <TextLine id="eSc_line_06bb5085" custom="structure {type:default;}">
+        <Coords points="2468,629 2448,629 2428,629 2408,629 2388,629 2368,627 2348,627 2328,627 2308,627 2288,627 2268,625 2248,625 2228,625 2208,625 2188,625 2168,625 2148,623 2128,623 2108,623 2088,623 2068,623 2048,621 2028,621 2008,621 1988,621 1968,621 1948,621 1928,619 1908,619 1888,619 1868,619 1848,619 1828,617 1808,617 1788,617 1768,617 1748,617 1728,617 1708,615 1688,615 1668,615 1648,615 1628,615 1608,615 1588,613 1568,613 1548,613 1528,613 1508,613 1488,611 1468,611 1448,611 1428,611 1408,611 1388,611 1368,609 1348,609 1328,609 1308,609 1288,609 1269,607 1249,607 1229,607 1209,607 1189,607 1169,607 1149,605 1129,605 1109,605 1089,605 1069,605 1049,603 1029,603 1009,603 989,603 969,603 949,603 945,601 645,607 633,605 629,605 609,607 589,609 589,649 587,665 611,677 613,677 615,677 837,669 1103,679 1105,679 1201,671 1215,671 1217,671 1235,681 1237,681 1239,681 1452,673 1498,673 1506,675 1538,683 1540,683 1542,685 2484,685 2486,661 2484,629 2468,629"/>
+        <Baseline points="589,649 2486,661"/>
+        <TextEquiv>
+          <Unicode>I was born on February 14 th, 1881, in Munich and am of German</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_16d3eecc" custom="structure {type:default;}">
+        <Coords points="401,673 401,699 399,724 2434,726 2438,709 2436,669 419,663 401,673"/>
+        <Baseline points="401,699 2438,709"/>
+        <TextEquiv>
+          <Unicode>nationality, Jewish race and religion. I have a good working know-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d6d05511" custom="structure {type:default;}">
+        <Coords points="405,750 403,772 2466,778 2470,760 2468,722 405,711 405,750"/>
+        <Baseline points="405,750 2470,760"/>
+        <TextEquiv>
+          <Unicode>ledge of English and French, read both languages fluently and speak</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9dc8cd2e" custom="structure {type:default;}">
+        <Coords points="407,800 405,824 2460,838 2464,812 2462,766 407,760 407,800"/>
+        <Baseline points="407,800 2464,812"/>
+        <TextEquiv>
+          <Unicode>them well enough to be able to lecture in them after a short period</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_000ec843" custom="structure {type:default;}">
+        <Coords points="403,850 401,870 2434,888 2438,862 2436,826 403,806 403,850"/>
+        <Baseline points="403,850 2438,862"/>
+        <TextEquiv>
+          <Unicode>in which to freshen up my knowledge. I am unmarried. My pension as</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e2aa918a" custom="structure {type:default;}">
+        <Coords points="405,908 403,926 2404,936 2408,914 2406,876 405,870 405,908"/>
+        <Baseline points="405,908 2408,914"/>
+        <TextEquiv>
+          <Unicode>a professor in ordinary amounts Rm 8. 409.-- per annum. Even should</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6bc0bf00" custom="structure {type:default;}">
+        <Coords points="407,960 405,976 2458,990 2462,972 2460,930 407,920 407,960"/>
+        <Baseline points="407,960 2462,972"/>
+        <TextEquiv>
+          <Unicode>this be continued after my being domiciled in another country, there</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_62308e75" custom="structure {type:default;}">
+        <Coords points="407,1012 405,1034 2370,1040 2374,1020 2372,976 407,974 407,1012"/>
+        <Baseline points="407,1012 2374,1020"/>
+        <TextEquiv>
+          <Unicode>is at present to my knowledge no possible means of transfer. The</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_798f48fb" custom="structure {type:default;}">
+        <Coords points="399,1058 397,1084 1618,1098 1620,1098 1986,1090 2010,1090 2012,1090 2028,1100 2030,1100 2032,1100 2034,1100 2430,1090 2432,1068 2432,1036 399,1018 399,1058"/>
+        <Baseline points="399,1058 2432,1068"/>
+        <TextEquiv>
+          <Unicode>remnant of my small private fortune will presumably be used before</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0903fa31" custom="structure {type:default;}">
+        <Coords points="401,1116 401,1142 429,1154 431,1154 433,1154 435,1154 459,1144 513,1154 515,1154 563,1144 569,1144 575,1144 633,1154 635,1154 845,1146 845,1116 845,1080 401,1072 401,1116"/>
+        <Baseline points="401,1116 845,1116"/>
+        <TextEquiv>
+          <Unicode>my emigration.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3dfa2ab0" custom="structure {type:default;}">
+        <Coords points="575,1236 2368,1246 2372,1228 2368,1170 2278,1186 2036,1186 1972,1170 1970,1170 1874,1182 1736,1172 1734,1172 1590,1182 1564,1172 1562,1172 1560,1172 1474,1182 1279,1168 1277,1168 1157,1180 1027,1164 1025,1164 1023,1164 1021,1164 835,1178 695,1164 693,1164 633,1178 579,1162 577,1220 575,1236"/>
+        <Baseline points="577,1220 2372,1228"/>
+        <TextEquiv>
+          <Unicode>My education began with three years at a primary school. I</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_299ef73e" custom="structure {type:default;}">
+        <Coords points="403,1268 401,1286 2432,1298 2436,1280 2432,1232 2160,1240 1922,1230 1920,1230 1798,1240 1518,1240 1496,1228 1494,1228 1492,1228 1490,1228 1460,1236 1420,1226 1418,1226 1416,1226 1362,1236 1318,1226 1316,1226 1314,1226 1081,1236 597,1224 595,1224 541,1232 403,1220 403,1268"/>
+        <Baseline points="403,1268 2436,1280"/>
+        <TextEquiv>
+          <Unicode>then entered the Grammar School of Munich, where I matriculated in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_16d8a8cc" custom="structure {type:default;}">
+        <Coords points="399,1322 397,1340 2304,1346 2308,1328 2306,1286 531,1286 399,1274 399,1322"/>
+        <Baseline points="399,1322 2308,1328"/>
+        <TextEquiv>
+          <Unicode>1899. I then studied law from 1899-1904 at the Universities of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8dec6c81" custom="structure {type:default;}">
+        <Coords points="393,1372 391,1392 2430,1400 2434,1378 2434,1342 393,1332 393,1372"/>
+        <Baseline points="393,1372 2434,1378"/>
+        <TextEquiv>
+          <Unicode>Munich and Berlin, at the same time attending many lectures of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_774fe0e1" custom="structure {type:default;}">
+        <Coords points="397,1428 395,1453 2454,1459 2458,1434 2456,1386 397,1380 397,1428"/>
+        <Baseline points="397,1428 2458,1434"/>
+        <TextEquiv>
+          <Unicode>philosophical faculty. After passing both the examinations required</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ac6c18ca" custom="structure {type:default;}">
+        <Coords points="399,1475 397,1495 2366,1507 2370,1483 2368,1447 399,1439 399,1475"/>
+        <Baseline points="399,1475 2370,1483"/>
+        <TextEquiv>
+          <Unicode>for the legal branch of civil service in 1904 and 1907 and after</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8713f100" custom="structure {type:default;}">
+        <Coords points="399,1525 397,1551 2278,1553 2282,1535 2280,1491 399,1481 399,1525"/>
+        <Baseline points="399,1525 2282,1535"/>
+        <TextEquiv>
+          <Unicode>being formally admitted as a solicitor in Munich, but without</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_74bcb8f8" custom="structure {type:default;}">
+        <Coords points="397,1579 397,1605 2364,1603 2366,1585 2364,1541 397,1541 397,1579"/>
+        <Baseline points="397,1579 2366,1585"/>
+        <TextEquiv>
+          <Unicode>practising, I devoted myself entirely to the study of philosophy</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_622a021e" custom="structure {type:default;}">
+        <Coords points="395,1629 393,1647 2426,1665 2430,1639 2428,1593 395,1591 395,1629"/>
+        <Baseline points="395,1629 2430,1639"/>
+        <TextEquiv>
+          <Unicode>and psychology as well as to supplementary studies in medicine and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dcdc0113" custom="structure {type:default;}">
+        <Coords points="393,1681 393,1709 2398,1709 2400,1689 2398,1653 1958,1653 1928,1647 1876,1641 1874,1641 1630,1645 1398,1649 1334,1643 1298,1639 1296,1639 1175,1641 897,1647 743,1637 727,1637 725,1637 707,1637 519,1645 393,1635 393,1681"/>
+        <Baseline points="393,1681 2400,1689"/>
+        <TextEquiv>
+          <Unicode>natural science. In 1909, I obtained my degree as Doctor of Philo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e3d34d88" custom="structure {type:default;}">
+        <Coords points="393,1733 391,1751 2394,1761 2398,1745 2396,1699 393,1693 393,1733"/>
+        <Baseline points="393,1733 2398,1745"/>
+        <TextEquiv>
+          <Unicode>sophy under Theodor Lipps in Munich by an enquiry into the theory</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3e6e4793" custom="structure {type:default;}">
+        <Coords points="397,1783 395,1799 2344,1809 2348,1793 2346,1755 397,1739 397,1783"/>
+        <Baseline points="397,1783 2348,1793"/>
+        <TextEquiv>
+          <Unicode>of transcendentalism as found in the earlier English empiricism</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dbc6dd44" custom="structure {type:default;}">
+        <Coords points="407,1833 405,1851 475,1863 477,1863 671,1855 823,1865 825,1867 2420,1867 2422,1843 2420,1799 407,1795 407,1833"/>
+        <Baseline points="407,1833 2422,1843"/>
+        <TextEquiv>
+          <Unicode>&quot;Die psychologische Erkenntnistheorie und das Transzendenzproblem&quot;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4c408558" custom="structure {type:default;}">
+        <Coords points="399,1887 397,1913 407,1921 409,1921 411,1921 413,1921 1808,1915 1810,1893 1806,1843 399,1845 399,1887"/>
+        <Baseline points="399,1887 1810,1893"/>
+        <TextEquiv>
+          <Unicode>(Archiv für die gesamte Psychologie, Band 16).</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0222442a" custom="structure {type:default;}">
+        <Coords points="567,1993 567,2013 1628,2013 1634,2013 1686,2023 1688,2023 2246,2013 2248,1999 2246,1953 2180,1939 1900,1939 1898,1939 1896,1939 1894,1939 1878,1949 1868,1949 1744,1939 1742,1939 1704,1947 1686,1951 1634,1947 1538,1939 1536,1939 1534,1939 1532,1939 1522,1947 1516,1949 1432,1945 1259,1937 1257,1937 1205,1943 1157,1949 567,1939 567,1993"/>
+        <Baseline points="567,1993 2248,1999"/>
+        <TextEquiv>
+          <Unicode>From 1909, I worked in the Psychological Laboratory of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_90cad0db" custom="structure {type:default;}">
+        <Coords points="389,2039 387,2063 2386,2069 2390,2049 2390,2013 389,1999 389,2039"/>
+        <Baseline points="389,2039 2390,2049"/>
+        <TextEquiv>
+          <Unicode>Oswald Külpe in Bonn and was soon one of his chief collaborators.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6bfcb0de" custom="structure {type:default;}">
+        <Coords points="2452,2063 2446,2053 393,2049 393,2093 391,2107 2450,2125 2454,2103 2452,2063 2452,2063"/>
+        <Baseline points="393,2093 2454,2103"/>
+        <TextEquiv>
+          <Unicode>In 1912, I established myself as lecturer at the University of Bonn</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bd649ba2" custom="structure {type:default;}">
+        <Coords points="393,2143 391,2166 2422,2168 2426,2153 2424,2113 393,2095 393,2143"/>
+        <Baseline points="393,2143 2426,2153"/>
+        <TextEquiv>
+          <Unicode>by an experimental enquiry into the laws of the ordered course of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5323224a" custom="structure {type:default;}">
+        <Coords points="393,2196 391,2214 797,2230 799,2230 1023,2222 1057,2222 1059,2222 1071,2232 1073,2232 1075,2232 1077,2232 1125,2224 1139,2222 1207,2224 1402,2234 1404,2234 1564,2228 1716,2224 1750,2232 1774,2236 1776,2236 1880,2232 2060,2226 2092,2236 2102,2238 2104,2238 2106,2240 2308,2240 2308,2238 2314,2238 2356,2228 2410,2238 2414,2208 2412,2168 393,2157 393,2196"/>
+        <Baseline points="393,2196 2414,2208"/>
+        <TextEquiv>
+          <Unicode>thinking (Ueber die Gesetze des geordneten Denkverlaufs. Stuttgart,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_353d63ac" custom="structure {type:default;}">
+        <Coords points="391,2196 391,2250 389,2274 589,2286 593,2254 591,2216 411,2198 391,2196"/>
+        <Baseline points="391,2250 593,2254"/>
+        <TextEquiv conf="0.9959365824858347">
+          <Unicode>1913).</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_785373b6" custom="structure {type:default;}">
+        <Coords points="569,2350 567,2368 2328,2374 2332,2356 2330,2312 2040,2298 2038,2298 1968,2306 1938,2310 1876,2306 1742,2296 1740,2296 1668,2304 1622,2308 1592,2302 1554,2296 1552,2296 1550,2296 1548,2296 1540,2302 1530,2310 1159,2310 1103,2298 1101,2298 935,2306 909,2294 907,2294 905,2294 903,2294 901,2294 899,2294 879,2308 749,2308 705,2294 703,2294 701,2294 699,2294 665,2306 569,2292 569,2350"/>
+        <Baseline points="569,2350 2332,2356"/>
+        <TextEquiv>
+          <Unicode>During the war, I was on active service. Returning to the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_14a168e5" custom="structure {type:default;}">
+        <Coords points="389,2402 387,2426 2394,2428 2398,2410 2394,2360 1404,2366 1269,2356 1267,2356 445,2362 389,2352 389,2402"/>
+        <Baseline points="389,2402 2398,2410"/>
+        <TextEquiv>
+          <Unicode>University of Bonn in 1919, I was nominated Professor in 1921. In</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_43252491" custom="structure {type:default;}">
+        <Coords points="2440,2416 391,2412 391,2458 389,2472 421,2484 423,2484 425,2484 2444,2478 2446,2464 2444,2444 2440,2416"/>
+        <Baseline points="391,2458 2446,2464"/>
+        <TextEquiv>
+          <Unicode>1933, after the publication of my work &quot;Zur Psychologie des produk-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c427f781" custom="structure {type:default;}">
+        <Coords points="389,2506 387,2530 2356,2540 2360,2516 2358,2472 389,2464 389,2506"/>
+        <Baseline points="389,2506 2360,2516"/>
+        <TextEquiv>
+          <Unicode>tiven Denkens und des Irrtums&quot;(Psychology of productive thinking</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9c994675" custom="structure {type:default;}">
+        <Coords points="389,2560 387,2576 2348,2580 2352,2564 2350,2524 389,2520 389,2560"/>
+        <Baseline points="389,2560 2352,2564"/>
+        <TextEquiv>
+          <Unicode>and error, Bonn, 1922), I was given the chair for philosophy, psycho-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4f3dab25" custom="structure {type:default;}">
+        <Coords points="387,2610 385,2634 2384,2636 2388,2618 2386,2578 387,2562 387,2610"/>
+        <Baseline points="387,2610 2388,2618"/>
+        <TextEquiv>
+          <Unicode>logy and pedagogy (Wilhelm Wundt Professorship) at the University</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e5ac9577" custom="structure {type:default;}">
+        <Coords points="387,2666 385,2680 2416,2690 2420,2672 2416,2622 1744,2630 1680,2620 1672,2620 387,2620 387,2666"/>
+        <Baseline points="387,2666 2420,2672"/>
+        <TextEquiv>
+          <Unicode>of Commerce in Mannheim and at the same time appointed Director of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fc601fca" custom="structure {type:default;}">
+        <Coords points="389,2716 387,2732 2356,2746 2360,2724 2358,2678 389,2674 389,2716"/>
+        <Baseline points="389,2716 2360,2724"/>
+        <TextEquiv>
+          <Unicode>the Institute for Psychology and Pedagogy at this university. In</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_04de6993" custom="structure {type:default;}">
+        <Coords points="391,2768 389,2788 2412,2798 2416,2776 2414,2730 391,2728 391,2768"/>
+        <Baseline points="391,2768 2416,2776"/>
+        <TextEquiv>
+          <Unicode>the same year, I posthumously edited the &quot;Lectures on Logic&quot; of my</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_38d64a86" custom="structure {type:default;}">
+        <Coords points="387,2818 385,2840 2294,2848 2298,2824 2296,2786 387,2774 387,2818"/>
+        <Baseline points="387,2818 2298,2824"/>
+        <TextEquiv>
+          <Unicode>teacher Oswald Kulpe. The senate of the University of Commerce</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_797622fc" custom="structure {type:default;}">
+        <Coords points="387,2870 387,2893 735,2893 741,2895 761,2905 763,2905 765,2905 973,2897 1095,2893 1105,2899 1123,2907 1125,2907 1195,2909 1197,2909 1418,2901 1596,2895 1652,2903 1704,2911 1706,2911 1708,2911 1728,2903 1750,2897 1984,2897 2120,2907 2200,2913 2202,2913 2256,2909 2356,2899 2406,2909 2410,2879 2408,2836 387,2830 387,2870"/>
+        <Baseline points="387,2870 2410,2879"/>
+        <TextEquiv>
+          <Unicode>elected me unanimously as principal for the year of office 1929-30.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1598d314" custom="structure {type:default;}">
+        <Coords points="561,2989 589,3001 591,3001 593,3001 1013,2993 1478,3005 1480,3005 2388,2997 2390,2981 2390,2937 2348,2925 2346,2925 2344,2925 2272,2935 2252,2937 2220,2935 2124,2925 2122,2925 2026,2933 1962,2937 1940,2931 1910,2923 1908,2923 1906,2923 1814,2931 1744,2935 1606,2927 1474,2921 1472,2921 1432,2925 1378,2935 1201,2935 1159,2923 1149,2921 1147,2921 1145,2921 1123,2923 1027,2933 955,2923 953,2923 607,2931 565,2917 563,2973 561,2989"/>
+        <Baseline points="563,2973 2390,2981"/>
+        <TextEquiv>
+          <Unicode>On March 1 st, 1934, I was pensioned according to the terms</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a4e6ba93" custom="structure {type:default;}">
+        <Coords points="383,3025 381,3043 2362,3051 2366,3033 2366,2995 383,2987 383,3025"/>
+        <Baseline points="383,3025 2366,3033"/>
+        <TextEquiv>
+          <Unicode>of my contract. The psychological laboratory of which I had been</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e586d63d" custom="structure {type:default;}">
+        <Coords points="385,3071 383,3089 2430,3107 2434,3083 2434,3047 385,3035 385,3071"/>
+        <Baseline points="385,3071 2434,3083"/>
+        <TextEquiv>
+          <Unicode>the head was taken over, with the University of Commerce, by the Uni-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c8316c92" custom="structure {type:default;}">
+        <Coords points="383,3125 381,3153 2380,3157 2384,3133 2382,3087 383,3087 383,3125"/>
+        <Baseline points="383,3125 2384,3133"/>
+        <TextEquiv>
+          <Unicode>versity of Heidelberg. Since my retirement, I have devoted myself</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b254094d" custom="structure {type:default;}">
+        <Coords points="381,3177 379,3201 421,3213 423,3213 425,3213 615,3205 637,3205 639,3205 649,3215 649,3217 651,3217 653,3217 655,3217 731,3207 737,3207 745,3207 859,3219 861,3221 997,3221 997,3219 999,3219 1015,3211 1023,3207 1037,3211 1055,3217 1057,3217 1059,3217 1089,3213 1109,3209 1117,3213 1133,3221 1135,3221 1137,3223 1137,3221 1139,3221 1155,3213 1163,3209 1199,3213 1255,3221 1257,3221 1364,3215 1366,3183 1364,3145 381,3139 381,3177"/>
+        <Baseline points="381,3177 1366,3183"/>
+        <TextEquiv>
+          <Unicode>entirely to scientific research.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_06b725fd"  custom="structure {type:text;}">
+      <Coords points="1966,71 2048,71 2080,125 1938,141 1914,103 1966,71"/>
+      <TextLine id="eSc_line_a94c2b0b" custom="structure {type:default;}">
+        <Coords points="2060,95 2042,75 2020,71 2020,71 2000,71 1980,71 1960,73 1940,85 1940,119 1940,161 2070,153 2070,119 2062,99 2060,95"/>
+        <Baseline points="1940,119 2070,119"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

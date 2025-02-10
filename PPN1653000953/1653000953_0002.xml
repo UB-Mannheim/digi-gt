@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://digi.bib.uni-mannheim.de/fileadmin/digi/1653000953">
+	<Creator>escriptorium</Creator>
+	<Created>2025-02-10T19:45:28.031100+00:00</Created>
+        <LastChange>2025-02-10T19:45:28.031132+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1653000953_0002.jpg" imageWidth="2609" imageHeight="3598">
+    <TextRegion id="eSc_textblock_6c4ab006"  custom="structure {type:text;}">
+      <Coords points="673,87 915,87 931,141 663,157 647,95 673,87"/>
+      <TextLine id="eSc_line_8bda303c" custom="structure {type:default;}">
+        <Coords points="913,97 893,87 875,87 831,95 783,87 773,87 753,87 733,87 729,87 667,95 655,117 655,131 655,169 727,157 749,169 767,179 769,179 771,181 843,181 843,179 845,179 847,179 847,177 859,165 869,157 917,163 921,129 919,117 913,97"/>
+        <Baseline points="655,131 921,129"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_815b9cbe"  custom="structure {type:text;}">
+      <Coords points="1257,407 2489,407 2545,487 2521,615 2553,695 2529,759 2545,869 2513,935 2545,1621 2497,2102 2505,2252 2537,2278 2537,2444 2505,2510 2529,2764 2497,2814 2513,2892 2489,2894 2513,2964 2449,3036 741,3060 519,3060 495,3036 471,495 495,463 679,415 1257,407"/>
+      <TextLine id="eSc_line_7b083309" custom="structure {type:default;}">
+        <Coords points="2447,407 2427,407 2407,407 2387,407 2367,407 2347,407 2327,407 2307,407 2287,407 2267,407 2247,407 2227,407 2207,407 2187,407 2167,407 2147,407 2127,407 2107,407 2087,407 2067,407 2047,407 2027,407 2007,407 1987,407 1967,407 1947,407 1927,407 1907,407 1887,407 1867,407 1847,407 1827,407 1807,407 1787,407 1767,407 1747,407 1727,407 1707,407 1687,407 1667,407 1647,407 1627,407 1607,407 1587,407 1567,407 1547,407 1527,407 1507,407 1487,407 1467,407 1447,407 1427,407 1407,407 1387,407 1367,407 1351,407 667,421 669,463 669,489 859,477 1071,483 1121,483 1123,483 1125,483 1131,481 1161,473 1339,477 1423,479 1425,479 2487,455 2489,439 2485,407 2467,407"/>
+        <Baseline points="669,463 2489,439"/>
+        <TextEquiv conf="0.9998762667179107">
+          <Unicode>In the agreement with the judgment of collsaguss, I may con-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_76e2fdcd" custom="structure {type:default;}">
+        <Coords points="2516,455 2504,449 491,467 476,485 479,509 479,536 2531,509 2534,488 2531,476 2516,455"/>
+        <Baseline points="481,511 2537,491"/>
+        <TextEquiv>
+          <Unicode>sider the establishment of a strictly methodical psychology of cre-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cf694f6a" custom="structure {type:default;}">
+        <Coords points="482,563 482,587 2552,569 2555,539 2546,497 479,512 482,563"/>
+        <Baseline points="483,565 2556,541"/>
+        <TextEquiv>
+          <Unicode>ative mental activity and my still unfinished enquiry into the psy-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9b7f2536" custom="structure {type:default;}">
+        <Coords points="483,635 2515,611 2517,593 2511,555 481,575 483,617"/>
+        <Baseline points="483,617 2517,593"/>
+        <TextEquiv conf="0.9975612074581545">
+          <Unicode>chology of space, time and &quot;shape&quot;(Gestalt) as my two chief contri-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0ed1006d" custom="structure {type:default;}">
+        <Coords points="483,687 2453,667 2455,645 2449,603 481,627 483,671"/>
+        <Baseline points="483,671 2455,645"/>
+        <TextEquiv conf="0.9995019072666764">
+          <Unicode>butions to science. I hope to be able to collect and complete my</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4130076d" custom="structure {type:default;}">
+        <Coords points="483,743 2531,709 2531,693 2525,649 481,675 483,719"/>
+        <Baseline points="483,719 2531,693"/>
+        <TextEquiv>
+          <Unicode>partial publications on this subject (since 1929) and to unite them</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ef4a8446" custom="structure {type:default;}">
+        <Coords points="487,797 2511,761 2513,741 2507,707 485,729 487,769"/>
+        <Baseline points="487,769 2513,741"/>
+        <TextEquiv conf="0.9956484319585742">
+          <Unicode>in an enquiry into &quot;The structural Principles of the world of Phe-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b35b6f44" custom="structure {type:default;}">
+        <Coords points="483,845 2427,819 2429,797 2423,753 481,783 483,823"/>
+        <Baseline points="483,823 2429,797"/>
+        <TextEquiv>
+          <Unicode>nomena&quot;. Only then would my earlier discovery of some important</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d76d8762" custom="structure {type:default;}">
+        <Coords points="2531,830 2528,809 479,830 482,875 482,899 2534,881 2537,851 2534,842 2531,830"/>
+        <Baseline points="485,877 2539,853"/>
+        <TextEquiv>
+          <Unicode>genetic laws (Verlaufsgesetze) in the psychical Cosmos (doctrine of</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_92073f71" custom="structure {type:default;}">
+        <Coords points="485,949 2493,917 2493,899 2487,863 483,889 485,927"/>
+        <Baseline points="485,927 2493,899"/>
+        <TextEquiv>
+          <Unicode>schematical anticipation, laws of complex-completion, theory of in-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ce1e9833" custom="structure {type:default;}">
+        <Coords points="489,995 2461,969 2463,951 2457,915 487,935 489,977"/>
+        <Baseline points="489,977 2463,951"/>
+        <TextEquiv conf="0.9985745782032609">
+          <Unicode>tellectual operations) come to the support of the systematically</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_264f2c1d" custom="structure {type:default;}">
+        <Coords points="487,1057 2489,1017 2489,1001 2483,963 485,991 487,1031"/>
+        <Baseline points="487,1031 2489,1001"/>
+        <TextEquiv>
+          <Unicode>requlred supplementation in the exposition of its structural laws</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_abddd480" custom="structure {type:default;}">
+        <Coords points="491,1111 685,1099 895,1105 949,1105 951,1105 953,1105 957,1103 981,1093 1067,1101 1093,1103 1095,1103 1097,1103 1105,1101 1135,1091 1195,1099 1217,1101 1219,1101 1243,1097 1301,1089 1369,1095 1413,1099 1415,1099 1417,1099 1427,1095 1445,1087 1469,1093 1483,1097 1485,1097 1487,1097 1557,1091 1625,1087 1763,1087 2043,1091 2045,1091 2047,1091 2069,1083 2079,1077 2357,1075 2377,1077 2451,1085 2453,1085 2513,1073 2513,1055 2507,1013 489,1041 491,1081"/>
+        <Baseline points="491,1081 2513,1055"/>
+        <TextEquiv>
+          <Unicode>(Aufbaugesetze). A problem first seen by John Locke would by these</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6d631cd4" custom="structure {type:default;}">
+        <Coords points="485,1157 2467,1127 2469,1109 2463,1063 483,1093 485,1135"/>
+        <Baseline points="485,1135 2469,1109"/>
+        <TextEquiv>
+          <Unicode>means be re-stated and brought towards a solution by help of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_06e6d31b" custom="structure {type:default;}">
+        <Coords points="489,1209 2435,1175 2437,1157 2431,1121 487,1145 489,1183"/>
+        <Baseline points="489,1183 2437,1157"/>
+        <TextEquiv conf="0.999713295035892">
+          <Unicode>apparatus of modern psychological analysis. My discovery of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_237da8a6" custom="structure {type:default;}">
+        <Coords points="493,1261 2513,1225 2515,1205 2509,1165 491,1197 493,1235"/>
+        <Baseline points="493,1235 2515,1205"/>
+        <TextEquiv>
+          <Unicode>quality-connecting phenomens of gradation (phenomene of continuous</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e7e76c21" custom="structure {type:default;}">
+        <Coords points="489,1305 2511,1277 2513,1257 2507,1221 487,1247 489,1287"/>
+        <Baseline points="489,1287 2513,1257"/>
+        <TextEquiv conf="0.9980496502283848">
+          <Unicode>and discontinuous increase and decrease of quality or quantity) as</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8286be58" custom="structure {type:default;}">
+        <Coords points="491,1363 2519,1329 2521,1311 2515,1273 489,1301 491,1341"/>
+        <Baseline points="491,1341 2521,1311"/>
+        <TextEquiv conf="0.9911126088012349">
+          <Unicode>a specific class of perceptions makes possible the bridging of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_44d1cf98" custom="structure {type:default;}">
+        <Coords points="1295,1331 1292,1331 485,1340 488,1391 488,1415 2522,1385 2522,1364 2513,1313 1295,1328 1295,1331"/>
+        <Baseline points="491,1393 2525,1365"/>
+        <TextEquiv>
+          <Unicode>gulf between the qualities and the phenomenal wholes, and therewith</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7361b983" custom="structure {type:default;}">
+        <Coords points="495,1461 2519,1437 2521,1413 2515,1375 493,1401 495,1441"/>
+        <Baseline points="495,1441 2521,1413"/>
+        <TextEquiv conf="0.999659100265214">
+          <Unicode>the return from analysis to synthesis (synthetic psychology of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8cb1a67c" custom="structure {type:default;}">
+        <Coords points="488,1490 488,1514 2516,1496 2519,1466 2510,1418 485,1439 488,1490"/>
+        <Baseline points="491,1493 2521,1467"/>
+        <TextEquiv>
+          <Unicode>whole) which was considered impossible by the psychologists of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f45c7bf2" custom="structure {type:default;}">
+        <Coords points="495,1567 2441,1537 2443,1515 2439,1479 2049,1473 2047,1473 2045,1473 2019,1483 1995,1483 1329,1483 1327,1483 1201,1495 1185,1495 1157,1495 921,1489 919,1489 917,1489 889,1499 885,1499 877,1499 801,1491 799,1491 493,1503 495,1543"/>
+        <Baseline points="495,1543 2443,1515"/>
+        <TextEquiv conf="0.9947734342681037">
+          <Unicode>last decades. The task of an adequate description of the shaped</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_82495dcc" custom="structure {type:default;}">
+        <Coords points="495,1621 2525,1587 2525,1569 2519,1521 897,1553 857,1553 631,1547 629,1547 493,1559 495,1599"/>
+        <Baseline points="495,1599 2525,1569"/>
+        <TextEquiv conf="0.9968562966043298">
+          <Unicode>phenonemal continus in the optical-spacial field as well as of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ee99c789" custom="structure {type:default;}">
+        <Coords points="494,1646 494,1670 2519,1643 2519,1622 2510,1577 491,1601 494,1646"/>
+        <Baseline points="495,1649 2521,1623"/>
+        <TextEquiv conf="0.991803762587634">
+          <Unicode>generally discontinuous temporal figures in the field of acoustics</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_84e690b5" custom="structure {type:default;}">
+        <Coords points="827,1645 825,1645 823,1645 821,1645 805,1657 653,1657 561,1649 559,1649 495,1659 497,1697 497,1727 587,1717 617,1725 623,1727 625,1727 627,1727 665,1725 801,1715 879,1721 909,1723 911,1723 913,1723 921,1721 943,1713 1053,1719 1127,1721 1129,1721 1155,1717 1193,1709 1225,1715 1249,1719 1251,1719 1303,1713 1363,1707 1403,1711 1445,1717 1447,1717 1449,1717 1469,1711 1489,1705 1541,1709 1605,1715 1607,1715 1875,1703 1989,1699 2011,1701 2077,1709 2079,1709 2081,1709 2109,1699 2117,1697 2137,1699 2211,1707 2213,1707 2403,1693 2403,1673 2399,1637 2085,1629 2083,1629 1587,1645 855,1645 835,1645"/>
+        <Baseline points="497,1697 2403,1673"/>
+        <TextEquiv>
+          <Unicode>and music (rhythm, melody) is thus made capable of fulfilment.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2f2b9a37" custom="structure {type:default;}">
+        <Coords points="675,1820 2501,1799 2503,1773 2497,1733 2265,1733 2225,1721 2223,1721 2221,1721 2219,1721 2183,1735 2179,1735 1921,1729 1919,1729 1917,1729 1887,1739 1885,1739 1883,1739 1799,1727 1797,1727 1669,1741 1655,1743 1641,1743 1545,1731 1543,1731 1541,1731 1509,1743 1505,1745 1495,1745 1415,1733 1413,1733 1411,1733 1377,1745 1371,1747 1325,1747 1111,1739 1109,1739 1057,1749 1045,1751 1033,1749 963,1739 961,1739 959,1739 931,1751 925,1753 905,1751 815,1741 813,1741 673,1753 675,1799"/>
+        <Baseline points="675,1799 2503,1773"/>
+        <TextEquiv conf="0.9931038389603297">
+          <Unicode>Besides my two above-mentioned chief fields of research, the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_692e5853" custom="structure {type:default;}">
+        <Coords points="497,1870 2497,1842 2497,1824 2491,1787 495,1804 497,1852"/>
+        <Baseline points="497,1852 2497,1824"/>
+        <TextEquiv>
+          <Unicode>contributions to the psychology of the personality, to the psycho-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d75ff390" custom="structure {type:default;}">
+        <Coords points="501,1920 2491,1898 2493,1878 2487,1832 499,1858 501,1902"/>
+        <Baseline points="501,1902 2493,1878"/>
+        <TextEquiv>
+          <Unicode>logy of the will and the memory, to the psychology of the economy,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_48721b47" custom="structure {type:default;}">
+        <Coords points="500,1951 500,1972 2495,1957 2498,1930 2489,1885 497,1906 500,1951"/>
+        <Baseline points="503,1954 2499,1932"/>
+        <TextEquiv conf="0.9850976081994863">
+          <Unicode>to the question of the relation between speaking and thinking, to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7c960383" custom="structure {type:default;}">
+        <Coords points="2381,1934 2321,1942 2319,1942 2315,1942 2107,1936 2105,1936 2045,1946 2041,1946 2035,1946 1987,1938 1985,1938 499,1962 501,2006 501,2028 2473,1996 2475,1978 2471,1942 2413,1934 2399,1934"/>
+        <Baseline points="501,2006 2475,1978"/>
+        <TextEquiv conf="0.9878684766590595">
+          <Unicode>the problem of educability of mental achievements and to the im-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8af5d50e" custom="structure {type:default;}">
+        <Coords points="499,2086 2367,2054 2369,2032 2363,1984 497,2018 499,2060"/>
+        <Baseline points="499,2060 2369,2032"/>
+        <TextEquiv conf="0.9990428520030663">
+          <Unicode>provement of the methods for the selection of schoolchildren,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fe329d85" custom="structure {type:default;}">
+        <Coords points="497,2130 881,2136 883,2136 1179,2132 1181,2132 1201,2124 1205,2122 1227,2122 1323,2130 1325,2130 1327,2130 1343,2122 1347,2120 1375,2122 1481,2128 1483,2128 1537,2120 1551,2118 1565,2120 1621,2126 1623,2126 1723,2118 1769,2112 2473,2108 2473,2082 2467,2044 495,2070 497,2110"/>
+        <Baseline points="497,2110 2473,2082"/>
+        <TextEquiv>
+          <Unicode>worked out by myself and my former collaborators, should also be</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fb830597" custom="structure {type:default;}">
+        <Coords points="495,2158 495,2192 609,2184 623,2188 641,2194 643,2194 645,2194 647,2194 669,2186 683,2182 703,2186 753,2194 755,2194 821,2180 821,2158 821,2120 495,2120 495,2158"/>
+        <Baseline points="495,2158 821,2158"/>
+        <TextEquiv conf="0.9999905586242676">
+          <Unicode>mentioned.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_91dfabe7" custom="structure {type:default;}">
+        <Coords points="681,2278 2481,2254 2483,2234 2477,2178 2189,2194 2115,2186 2085,2182 2083,2182 2081,2182 2065,2186 2025,2196 1993,2188 1977,2184 1975,2184 1973,2184 1799,2192 1627,2200 1617,2196 1605,2190 1603,2190 1601,2190 1599,2190 1585,2196 1573,2202 1543,2198 1503,2192 1501,2192 1425,2200 1369,2206 1327,2202 1237,2194 1235,2194 1233,2194 1207,2206 1199,2210 957,2212 951,2210 913,2200 911,2200 909,2200 907,2200 905,2200 889,2212 887,2214 815,2214 807,2214 695,2202 693,2202 691,2202 689,2202 679,2208 681,2260"/>
+        <Baseline points="681,2260 2483,2234"/>
+        <TextEquiv>
+          <Unicode>It is my desire to find an opportunity of making practical</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6b1c889b" custom="structure {type:default;}">
+        <Coords points="1683,2256 1505,2252 1447,2250 1445,2250 1443,2250 1441,2250 1439,2252 1425,2262 1301,2262 1197,2254 1177,2254 1175,2254 1153,2256 1033,2266 953,2258 949,2258 947,2258 937,2258 759,2270 675,2262 673,2262 607,2272 497,2264 499,2314 499,2332 2515,2304 2517,2284 2511,2248 2509,2240"/>
+        <Baseline points="499,2314 2517,2284"/>
+        <TextEquiv>
+          <Unicode>use of my knowledge of the productive personality and the analysis</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3e5726af" custom="structure {type:default;}">
+        <Coords points="1274,2302 1247,2302 1106,2302 1094,2305 1064,2305 1034,2305 1004,2305 995,2305 902,2305 884,2308 854,2308 824,2308 794,2308 764,2308 743,2308 698,2308 674,2311 644,2311 614,2311 584,2311 554,2311 524,2311 494,2311 497,2362 497,2380 2522,2353 2522,2338 2513,2287 1277,2299 1274,2302"/>
+        <Baseline points="499,2364 2523,2340"/>
+        <TextEquiv>
+          <Unicode>of his Cosmos of shapes (Gestaltenwelt) to which I have paved the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8b07bccd" custom="structure {type:default;}">
+        <Coords points="499,2432 2521,2410 2521,2386 2515,2342 497,2370 499,2414"/>
+        <Baseline points="499,2414 2521,2386"/>
+        <TextEquiv>
+          <Unicode>way, for example in one of the last-mentioned fields of work which</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cff49eda" custom="structure {type:default;}">
+        <Coords points="500,2467 500,2497 2522,2467 2522,2440 2513,2398 497,2422 500,2467"/>
+        <Baseline points="501,2468 2525,2442"/>
+        <TextEquiv>
+          <Unicode>are in touch with daily life. In the bordering sciences, the atten-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a904f08b" custom="structure {type:default;}">
+        <Coords points="507,2518 507,2544 2385,2514 2385,2494 2379,2448 505,2478 507,2518"/>
+        <Baseline points="507,2518 2385,2494"/>
+        <TextEquiv>
+          <Unicode>tion especially of neurologists, philologists, pedagogues and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bf624b50" custom="structure {type:default;}">
+        <Coords points="503,2574 503,2600 683,2592 787,2600 805,2600 807,2600 809,2600 811,2600 825,2590 1231,2594 1321,2594 1323,2594 1333,2592 1379,2580 1667,2578 1741,2588 1751,2588 1753,2588 1755,2588 1757,2588 1771,2578 1881,2584 1883,2584 1959,2574 1973,2584 1975,2584 1977,2584 1979,2584 2105,2582 2105,2552 2099,2512 501,2532 503,2574"/>
+        <Baseline points="503,2574 2105,2552"/>
+        <TextEquiv conf="0.9993342023629409">
+          <Unicode>animal psychologists has been drawn to my enquiries.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6ce4c634" custom="structure {type:default;}">
+        <Coords points="686,2668 686,2683 2528,2668 2528,2650 2522,2602 2327,2584 2324,2584 2213,2602 1943,2590 1940,2590 1832,2605 1739,2590 1736,2590 1637,2605 1607,2590 1604,2590 1601,2590 1454,2593 1451,2593 1448,2593 1430,2608 1106,2596 1103,2596 1100,2596 1097,2596 1079,2611 968,2599 965,2599 962,2599 929,2614 902,2602 899,2602 896,2602 683,2617 686,2668"/>
+        <Baseline points="687,2670 2529,2652"/>
+        <TextEquiv>
+          <Unicode>Through my extensive practice in lecturing and my publicatio</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_03717e95" custom="structure {type:default;}">
+        <Coords points="503,2726 503,2742 2381,2720 2383,2700 2377,2652 1365,2674 951,2670 933,2670 931,2670 925,2670 785,2682 501,2676 503,2726"/>
+        <Baseline points="503,2726 2383,2700"/>
+        <TextEquiv conf="0.9792203287609288">
+          <Unicode>in the three fields of philosophy, psychology and pedagogy, I</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_870a739e" custom="structure {type:default;}">
+        <Coords points="503,2776 503,2796 2509,2768 2509,2752 2503,2714 501,2736 503,2776"/>
+        <Baseline points="503,2776 2509,2752"/>
+        <TextEquiv>
+          <Unicode>should be in a position to fill a post in which, as was the case in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fd8ee71d" custom="structure {type:default;}">
+        <Coords points="507,2830 507,2846 2419,2830 2419,2802 2413,2760 505,2790 507,2830"/>
+        <Baseline points="507,2830 2419,2802"/>
+        <TextEquiv>
+          <Unicode>the University of Commerce in Mannheim, all three subjects are</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bba4d0ed" custom="structure {type:default;}">
+        <Coords points="507,2876 507,2902 1313,2900 1315,2872 1311,2836 935,2826 933,2826 887,2836 883,2838 505,2838 507,2876"/>
+        <Baseline points="507,2876 1315,2872"/>
+        <TextEquiv conf="0.987538259762984">
+          <Unicode>taught by a single person.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5d3cce75" custom="structure {type:default;}">
+        <Coords points="683,2980 683,3000 2491,2972 2493,2952 2487,2898 2375,2910 2323,2900 2293,2894 2291,2894 2119,2896 2061,2904 1965,2920 1795,2920 1773,2908 1771,2908 1769,2908 1767,2908 1759,2910 1703,2922 1659,2910 1647,2908 1645,2908 1643,2908 1625,2912 1567,2926 1421,2926 1375,2916 1349,2910 1347,2910 1345,2910 1327,2916 1291,2930 1139,2930 1085,2920 1047,2914 1045,2914 879,2916 877,2916 875,2916 863,2924 845,2934 681,2928 683,2980"/>
+        <Baseline points="683,2980 2493,2952"/>
+        <TextEquiv>
+          <Unicode>My ideal which may perhaps not be realizable would be inde-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8485d537" custom="structure {type:default;}">
+        <Coords points="507,3036 507,3070 565,3060 953,3066 1013,3066 1015,3066 1027,3064 1101,3052 1249,3062 1271,3062 1273,3062 1275,3062 1277,3060 1301,3048 1429,3056 1431,3056 1537,3044 1635,3054 1637,3054 1639,3054 1689,3042 1777,3054 1791,3054 1793,3054 1795,3054 1799,3052 1825,3044 1891,3052 1903,3052 1905,3052 1907,3052 1911,3052 1955,3038 1997,3050 1999,3050 2001,3050 2003,3050 2005,3050 2007,3050 2047,3038 2195,3044 2197,3044 2199,3044 2201,3044 2217,3034 2437,3042 2439,3006 2433,2964 505,2994 507,3036"/>
+        <Baseline points="507,3036 2439,3006"/>
+        <TextEquiv>
+          <Unicode>pendant work in a research laboratory with occasion to lecture.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_6f7c6a6b"  custom="structure {type:text;}">
+      <Coords points="1313,111 1403,127 1411,165 1339,189 1237,173 1229,135 1313,111"/>
+      <TextLine id="eSc_line_743fbeef" custom="structure {type:default;}">
+        <Coords points="1397,125 1375,119 1357,119 1337,115 1317,111 1297,115 1277,119 1257,125 1257,163 1259,191 1291,179 1315,191 1317,191 1319,191 1323,191 1379,179 1399,191 1405,163 1405,161 1397,125"/>
+        <Baseline points="1257,163 1405,163"/>
+        <TextEquiv>
+          <Unicode>- 2 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
