@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://digi.bib.uni-mannheim.de/fileadmin/digi/1694702138">
+	<Creator>escriptorium</Creator>
+	<Created>2025-02-10T12:10:49.366449+00:00</Created>
+        <LastChange>2025-02-10T12:10:49.366484+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1694702138_0003.jpg" imageWidth="2627" imageHeight="3623">
+    <TextRegion id="eSc_textblock_7833cc10"  custom="structure {type:text;}">
+      <Coords points="452,88 634,96 642,142 370,150 370,96 452,88"/>
+      <TextLine id="eSc_line_635b5f04" custom="structure {type:default;}">
+        <Coords points="515,90 499,90 489,98 483,104 416,104 416,132 414,177 426,185 428,185 430,185 432,185 555,175 557,134 555,94 533,90 515,90"/>
+        <Baseline points="416,132 557,134"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_707d6b6c"  custom="structure {type:text;}">
+      <Coords points="485,354 2522,370 2546,402 2514,531 2522,1060 2393,1237 1568,1237 1211,1312 1413,1376 1437,1400 1413,1471 475,1463 450,426 485,354"/>
+      <TextLine id="eSc_line_88b09e25" custom="structure {type:default;}">
+        <Coords points="2504,368 2484,368 2463,368 2443,368 2423,368 2403,368 2383,368 2363,368 2343,368 2323,368 2302,368 2282,368 2262,366 2242,366 2222,366 2202,366 2182,366 2161,366 2141,366 2121,366 2101,366 2081,366 2061,366 2041,366 2021,366 2002,364 1896,364 1880,364 1860,364 1839,364 1819,364 1799,364 1779,364 1759,364 1753,362 1270,362 1266,360 1256,360 1235,358 1215,358 1195,358 1175,358 1155,358 1135,358 1115,358 1097,358 1095,358 1085,358 1074,358 1072,358 1054,358 1034,358 1014,358 994,358 974,356 954,356 934,356 913,356 893,356 873,356 853,356 833,356 813,356 793,356 773,356 752,356 748,354 744,356 730,356 726,356 716,354 712,354 692,354 672,354 652,354 632,354 611,354 591,354 571,354 551,354 531,354 519,354 489,354 475,372 471,402 469,424 2520,442 2524,418 2522,374 2504,368"/>
+        <Baseline points="471,402 2524,418"/>
+        <TextEquiv>
+          <Unicode>und seinem Kunstwollen auszugehen, wie es Bahle im vollen Bewußtsein</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_edb438a6" custom="structure {type:default;}">
+        <Coords points="469,481 467,505 2260,521 2264,491 2262,446 1388,432 1386,432 1318,434 1191,440 1137,432 1115,430 1113,430 1056,432 903,438 841,430 827,428 825,428 779,428 533,436 469,426 469,481"/>
+        <Baseline points="469,481 2264,491"/>
+        <TextEquiv>
+          <Unicode>der Notwendigkeit seines Vorgehens von Anfang an getan hat.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e297e7ed" custom="structure {type:default;}">
+        <Coords points="742,561 740,585 2429,603 2433,575 2431,531 2345,519 2343,519 2266,529 2254,529 2226,527 2067,517 2065,517 1982,525 1960,527 1954,525 1928,515 1926,515 1924,515 1827,523 1805,525 1775,523 1668,513 1666,513 1564,521 1527,523 1487,519 1391,511 1388,511 1304,519 1260,521 742,513 742,561"/>
+        <Baseline points="742,561 2433,575"/>
+        <TextEquiv>
+          <Unicode>Ich glaube sagen zu können, daß durch die Förderung des</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8f9ab989" custom="structure {type:default;}">
+        <Coords points="475,640 475,672 2170,672 2174,672 2204,682 2206,682 2208,682 2510,672 2512,652 2510,605 2381,593 2379,593 2266,601 2208,605 2188,601 2155,591 2153,591 2151,591 2109,599 2087,603 1992,597 1898,593 1896,593 1868,597 1833,601 1817,595 1799,589 1797,589 1795,589 1664,595 1495,601 1449,591 1423,587 1421,587 1352,591 1203,599 1157,589 1141,585 1139,585 1137,585 1129,587 1111,595 1099,587 1095,585 1093,585 1091,585 1089,585 1087,585 1078,587 1044,597 1004,587 1002,587 1000,587 998,587 996,587 978,599 867,599 734,583 724,583 722,583 710,583 543,595 475,581 475,640"/>
+        <Baseline points="475,640 2512,652"/>
+        <TextEquiv>
+          <Unicode>jungen Forschers seitens der Notgemeinschaft nicht nur ihm, sondern</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ae870a9c" custom="structure {type:default;}">
+        <Coords points="471,714 469,732 692,746 694,746 1058,740 1113,740 1117,740 1139,750 1141,750 1143,750 1308,744 1346,742 1350,744 1360,752 1362,752 1364,752 1366,752 1491,746 1525,744 1541,746 1594,754 1596,754 1735,748 1799,746 1807,750 1823,756 1825,756 1827,758 2471,758 2474,732 2474,690 2411,678 2409,678 1807,682 1781,672 1779,672 1777,672 1670,680 1584,670 1582,670 471,670 471,714"/>
+        <Baseline points="471,714 2474,732"/>
+        <TextEquiv>
+          <Unicode>auch der Wissenschaft ein wertvoller Dienst erwiesen werden würde.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ebf3a9c7" custom="structure {type:default;}">
+        <Coords points="473,784 471,807 2443,831 2447,809 2443,756 2284,766 2238,754 2236,754 2234,754 2119,764 2021,752 2019,752 1956,762 1922,750 1920,750 1918,750 1912,750 1791,760 1739,748 1735,748 1733,748 1719,748 1505,756 1409,744 1397,744 1395,744 1384,744 1296,754 1153,742 1143,742 1141,742 1133,742 1034,750 887,740 859,738 857,738 855,738 849,738 813,748 785,738 779,736 777,736 473,736 473,784"/>
+        <Baseline points="473,784 2447,809"/>
+        <TextEquiv>
+          <Unicode>Es scheint mir Ehrensache der Deutschen Wissenschaft zu sein, mit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_18799247" custom="structure {type:default;}">
+        <Coords points="467,873 465,897 2476,911 2480,891 2480,847 2419,833 2417,833 2276,845 2256,845 2129,845 2127,843 2099,831 2097,831 2095,831 2037,839 2021,829 2019,829 2017,829 2015,829 1845,841 1825,841 1811,841 1701,827 1698,827 1525,837 1519,837 1511,837 1288,823 1286,823 1167,835 1153,835 1145,835 1087,821 980,821 978,821 976,821 974,821 956,833 954,833 938,833 829,823 827,823 712,831 692,831 688,831 672,819 670,819 668,819 666,819 467,827 467,873"/>
+        <Baseline points="467,873 2480,891"/>
+        <TextEquiv>
+          <Unicode>den irgendwie verfügbaren Mitteln ein Werk zu unterstützen, an dem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_35a77e51" custom="structure {type:default;}">
+        <Coords points="465,956 462,982 2500,1002 2504,976 2502,923 465,907 465,956"/>
+        <Baseline points="465,956 2504,976"/>
+        <TextEquiv>
+          <Unicode>deutsche und ausländische Künstler mit Begeisterung und Aufopferung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_027a3ec2" custom="structure {type:default;}">
+        <Coords points="471,1034 469,1066 2496,1072 2500,1048 2498,1000 471,982 471,1034"/>
+        <Baseline points="471,1034 2500,1048"/>
+        <TextEquiv>
+          <Unicode>von viel Mühe und Zeit mitgewirkt haben, und seinen Verfasser nicht</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6c0373ea" custom="structure {type:default;}">
+        <Coords points="471,1113 469,1137 968,1151 970,1151 1080,1145 1173,1141 1185,1147 1199,1153 1201,1153 1203,1153 1292,1149 1384,1143 1445,1151 1487,1155 1489,1155 1546,1151 1634,1145 1747,1153 1795,1157 1797,1157 1831,1155 1926,1147 2017,1157 2039,1159 2041,1159 2065,1157 2170,1149 2216,1159 2226,1161 2228,1163 2413,1163 2415,1129 2413,1076 471,1060 471,1113"/>
+        <Baseline points="471,1113 2415,1129"/>
+        <TextEquiv>
+          <Unicode>an dem unverschuldeten Unglück des Aufhörens der Selbständigkeit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_66ab2b96" custom="structure {type:default;}">
+        <Coords points="471,1191 469,1217 603,1233 605,1233 662,1221 795,1221 831,1237 833,1237 835,1239 976,1239 976,1237 978,1237 1000,1227 1018,1239 1020,1239 1022,1239 1024,1241 1117,1241 1117,1239 1119,1239 1157,1225 1328,1241 1330,1241 1465,1227 1467,1227 1493,1241 1495,1241 1566,1243 1568,1243 1644,1229 1839,1245 1841,1247 1992,1247 1992,1245 2067,1231 2071,1231 2075,1231 2123,1247 2125,1247 2127,1247 2385,1233 2387,1205 2385,1153 471,1147 471,1191"/>
+        <Baseline points="471,1191 2387,1205"/>
+        <TextEquiv>
+          <Unicode>einer Hochschule und der Not des täglichen Brotes zugrundegehen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7a0157a1" custom="structure {type:default;}">
+        <Coords points="469,1274 469,1306 791,1304 791,1274 791,1233 664,1231 654,1221 654,1219 652,1219 650,1219 648,1219 469,1227 469,1274"/>
+        <Baseline points="469,1274 791,1274"/>
+        <TextEquiv>
+          <Unicode>zu lassen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4e165106" custom="structure {type:default;}">
+        <Coords points="467,1431 465,1477 587,1461 622,1473 624,1473 626,1473 762,1467 791,1481 793,1481 795,1481 797,1481 799,1481 817,1469 841,1483 843,1483 845,1483 847,1483 849,1483 851,1483 889,1465 940,1479 942,1479 944,1479 1034,1465 1109,1477 1111,1477 1177,1467 1215,1485 1223,1489 1225,1489 1227,1491 1344,1491 1344,1489 1346,1489 1352,1487 1380,1475 1411,1487 1417,1441 1417,1390 1380,1378 1378,1378 1376,1378 1252,1386 1227,1388 1221,1386 1197,1376 1195,1376 1193,1376 1117,1384 1105,1386 1103,1384 1095,1378 1095,1376 1093,1376 1091,1376 467,1376 467,1431"/>
+        <Baseline points="467,1431 1417,1441"/>
+        <TextEquiv>
+          <Unicode>Mannheim, den 18. Februar 1934.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

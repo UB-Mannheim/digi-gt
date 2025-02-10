@@ -26,6 +26,7 @@ removed, too.:
 - PPN1837705283 – [Francisci Gvyeti Andegavi Monobiblos siue generosae poesews specimen (1602)](http://digi.bib.uni-mannheim.de/urn/urn:nbn:de:bsz:180-digad-36293)
 - PPN1885309457 – [Lopodunum - Ladenburg 98 bis 1898 (1900)](http://digi.bib.uni-mannheim.de/urn/urn:nbn:de:bsz:180-digad-36708)
 - PPN1890801038 - [La Morale De Confucius Philosophe De La Chine (1688)](http://digi.bib.uni-mannheim.de/urn/urn:nbn:de:bsz:180-digad-36775)
+- PPN1694702138 - [Empfehlungsschreiben von Otto Selz für Julius Bahle vom 18. Februar 1934](https://digi.bib.uni-mannheim.de/urn/urn:nbn:de:bsz:180-digosi-2319)
 - PPN1696810701 - [Brief von Julius Bahle an Otto Selz vom 17. Mai 1938](https://digi.bib.uni-mannheim.de/urn/urn:nbn:de:bsz:180-digosi-3389)
 
 

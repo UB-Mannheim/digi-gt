@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://digi.bib.uni-mannheim.de/fileadmin/digi/1694702138">
+	<Creator>escriptorium</Creator>
+	<Created>2025-02-10T12:10:49.240652+00:00</Created>
+        <LastChange>2025-02-10T12:10:49.240682+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1694702138_0001.jpg" imageWidth="2599" imageHeight="3606">
+    <TextRegion id="eSc_textblock_5c1bb5c1"  custom="structure {type:text;}">
+      <Coords points="370,96 535,96 583,112 591,150 320,174 304,120 370,96"/>
+      <TextLine id="eSc_line_d721363f" custom="structure {type:default;}">
+        <Coords points="492,96 434,100 432,100 430,100 414,112 410,114 324,110 320,110 322,148 322,184 545,184 545,146 543,116 496,96 494,96"/>
+        <Baseline points="322,148 545,146"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d1ddd5c7"  custom="structure {type:text;}">
+      <Coords points="1589,400 2454,400 2486,424 2502,647 2470,759 2518,1081 2510,1520 2438,2353 2526,2588 2502,2746 2534,2994 2510,3091 472,3115 448,496 599,464 657,408 1589,400"/>
+      <TextLine id="eSc_line_38a6cb47" custom="structure {type:default;}">
+        <Coords points="635,424 633,456 633,476 2456,466 2458,446 2452,402 649,410 635,424"/>
+        <Baseline points="633,456 2458,446"/>
+        <TextEquiv>
+          <Unicode>In Ergänzung meiner beiliegenden Bescheinigung vom 5. Januar</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_99cdabea" custom="structure {type:default;}">
+        <Coords points="474,488 454,492 454,494 456,542 456,566 2404,546 2406,524 2402,480 2220,468 2218,468 2216,468 2184,480 1757,472 1755,472 1414,486 1324,476 1322,476 1102,490 492,484 474,488"/>
+        <Baseline points="456,542 2406,524"/>
+        <TextEquiv>
+          <Unicode>1934 über die verdienstvolle Assistententätigkeit und fruchtbare</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d07eb9aa" custom="structure {type:default;}">
+        <Coords points="456,617 456,647 1076,637 1158,641 1244,647 1246,647 1248,647 1264,641 1280,635 1306,641 1330,645 1332,645 1362,639 1392,635 1558,639 1793,643 1795,643 1797,643 1815,635 1825,633 1839,635 1875,643 1877,643 1991,635 2019,633 2047,633 2180,641 2182,641 2222,633 2230,631 2258,631 2418,641 2420,641 2486,629 2488,607 2484,560 2296,550 2294,550 2228,560 2222,560 2218,560 2190,550 2188,550 2186,550 2120,560 2116,560 2114,560 2084,550 2082,550 2080,550 1893,560 1857,562 1825,560 1693,554 1691,554 1689,554 1671,562 1663,564 1556,562 1270,554 1268,554 1114,564 1054,566 1037,564 999,556 997,556 911,564 859,568 849,564 837,558 835,558 833,558 779,564 739,568 454,566 456,617"/>
+        <Baseline points="456,617 2488,607"/>
+        <TextEquiv>
+          <Unicode>Forschungsarbeit des Herrn Dr. Julius Bahle am Institut für Psycho-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f00579c2" custom="structure {type:default;}">
+        <Coords points="458,701 458,729 2316,717 2318,689 2316,645 2280,633 2278,633 2276,633 2188,643 2174,633 2172,633 2170,633 2073,633 2071,633 1763,645 1687,647 456,647 458,701"/>
+        <Baseline points="458,701 2318,689"/>
+        <TextEquiv>
+          <Unicode>logie und Pädagogik möchte ich seinem Gesuch um die Gewährung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_171a2b6d" custom="structure {type:default;}">
+        <Coords points="456,775 456,795 1094,805 1096,805 1298,795 1358,793 1631,793 1637,795 1653,803 1655,803 1657,805 1737,805 1737,803 1739,803 1741,803 1753,795 1759,791 1771,795 1793,801 1795,801 1797,801 1839,795 1863,791 1873,795 1889,801 1891,801 1893,801 2376,793 2378,769 2374,727 2126,713 2019,713 2017,713 2015,713 1989,725 1945,713 1943,713 1941,713 1939,713 1893,725 1889,725 1873,725 1699,715 1697,715 1619,725 1593,727 1575,725 1536,717 1534,717 1532,717 1506,725 1492,729 1238,729 1228,723 1204,715 1202,715 1200,715 1132,723 1084,729 1054,723 1029,719 1027,719 1007,723 979,729 454,723 456,775"/>
+        <Baseline points="456,775 2378,769"/>
+        <TextEquiv>
+          <Unicode>eines Forschungsstipendiums durch die Notgemeinschaft Deutscher</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1e780d0f" custom="structure {type:default;}">
+        <Coords points="454,855 454,877 2464,873 2466,847 2462,805 452,803 454,855"/>
+        <Baseline points="454,855 2466,847"/>
+        <TextEquiv>
+          <Unicode>Wissenschaft auf ausdrücklichen Wunsch des Fachvertreters für Psy-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6d4db3d1" custom="structure {type:default;}">
+        <Coords points="456,935 456,967 2468,949 2470,927 2466,883 1997,873 1995,873 1993,873 1963,885 1961,885 1951,885 1863,875 1861,875 1769,885 1735,875 1733,875 1731,875 1639,885 1623,875 1621,875 1619,875 1504,875 1502,875 1500,875 1454,887 1452,887 1436,887 1092,877 1090,877 1088,877 1086,877 1068,889 591,889 486,879 484,879 482,879 454,889 456,935"/>
+        <Baseline points="456,935 2470,927"/>
+        <TextEquiv>
+          <Unicode>chologie die wärmste Empfehlung beifügen. Nachdem ich in den letz-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f039852e" custom="structure {type:default;}">
+        <Coords points="458,1017 458,1037 771,1047 773,1047 839,1037 857,1035 937,1037 1238,1045 1240,1045 1352,1043 1354,1043 1356,1043 1366,1035 1370,1033 1380,1035 1410,1043 1412,1043 1414,1043 2436,1031 2438,1007 2434,965 2102,953 2100,953 2098,953 2077,963 2035,955 2033,955 1949,965 1941,965 1919,965 1651,955 1649,955 1647,955 1617,965 1611,967 1569,965 1378,957 1376,957 1260,967 1218,971 953,971 945,967 923,959 921,959 919,959 873,967 851,971 839,967 821,961 819,961 817,961 456,967 458,1017"/>
+        <Baseline points="458,1017 2438,1007"/>
+        <TextEquiv>
+          <Unicode>ten Tagen die abgeschlossenen Kapitel seines mir im Gesamtaufbau</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6b41c870" custom="structure {type:default;}">
+        <Coords points="456,1097 456,1129 561,1119 807,1127 849,1127 851,1127 853,1127 855,1127 871,1117 1156,1123 1270,1125 1272,1125 1322,1121 1408,1115 1546,1119 1669,1123 1671,1123 1703,1117 1733,1113 1869,1117 2065,1121 2067,1121 2069,1121 2096,1113 2108,1111 2498,1111 2500,1087 2496,1041 1406,1037 1404,1037 454,1051 456,1097"/>
+        <Baseline points="456,1097 2500,1087"/>
+        <TextEquiv>
+          <Unicode>vertrauten Werkes kennen gelernt habe, kann ich mit bestem Gewissen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6a623814" custom="structure {type:default;}">
+        <Coords points="454,1177 454,1208 537,1199 707,1208 741,1210 743,1210 761,1208 847,1197 863,1208 865,1208 867,1208 869,1210 1126,1210 1126,1208 1212,1204 1468,1193 2470,1193 2474,1165 2470,1123 2158,1113 2156,1113 2154,1113 2114,1123 2112,1123 2100,1123 1879,1115 1877,1115 1805,1125 1795,1125 1765,1125 1544,1117 1542,1117 452,1129 454,1177"/>
+        <Baseline points="454,1177 2474,1165"/>
+        <TextEquiv>
+          <Unicode>meine Überzeugung aussprechen, daß diese Untersuchung sowohl durch</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0eeefeea" custom="structure {type:default;}">
+        <Coords points="460,1258 460,1288 567,1276 761,1286 779,1286 781,1286 1164,1282 1166,1282 1168,1282 1208,1272 1286,1280 1302,1282 1304,1282 1336,1280 1478,1270 1558,1278 1583,1280 1585,1280 2494,1268 2496,1246 2492,1204 2174,1193 2172,1193 458,1214 460,1258"/>
+        <Baseline points="460,1258 2496,1246"/>
+        <TextEquiv>
+          <Unicode>ihr einzigartiges, unersetzliches Material wie durch die Art seiner</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9b591d6a" custom="structure {type:default;}">
+        <Coords points="460,1338 460,1360 2470,1348 2472,1326 2466,1278 458,1288 460,1338"/>
+        <Baseline points="460,1338 2472,1326"/>
+        <TextEquiv>
+          <Unicode>Verarbeitung bahnbrechend zu werden verspricht. Zum erstenmale ist</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4465bcdb" custom="structure {type:default;}">
+        <Coords points="458,1416 458,1442 2448,1426 2450,1406 2444,1360 456,1368 458,1416"/>
+        <Baseline points="458,1416 2450,1406"/>
+        <TextEquiv>
+          <Unicode>es hier gelungen, von bedeutenden zeitgenössischen Komponisten im</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_87f10271" custom="structure {type:default;}">
+        <Coords points="458,1494 458,1516 2494,1514 2496,1484 2490,1434 2286,1440 2240,1436 2174,1428 2172,1428 2170,1428 2168,1428 2156,1436 2148,1440 2130,1436 2092,1428 2090,1428 2037,1438 2005,1442 1973,1438 1919,1430 1917,1430 1915,1430 1913,1430 1901,1438 1891,1444 1739,1444 1725,1440 1681,1430 1679,1430 1599,1440 1571,1444 1526,1442 1386,1432 1384,1432 1202,1444 1168,1446 1160,1444 1120,1434 1118,1434 955,1434 953,1434 871,1448 861,1448 847,1448 711,1436 709,1436 653,1448 577,1436 575,1436 573,1436 547,1450 456,1450 458,1494"/>
+        <Baseline points="458,1494 2496,1484"/>
+        <TextEquiv>
+          <Unicode>unmittelbaren Anschluß an ihr uneingeengtes, freies Schaffen genaue</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_165e7a90" custom="structure {type:default;}">
+        <Coords points="460,1574 460,1600 2444,1584 2446,1564 2444,1520 2406,1508 2404,1508 2402,1508 2400,1508 2372,1518 2228,1508 2226,1508 2224,1508 2222,1508 2204,1520 2045,1520 1691,1510 1689,1510 1625,1522 1605,1512 1603,1512 1601,1512 1454,1522 1338,1512 1336,1512 1252,1524 1210,1514 1208,1514 1206,1514 951,1524 881,1514 879,1514 877,1514 849,1526 583,1516 581,1516 458,1528 460,1574"/>
+        <Baseline points="460,1574 2446,1564"/>
+        <TextEquiv>
+          <Unicode>Berichte über den Entstehungsvorgang bestimmter Werke zu erlangen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_38356d22" custom="structure {type:default;}">
+        <Coords points="462,1654 462,1674 2472,1660 2472,1640 2468,1598 2214,1586 2212,1586 2210,1586 2180,1600 2003,1600 1975,1588 1973,1588 1971,1588 1573,1602 1035,1594 1033,1594 923,1606 737,1598 735,1598 733,1598 701,1608 541,1600 539,1600 460,1610 462,1654"/>
+        <Baseline points="462,1654 2472,1640"/>
+        <TextEquiv>
+          <Unicode>und an einem zum Vergleich besonders geeigneten Material eine ein-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_19912150" custom="structure {type:default;}">
+        <Coords points="462,1736 462,1768 516,1758 673,1766 677,1766 679,1766 681,1766 737,1756 845,1764 847,1764 977,1754 1120,1762 1132,1762 1134,1762 1140,1762 1200,1752 1396,1760 1434,1760 1436,1760 1438,1760 1442,1758 1460,1750 2414,1750 2416,1720 2412,1678 2172,1662 2170,1662 2168,1662 2108,1678 2102,1678 2088,1678 1927,1664 1925,1664 1863,1678 1851,1680 1829,1678 1755,1670 1753,1670 1609,1678 1544,1682 1536,1678 1512,1668 1510,1668 1446,1668 1444,1668 1442,1668 1400,1680 1392,1680 1372,1680 1256,1670 1254,1670 1182,1680 1132,1688 1015,1688 1003,1680 993,1674 991,1674 989,1674 987,1674 985,1674 965,1680 945,1686 885,1680 823,1674 821,1674 733,1680 607,1690 460,1682 462,1736"/>
+        <Baseline points="462,1736 2416,1720"/>
+        <TextEquiv>
+          <Unicode>gehende Beantwortung gerade jener Fragen zu erzielen, die bisher</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_183138da" custom="structure {type:default;}">
+        <Coords points="466,1811 466,1841 2065,1841 2065,1839 2140,1829 2142,1829 2146,1829 2374,1837 2376,1837 2468,1825 2468,1800 2464,1756 2188,1746 2186,1746 2184,1746 2182,1746 2166,1756 2126,1748 2124,1748 1903,1758 1895,1758 1893,1758 1831,1748 1829,1748 1827,1748 1785,1760 1460,1760 1360,1750 1358,1750 1356,1750 1316,1760 1230,1752 1228,1752 1154,1762 1122,1752 1120,1752 1118,1752 1003,1762 965,1752 963,1752 961,1752 959,1752 957,1752 939,1764 803,1764 775,1754 773,1754 771,1754 675,1764 496,1754 494,1754 492,1754 464,1764 466,1811"/>
+        <Baseline points="466,1811 2468,1800"/>
+        <TextEquiv>
+          <Unicode>in ein undurchdringliches Dunkel gehüllt schienen. Es darf als ein</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8c79ee5d" custom="structure {type:default;}">
+        <Coords points="464,1893 464,1917 717,1923 719,1923 839,1915 899,1911 909,1915 927,1921 929,1921 931,1921 1023,1913 1056,1911 1068,1913 1104,1921 1106,1921 1108,1921 1126,1913 1130,1911 1150,1913 1232,1919 1234,1919 1400,1909 1464,1907 1528,1909 1745,1917 1747,1917 1749,1917 1751,1917 1767,1907 1769,1905 1893,1905 1915,1905 2086,1915 2088,1915 2174,1903 2182,1903 2196,1903 2388,1913 2390,1913 2392,1913 2414,1901 2414,1881 2410,1839 2314,1827 2312,1827 2310,1827 2308,1827 2292,1837 2246,1827 2244,1827 2039,1839 1865,1829 1863,1829 1861,1829 1859,1829 1843,1839 1741,1831 1739,1831 1737,1831 1713,1841 1691,1831 1689,1831 1687,1831 1627,1841 1516,1831 1514,1831 1410,1843 1380,1833 1378,1833 1150,1833 1148,1833 462,1849 464,1893"/>
+        <Baseline points="464,1893 2414,1881"/>
+        <TextEquiv>
+          <Unicode>ungewöhnlicher Erfolg der Methode Bahles gebucht werden, daß die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b27defdd" custom="structure {type:default;}">
+        <Coords points="466,1973 466,2007 547,1995 701,2005 713,2005 715,2005 723,2005 803,1993 885,2003 893,2003 895,2003 933,2003 1196,1991 1338,1997 1426,2001 1428,2001 1430,2001 1442,1997 1460,1989 1745,1993 2108,1997 2110,1997 2164,1987 2182,1985 2206,1987 2292,1995 2294,1995 2438,1983 2440,1961 2436,1919 1783,1911 1781,1911 1779,1911 1755,1921 1745,1921 1512,1913 1510,1913 1454,1923 1448,1923 1428,1923 1220,1915 1218,1915 464,1927 466,1973"/>
+        <Baseline points="466,1973 2440,1961"/>
+        <TextEquiv>
+          <Unicode>beteiligten Komponisten durch die ihnen an die Hand gegebenen Ge-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_71d0be2f" custom="structure {type:default;}">
+        <Coords points="464,2053 464,2073 2384,2061 2386,2041 2380,1991 1096,2003 1060,2003 855,1995 853,1995 733,2005 729,2005 723,2005 516,1997 514,1997 462,2007 464,2053"/>
+        <Baseline points="464,2053 2386,2041"/>
+        <TextEquiv>
+          <Unicode>sichtspunkte für die rückschauende Selbstbeobachtung sich nicht</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0c2df1c0" custom="structure {type:default;}">
+        <Coords points="464,2129 464,2151 1997,2153 1999,2153 2382,2141 2384,2119 2378,2067 2244,2077 2156,2069 2132,2067 2130,2067 2128,2067 2120,2069 2088,2077 1887,2071 1773,2069 1771,2069 1729,2073 1681,2079 1663,2075 1647,2069 1645,2069 1643,2069 462,2087 464,2129"/>
+        <Baseline points="464,2129 2384,2119"/>
+        <TextEquiv>
+          <Unicode>nur nicht gehemmt fühlten, sondern dankbar bekannten, durch die</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_36b71042" custom="structure {type:default;}">
+        <Coords points="466,2211 466,2239 2442,2217 2442,2197 2438,2153 2314,2143 2312,2143 464,2159 466,2211"/>
+        <Baseline points="466,2211 2442,2197"/>
+        <TextEquiv>
+          <Unicode>von ihnen gewonnenen Aufschlüsse über ihr eigenes Schaffen selbst</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5cb90437" custom="structure {type:default;}">
+        <Coords points="466,2293 466,2323 645,2311 685,2321 687,2321 689,2321 691,2321 693,2321 695,2321 715,2309 853,2319 875,2319 877,2319 923,2317 1116,2307 1156,2313 1176,2317 1178,2317 1218,2313 1274,2307 1350,2311 1422,2315 1424,2315 1426,2315 1446,2309 1472,2303 1747,2305 2142,2309 2144,2309 2384,2295 2386,2277 2382,2233 2232,2221 2230,2221 1989,2233 1905,2223 1903,2223 1663,2237 1589,2227 1587,2227 1404,2239 543,2235 541,2235 464,2247 466,2293"/>
+        <Baseline points="466,2293 2386,2277"/>
+        <TextEquiv>
+          <Unicode>gefördert worden zu sein. Der große Vorzug der Arbeit gegenüber</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3db31055" custom="structure {type:default;}">
+        <Coords points="464,2369 464,2391 2358,2379 2360,2357 2356,2313 2208,2303 2206,2303 2122,2313 2114,2313 2108,2313 2055,2303 2053,2303 2003,2313 1991,2315 1947,2313 1793,2305 1791,2305 1743,2313 1723,2317 1643,2315 1462,2307 1460,2307 1458,2307 1426,2315 1408,2319 1398,2315 1382,2309 1380,2309 1378,2309 1342,2315 1318,2319 462,2319 464,2369"/>
+        <Baseline points="464,2369 2360,2357"/>
+        <TextEquiv>
+          <Unicode>den bisherigen Untersuchungen besteht vor allem darin, daß sie</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6128dbd7" custom="structure {type:default;}">
+        <Coords points="464,2452 464,2470 2418,2456 2420,2438 2416,2391 2264,2381 2262,2381 2260,2381 2230,2391 2228,2393 1919,2393 1915,2393 1857,2383 1855,2383 1761,2395 1745,2395 1731,2395 1649,2385 1647,2385 1577,2395 1561,2397 1554,2395 1530,2387 1528,2387 1526,2387 1422,2397 1404,2397 1390,2397 1306,2387 1304,2387 1302,2387 1282,2397 1278,2399 1162,2397 759,2391 757,2391 687,2401 665,2404 637,2401 553,2393 551,2393 462,2401 464,2452"/>
+        <Baseline points="464,2452 2420,2438"/>
+        <TextEquiv>
+          <Unicode>nicht nach Art einer gewöhnlichen Umfrage die Künstler zu allge-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eb277c28" custom="structure {type:default;}">
+        <Coords points="464,2532 464,2550 2450,2544 2452,2518 2446,2464 2358,2474 2240,2466 2236,2466 2234,2466 2232,2466 2154,2476 1929,2468 1881,2468 1879,2468 1861,2470 1791,2480 462,2484 464,2532"/>
+        <Baseline points="464,2532 2452,2518"/>
+        <TextEquiv>
+          <Unicode>meinen Betrachtungen über ihr Schaffen veranlaßt, sondern überall</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c67cc47b" custom="structure {type:default;}">
+        <Coords points="468,2612 468,2636 2504,2614 2506,2596 2502,2554 2336,2542 2334,2542 2082,2554 2027,2544 2025,2544 2023,2544 1985,2556 1813,2546 1811,2546 1579,2558 1528,2548 1526,2548 1524,2548 1482,2560 1031,2552 1029,2552 1027,2552 999,2562 787,2554 785,2554 681,2566 551,2556 549,2556 466,2568 468,2612"/>
+        <Baseline points="468,2612 2506,2596"/>
+        <TextEquiv>
+          <Unicode>zum konkreten Schaffensprozess am einzelnen Werk vordringt und den-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5fbe03a3" custom="structure {type:default;}">
+        <Coords points="470,2692 470,2712 903,2720 905,2720 953,2710 965,2708 993,2710 1122,2718 1124,2718 1184,2708 1200,2706 1336,2706 1789,2712 1791,2712 1793,2712 1813,2704 1821,2700 1841,2704 1879,2710 1881,2710 2452,2698 2454,2674 2452,2630 2430,2620 2428,2620 2426,2620 1879,2632 1847,2620 1845,2620 1843,2620 1841,2620 1787,2634 1422,2624 1420,2624 1418,2624 1378,2636 1326,2626 1324,2626 1224,2638 1174,2626 1172,2626 1170,2626 1168,2626 1126,2640 1070,2628 1068,2628 1013,2640 977,2628 975,2628 973,2628 751,2638 689,2630 687,2630 468,2646 470,2692"/>
+        <Baseline points="470,2692 2454,2674"/>
+        <TextEquiv>
+          <Unicode>selben Gesichtspunkt auch auf die Selbstzeugnisse der Komponisten</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_12263c8a" custom="structure {type:default;}">
+        <Coords points="468,2766 468,2798 577,2788 645,2796 659,2798 661,2798 679,2796 745,2788 769,2796 779,2798 781,2798 783,2798 821,2794 889,2788 943,2794 979,2796 981,2796 983,2796 991,2792 1005,2786 1148,2790 1262,2794 1264,2794 1266,2794 1288,2788 1308,2784 1326,2788 1346,2794 1348,2794 1350,2794 1591,2792 1593,2792 1621,2784 1635,2782 1671,2784 1777,2792 1779,2792 1781,2792 1817,2782 1829,2780 1907,2782 2202,2788 2204,2788 2316,2778 2420,2788 2422,2788 2424,2788 2454,2774 2454,2754 2448,2710 466,2720 468,2766"/>
+        <Baseline points="468,2766 2454,2754"/>
+        <TextEquiv>
+          <Unicode>der Vergangenheit anwendet. Mit großem Geschick hat es Bahle ver-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d3d15d63" custom="structure {type:default;}">
+        <Coords points="472,2848 472,2876 855,2864 1747,2868 1749,2868 1829,2858 2126,2866 2128,2866 2130,2866 2150,2856 2480,2864 2484,2836 2480,2790 865,2790 863,2790 749,2800 512,2792 510,2792 508,2792 470,2802 472,2848"/>
+        <Baseline points="472,2848 2484,2836"/>
+        <TextEquiv>
+          <Unicode>standen, das überaus reiche historische Material, über das er nach</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2c333980" custom="structure {type:default;}">
+        <Coords points="476,2932 476,2962 719,2950 895,2958 931,2958 933,2958 935,2958 939,2956 957,2948 1268,2952 1432,2954 1434,2954 2394,2936 2396,2916 2392,2868 1486,2868 1484,2868 1396,2878 1390,2878 1382,2878 1196,2870 1194,2870 1046,2880 975,2872 973,2872 711,2884 488,2876 486,2876 484,2876 482,2876 474,2882 476,2932"/>
+        <Baseline points="476,2932 2396,2916"/>
+        <TextEquiv>
+          <Unicode>jahrelangem Quellenstudium verfügt, von den in allen Phasen des</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_339adf76" custom="structure {type:default;}">
+        <Coords points="472,3009 472,3039 1096,3027 1190,3031 1264,3035 1266,3035 1314,3031 1364,3025 1468,3029 1611,3033 1613,3033 1657,3027 1681,3023 1739,3025 1867,3031 1869,3031 1917,3023 1933,3021 2031,3021 2408,3027 2410,3027 2516,3015 2516,2994 2510,2940 2450,2950 2053,2944 1947,2942 1945,2942 1943,2942 1935,2944 1905,2954 1711,2946 1641,2944 1639,2944 1593,2948 1482,2958 470,2958 472,3009"/>
+        <Baseline points="472,3009 2516,2994"/>
+        <TextEquiv>
+          <Unicode>Schaffensvorganges überschaubaren Berichten der Zeitgenossen aus mit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c81aac6a" custom="structure {type:default;}">
+        <Coords points="470,3093 470,3119 2476,3105 2478,3079 2474,3033 2082,3023 2080,3023 1947,3033 1895,3037 1831,3033 1673,3025 1671,3025 1669,3025 1651,3035 1645,3037 1609,3035 1518,3027 1516,3027 1406,3035 1322,3041 1236,3035 1132,3029 1130,3029 1048,3037 971,3043 921,3037 877,3031 875,3031 873,3031 857,3037 841,3043 468,3039 470,3093"/>
+        <Baseline points="470,3093 2478,3079"/>
+        <TextEquiv>
+          <Unicode>neuem Leben zu erfüllen. So enthüllen z.B. die vermeintlichen Irr-</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d1473539"  custom="structure {type:text;}">
+      <Coords points="1787,64 2110,72 2134,126 2110,150 1783,150 1759,88 1787,64"/>
+      <TextLine id="eSc_line_919cd1b1" custom="structure {type:default;}">
+        <Coords points="2096,70 2092,70 2067,82 1969,82 1907,76 1897,66 1895,66 1875,66 1855,64 1835,64 1815,64 1795,64 1775,72 1777,122 1777,138 1861,138 1867,140 1887,150 1889,150 1891,150 1973,144 2055,138 2100,148 2104,120 2096,70 2096,70"/>
+        <Baseline points="1777,122 2104,120"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
