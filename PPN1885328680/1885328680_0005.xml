@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://digi.bib.uni-mannheim.de/fileadmin/digi/1885328680">
+    <Creator>escriptorium</Creator>
+    <Created>2026-11-22T08:49:38.785384+00:00</Created>
+    <LastChange>2026-11-22T08:49:38.785384+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1885328680_0005.jpg" imageWidth="1698" imageHeight="2291">
+    <TextRegion id="eSc_textblock_69869454" custom="structure {type:text;}">
+      <Coords points="773,305 1076,315 1219,351 1173,421 1132,427 1204,451 1000,504 1168,534 1163,630 1093,640 1061,670 1032,660 1031,686 1056,696 1005,711 874,711 888,782 843,823 782,843 768,833 773,717 757,701 442,675 448,600 548,595 568,610 560,595 701,595 701,579 448,574 437,548 463,529 752,514 763,488 742,456 651,456 636,437 803,427 763,385 762,350 692,329 707,310 773,305"/>
+      <TextLine id="eSc_line_ab410246" custom="structure {type:default;}">
+        <Coords points="624,357 616,357 582,368 548,362 506,397 452,397 414,378 372,383 343,360 334,360 301,387 271,387 225,358 217,515 553,526 637,462 678,471 700,462 739,490 790,488 821,463 863,463 981,513 989,513 1044,471 1235,475 1239,446 1233,404 1193,421 1182,420 1174,442 1136,429 1132,410 1094,418 1039,368 899,364 880,379 857,370 849,370 802,408 794,408 792,427 754,429 735,425 716,427 710,400 681,372 634,370"/>
+        <Baseline points="222,414 1240,447"/>
+        <TextEquiv>
+          <Unicode>Privilegien</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b23282a5" custom="structure {type:default;}">
+        <Coords points="334,511 328,511 275,513 248,526 246,599 357,618 414,605 473,620 670,610 714,622 721,622 735,612 752,628 884,618 924,631 1060,624 1178,635 1182,609 1182,576 1167,567 1165,593 1153,559 1113,532 1103,532 1071,553 1014,526 949,540 932,525 924,525 893,536 851,525 807,538 750,521 742,521 702,555 693,559 685,595 590,595 571,591 553,576 532,591 513,591 496,574 458,574 439,561 404,521 357,532"/>
+        <Baseline points="249,589 1183,610"/>
+        <TextEquiv>
+          <Unicode>Der Stadt Mannheim in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_545e9b47" custom="structure {type:default;}">
+        <Coords points="536,601 452,616 441,639 439,704 634,700 702,702 731,717 773,708 874,719 880,719 901,708 909,717 943,710 966,723 1023,723 1025,628 916,626 905,612 895,612 880,626 832,626 714,605 651,620 632,603 555,603"/>
+        <Baseline points="442,668 1027,678"/>
+        <TextEquiv>
+          <Unicode>der Chur⸗Pfaltz gelegen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_08eff6b0" custom="structure {type:text;}">
+      <Coords points="824,132 1102,137 1122,166 1112,197 1087,202 1117,217 773,222 768,208 976,202 789,166 799,137 824,132"/>
+      <TextLine id="eSc_line_2145535c" custom="structure {type:default;}">
+        <Coords points="334,95 332,204 653,236 695,236 731,215 800,215 830,238 838,238 884,223 907,238 914,238 964,221 1077,244 1098,225 1126,225 1128,206 1124,168 1117,168 1117,181 1096,204 1086,168 1054,135 1002,135 974,158 962,194 943,198 905,198 888,185 792,166 790,156 718,129 706,126 662,129 613,103"/>
+        <Baseline points="335,189 1130,208"/>
+        <TextEquiv>
+          <Unicode>Warhafftige vnd gewiſſe</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_dab22a50" custom="structure {type:text;}">
+      <Coords points="833,1625 1020,1639 1027,1705 1158,1705 1158,1765 320,1760 280,1755 290,1736 269,1729 285,1669 400,1669 427,1634 833,1625"/>
+      <TextLine id="eSc_line_5c4d257b" custom="structure {type:default;}">
+        <Coords points="851,1626 439,1632 429,1697 467,1710 548,1701 668,1716 689,1708 813,1718 825,1706 853,1718 897,1710 979,1720 1025,1706 1027,1636 1023,1636 1023,1664 1004,1638 922,1636 916,1630"/>
+        <Baseline points="433,1687 1029,1697"/>
+        <TextEquiv>
+          <Unicode>Gedruckt zu Heydelberg/</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9843e69e" custom="structure {type:default;}">
+        <Coords points="435,1687 324,1687 296,1699 286,1743 273,1733 267,1746 265,1765 328,1767 360,1788 399,1788 420,1769 483,1769 517,1788 649,1771 672,1788 710,1790 752,1775 836,1790 968,1775 991,1792 1151,1790 1151,1706 1031,1706 1014,1695 991,1710 933,1710 893,1695 861,1706 851,1695 844,1695 819,1708 714,1708 613,1693 607,1693 592,1704 550,1689 452,1701"/>
+        <Baseline points="268,1747 1154,1755"/>
+        <TextEquiv>
+          <Unicode>Bey Gotthard Voͤgelins ſeeligen Erben.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="324,702 1088,702 1088,838 324,838"/>
+      <TextLine id="eSc_line_07ad314b">
+        <Coords points="324,828 458,828 481,811 508,811 574,832 588,830 628,813 733,815 767,838 819,838 865,819 1084,832 1088,809 1088,721 1010,717 966,761 880,761 811,719 802,719 748,757 657,757 605,708 532,706 467,746 439,746 374,704 326,702 326,796"/>
+        <Baseline points="327,798 1090,811"/>
+        <TextEquiv>
+          <Unicode>1 6 5 2.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

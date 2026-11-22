@@ -25,6 +25,7 @@ project-website: https://digi.bib.uni-mannheim.de/
 language:
   - deu
   - lat
+  - fra
 script:
   - Latn
   - Goth

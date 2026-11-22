@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://digi.bib.uni-mannheim.de/fileadmin/digi/1885328680">
+    <Creator>escriptorium</Creator>
+    <Created>2026-11-22T08:49:38.785384+00:00</Created>
+    <LastChange>2026-11-22T08:49:38.785384+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1885328680_0025.jpg" imageWidth="1759" imageHeight="2355">
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="677,1360 924,1360 924,1577 677,1577"/>
+      <TextLine id="eSc_line_74e3632c">
+        <Coords points="714,1448 763,1460 765,1460 767,1460 769,1460 769,1458 783,1446 797,1456 804,1456 836,1444 838,1426 836,1387 789,1387 718,1360 714,1448"/>
+        <Baseline points="718,1424 839,1427"/>
+        <TextEquiv>
+          <Unicode>J</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5c0e3a4f">
+        <Coords points="677,1568 797,1577 799,1577 800,1577 802,1577 802,1575 812,1568 830,1577 830,1575 834,1575 855,1560 861,1558 924,1558 924,1414 865,1411 863,1411 861,1411 859,1411 804,1444 704,1440 681,1418 677,1538 677,1568"/>
+        <Baseline points="678,1540 925,1540"/>
+        <TextEquiv>
+          <Unicode>3785</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

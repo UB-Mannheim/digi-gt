@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://digi.bib.uni-mannheim.de/fileadmin/digi/1890801038">
+    <Creator>escriptorium</Creator>
+    <Created>2026-11-22T08:49:38.785384+00:00</Created>
+    <LastChange>2026-11-22T08:49:38.785384+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1890801038_0212.jpg" imageWidth="1444" imageHeight="2432">
+    <TextRegion id="eSc_textblock_2ce6e334" custom="structure {type:text;}">
+      <Coords points="504,297 1161,297 1199,324 1193,414 1329,443 1345,512 1302,593 1226,616 1242,739 1215,771 665,782 643,749 648,680 620,663 346,652 324,630 324,421 447,405 470,313 504,297"/>
+      <TextLine id="eSc_line_fed0c725" custom="structure {type:default;}">
+        <Coords points="1072,297 1032,312 1018,299 1018,297 1016,297 1014,297 1005,297 985,297 965,297 945,297 924,297 906,297 904,297 902,297 863,312 823,297 807,297 799,306 784,297 782,297 780,297 722,310 709,299 709,297 707,297 705,297 703,297 596,310 557,297 539,297 523,310 478,310 478,358 476,378 1168,383 1172,362 1170,308 1076,297 1074,297"/>
+        <Baseline points="479,360 1173,363"/>
+        <TextEquiv>
+          <Unicode>APPROBATION.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ee96877f" custom="structure {type:default;}">
+        <Coords points="326,506 1320,510 1324,494 1322,447 1237,447 1218,433 1210,433 1186,445 1149,443 1070,435 1066,435 1044,445 1040,439 1026,429 1026,427 888,427 888,429 868,447 768,447 754,433 752,433 752,431 689,427 661,447 604,447 543,427 490,437 328,425 328,492"/>
+        <Baseline points="329,493 1326,495"/>
+        <TextEquiv>
+          <Unicode>J'Ay lû une Lettre ſur la Morale de</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_98fe2e3b" custom="structure {type:default;}">
+        <Coords points="421,573 519,585 525,585 539,575 547,573 748,573 780,583 786,583 792,579 807,573 874,587 1139,575 1156,585 1156,587 1160,587 1162,589 1297,589 1300,561 1297,512 1182,500 1052,512 1036,500 1030,500 957,512 949,504 947,504 947,502 740,498 734,498 732,502 717,512 608,512 586,498 502,498 460,510 425,496 423,557 421,573"/>
+        <Baseline points="425,558 1302,563"/>
+        <TextEquiv>
+          <Unicode>Confucius, Philoſophe de la Chine.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_15cfd109" custom="structure {type:default;}">
+        <Coords points="336,625 336,649 359,641 369,649 370,652 375,652 419,641 471,651 485,651 550,641 563,651 569,653 612,653 648,641 774,641 792,653 793,653 795,653 796,653 797,653 828,643 859,653 861,653 862,653 958,643 989,643 999,653 1000,653 1001,653 1003,653 1004,653 1022,647 1080,652 1083,628 1083,587 1030,572 949,587 931,574 926,574 900,587 876,572 766,572 746,587 689,587 669,571 667,571 666,571 594,571 593,571 592,571 569,582 527,571 525,571 524,571 523,571 496,586 479,571 478,571 477,571 456,571 455,571 454,571 452,571 434,586 336,586 336,625"/>
+        <Baseline points="336,625 1083,628"/>
+        <TextEquiv>
+          <Unicode>Fait le huitiéme de May 1688.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_868e6bf4" custom="structure {type:default;}">
+        <Coords points="835,796 991,796 991,794 1042,772 1097,784 1103,784 1113,774 1202,774 1206,749 1200,685 827,695 805,682 803,682 801,682 799,682 797,682 778,695 685,685 679,685 665,693 667,772 705,772 754,794 762,794 788,772"/>
+        <Baseline points="668,752 1208,751"/>
+        <TextEquiv>
+          <Unicode>Signé, COUSIN.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
