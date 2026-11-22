@@ -1,7 +1,7 @@
 
 schema: https://github.com/tboenig/gt-metadata/tree/master/schema/2022-03-15/schema.json
 title: digi-gt
-url: https://github.com/tboenig/digi-gt
+url: https://github.com/UB-Mannheim/digi-gt
 authors:
   - name: Lahrsow
     surname: Miriam
@@ -32,7 +32,7 @@ script:
 script-type: print
 time:
   notBefore: '1507'
-  notAfter: '1555'
+  notAfter: '1941'
 hands:
   count: unknown
   level: level2
