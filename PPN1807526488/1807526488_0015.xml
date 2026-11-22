@@ -19,7 +19,7 @@
         <Coords points="1041,995 1044,995 1047,995 1049,995 1082,982 1133,995 1135,995 1138,995 1285,982 1305,995 1308,995 1310,995 1313,995 1315,995 1318,995 1343,980 1625,993 1941,972 1941,947 1936,886 1642,871 1640,871 1637,871 1574,886 1452,874 1338,886 1320,874 1310,874 1244,889 1016,876 1001,886 1003,980"/>
         <Baseline points="1003,955 1941,947"/>
         <TextEquiv>
-          <Unicode>iſt / von den Jungkfrawen.</Unicode>
+          <Unicode>iſt/ von den Jungkfrawen.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_4c1ad39d" >
@@ -50,28 +50,28 @@
         <Coords points="1475,3300 1478,3300 1480,3300 1483,3300 1485,3300 1503,3285 1599,3295 1845,3283 1870,3298 1878,3298 1934,3285 1954,3283 1962,3285 1987,3298 1995,3298 2035,3285 2048,3283 2066,3298 2073,3298 2258,3295 2268,3285 2276,3280 2433,3293 2674,3283 2674,3250 2669,3197 2469,3186 2438,3199 2428,3194 2413,3189 2408,3189 2182,3202 2109,3184 2106,3184 2104,3184 2101,3184 2048,3204 1979,3186 1969,3186 1944,3207 1891,3207 1799,3186 1792,3186 1772,3204 1696,3189 1660,3207 1597,3192 1574,3194 1475,3209 1432,3192 1414,3194 1356,3207 1181,3194 1183,3288 1429,3288"/>
         <Baseline points="1183,3262 2674,3250"/>
         <TextEquiv>
-          <Unicode>lianus / da er leret vo der kunſt des wolredens/</Unicode>
+          <Unicode>lianus/ da er leret vo der kunſt des wolredens/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_ea00807e" >
         <Coords points="1193,3382 2683,3370 2687,3340 2679,3279 1189,3268 1193,3344"/>
         <Baseline points="1196,3346 2689,3343"/>
         <TextEquiv>
-          <Unicode>Achtet / das alßbald von kindsweſen auff / da⸗</Unicode>
+          <Unicode>Achtet/ das alßbald von kindsweſen auff/ da⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_22e5766e" >
         <Coords points="1176,3468 1944,3455 2557,3465 2689,3450 2689,3422 2684,3369 2623,3359 2606,3369 2598,3371 2557,3356 2555,3356 2552,3356 2550,3356 2519,3371 2413,3359 2385,3369 2380,3374 1926,3374 1914,3361 1914,3359 1807,3359 1744,3374 1693,3359 1688,3359 1607,3374 1589,3359 1445,3359 1368,3374 1221,3361 1173,3376 1176,3427"/>
         <Baseline points="1176,3427 2689,3422"/>
         <TextEquiv>
-          <Unicode>rinn anzefahen ſey: Dann er mainet / das kain</Unicode>
+          <Unicode>rinn anzefahen ſey: Dann er mainet/ das kain</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_257cbcb8" >
         <Coords points="1193,3511 1193,3556 2687,3545 2687,3446 1193,3446 1193,3511"/>
         <Baseline points="1196,3513 2690,3514"/>
         <TextEquiv>
-          <Unicode>zeyt hingehen ſolt / woͤlche nit zum endt der für⸗</Unicode>
+          <Unicode>zeyt hingehen ſolt/ woͤlche nit zum endt der für⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_da119517" >
@@ -92,14 +92,14 @@
         <Coords points="1170,3811 2687,3807 2687,3762 2679,3701 1284,3689 1281,3689 1166,3708 1170,3769"/>
         <Baseline points="1174,3772 2689,3764"/>
         <TextEquiv>
-          <Unicode>Jungkfrauwen fürgenomen werden / das wir</Unicode>
+          <Unicode>Jungkfrauwen fürgenomen werden/ das wir</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_492aa363" >
         <Coords points="1011,3893 1014,3893 1041,3888 1074,3878 1247,3878 1282,3891 1462,3878 1513,3891 1521,3891 1551,3876 2071,3876 2182,3888 2190,3888 2274,3876 2322,3888 2324,3891 2674,3891 2677,3848 2672,3797 2603,3782 2601,3782 2598,3782 2547,3794 2324,3782 2322,3782 2319,3782 2317,3782 2296,3797 2144,3797 2050,3782 2048,3782 2045,3782 1997,3794 1903,3782 1901,3782 1827,3797 1822,3797 1805,3784 1794,3784 1751,3797 1731,3797 1551,3784 1417,3797 1409,3797 1384,3784 1232,3784 1118,3797 1092,3802 889,3802 884,3797 869,3787 859,3787 806,3800 562,3787 354,3797 357,3855 357,3886"/>
         <Baseline points="357,3855 2677,3848"/>
         <TextEquiv>
-          <Unicode>nit allein ir auffnemen anrichten vnnd oꝛdnen / Sondern auch den erſten</Unicode>
+          <Unicode>nit allein ir auffnemen anrichten vnnd oꝛdnen/ Sondern auch den erſten</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_f4325541" >
@@ -113,7 +113,7 @@
         <Coords points="353,3986 2687,3986 2691,3936 2683,3876 349,3876 353,3940"/>
         <Baseline points="357,3941 2692,3939"/>
         <TextEquiv>
-          <Unicode>anfang von der milch ſelbſt / woͤlche ich wolt / ſo ferꝛes müglich / das ſie</Unicode>
+          <Unicode>anfang von der milch ſelbſt/ woͤlche ich wolt/ ſo ferꝛes müglich/ das ſie</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_324a9a88" >
@@ -134,14 +134,14 @@
         <Coords points="364,4050 2679,4050 2683,4031 2679,3959 368,3948 368,4024"/>
         <Baseline points="372,4025 2685,4035"/>
         <TextEquiv>
-          <Unicode>von irer rechten muͦtter were / vnd diß haben auch gerathen Plutarchus</Unicode>
+          <Unicode>von irer rechten muͦtter were/ vnd diß haben auch gerathen Plutarchus</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_67deecd5" >
         <Coords points="367,4174 507,4172 555,4147 651,4167 656,4167 702,4154 867,4169 920,4172 1044,4139 1186,4152 1191,4152 1229,4139 1351,4162 1399,4169 1495,4152 1561,4169 1571,4169 1589,4159 1614,4142 1680,4136 1741,4149 1873,4136 1944,4159 1954,4159 1987,4139 2038,4157 2045,4157 2083,4136 2299,4149 2380,4152 2522,4142 2535,4144 2585,4162 2590,4162 2684,4142 2687,4106 2684,4048 2360,4035 2170,4048 2081,4033 2078,4033 2076,4033 2073,4033 2058,4045 2050,4048 1947,4035 1941,4035 1903,4048 1878,4033 1876,4033 1873,4033 1647,4033 1645,4033 1470,4035 1460,4043 1445,4050 1412,4035 1199,4035 1171,4053 689,4053 643,4040 631,4040 512,4053 365,4040"/>
         <Baseline points="367,4119 1318,4104 2687,4106"/>
         <TextEquiv>
-          <Unicode>Phauorinus / vnd ander trefflich gelert leüt. Dann alſo wirt die lieb ge⸗</Unicode>
+          <Unicode>Phauorinus/ vnd ander trefflich gelert leüt. Dann alſo wirt die lieb ge⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_02f7dae3" >
@@ -183,7 +183,7 @@
         <Coords points="566,904 2349,893 2349,847 2345,767 2147,741 2143,741 2140,741 2136,741 2109,763 2045,741 2041,741 2037,741 2033,741 2029,741 2029,744 2003,767 2003,771 1923,771 1854,741 1851,741 1847,741 1843,741 1839,741 1805,763 1782,744 1782,741 1778,741 1775,741 1642,741 1638,741 1634,741 1630,741 1630,744 1596,771 1596,775 1322,775 1242,744 1227,744 1227,748 1197,771 1014,748 1003,748 965,775 927,748 824,748 726,775 642,748 631,748 562,775 566,870"/>
         <Baseline points="570,871 1323,851 2352,851"/>
         <TextEquiv>
-          <Unicode>chen Frawen / Das erſt Buͦch / woͤlchs da</Unicode>
+          <Unicode>chen Frawen/ Das erſt Buͦch/ woͤlchs da</Unicode>
         </TextEquiv>
       </TextLine>
     </TextRegion>

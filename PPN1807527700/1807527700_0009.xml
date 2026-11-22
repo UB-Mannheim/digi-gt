@@ -57,14 +57,14 @@
         <Coords points="2543,3090 2468,3090 2468,3153 2468,3176 2760,3176 2760,3153 2756,3098 2547,3098"/>
         <Baseline points="2470,3155 2763,3157"/>
         <TextEquiv>
-          <Unicode>lebt / wirt ein</Unicode>
+          <Unicode>lebt/ wirt ein</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_5c690bf5" >
         <Coords points="885,3243 2457,3220 2461,3188 2453,3109 882,3121 885,3200"/>
         <Baseline points="887,3201 2157,3186 2462,3190"/>
         <TextEquiv>
-          <Unicode>für guͦt angeſehen / als er den zuͦkünfftigen zeyten</Unicode>
+          <Unicode>für guͦt angeſehen/ als er den zuͦkünfftigen zeyten</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_3d20c378" custom="structure {type:Correction;}">
@@ -78,7 +78,7 @@
         <Coords points="885,3326 2449,3291 2453,3263 2445,3196 882,3216 885,3283"/>
         <Baseline points="887,3285 2456,3266"/>
         <TextEquiv>
-          <Unicode>grundtfeſten leget / daß die Thier / woͤlche er erſt⸗</Unicode>
+          <Unicode>grundtfeſten leget/ daß die Thier/ woͤlche er erſt⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_b7f27846" custom="structure {type:Correction;}">
@@ -106,14 +106,14 @@
         <Coords points="2472,3361 2472,3389 2760,3385 2760,3361 2756,3302 2472,3302 2472,3361"/>
         <Baseline points="2474,3364 2761,3364"/>
         <TextEquiv>
-          <Unicode>ber / neüma</Unicode>
+          <Unicode>ber/ neüma</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_18a425b6" >
         <Coords points="1021,3490 1023,3490 1113,3477 1330,3487 1401,3472 1409,3472 1554,3485 2446,3461 2446,3435 2438,3367 884,3377 887,3474"/>
         <Baseline points="887,3453 2446,3435"/>
         <TextEquiv>
-          <Unicode>darzuͦ an zal gar wenig geſchaffenn het / durch die</Unicode>
+          <Unicode>darzuͦ an zal gar wenig geſchaffenn het/ durch die</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_4736248f" custom="structure {type:Correction;}">
@@ -134,7 +134,7 @@
         <Coords points="885,3586 2457,3554 2461,3519 2449,3452 882,3456"/>
         <Baseline points="888,3545 2464,3520"/>
         <TextEquiv>
-          <Unicode>gebaͤrung junge ſolten zeügen / daher aines jeykli⸗</Unicode>
+          <Unicode>gebaͤrung junge ſolten zeügen/ daher aines jeykli⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_cf562bc5" custom="structure {type:Correction;}">
@@ -155,7 +155,7 @@
         <Coords points="129,3578 133,3633 133,3661 2468,3629 2472,3613 2464,3539 346,3558 326,3562 248,3570 208,3570"/>
         <Baseline points="136,3634 2110,3608 2474,3617"/>
         <TextEquiv>
-          <Unicode>chen Geſchlecht / gemehꝛet / vnnd auff das aller laͤngſt volſtreckt wurde.</Unicode>
+          <Unicode>chen Geſchlecht/ gemehꝛet/ vnnd auff das aller laͤngſt volſtreckt wurde.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_dc180714" custom="structure {type:Correction;}">
@@ -176,42 +176,42 @@
         <Coords points="2291,3609 133,3653 137,3720 137,3751 2461,3720 2464,3680 2453,3613 2299,3613"/>
         <Baseline points="139,3724 2467,3683"/>
         <TextEquiv>
-          <Unicode>Auff das auß ſehr klainen anfaͤngen / ainer oder zwen / ſchier inn ain vn⸗</Unicode>
+          <Unicode>Auff das auß ſehr klainen anfaͤngen/ ainer oder zwen/ ſchier inn ain vn⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_ab95a8cb" >
         <Coords points="133,3842 2472,3797 2475,3773 2467,3705 2331,3713 2320,3708 2304,3697 2302,3697 2299,3697 2296,3697 2136,3716 2086,3710 1997,3703 1924,3721 1803,3705 1643,3721 1601,3708 1404,3710 1386,3724 1375,3729 1249,3718 1207,3731 1165,3729 1029,3716 721,3737 666,3739 525,3724 485,3742 483,3745 417,3745 393,3726 301,3726 280,3742 157,3729 149,3729 131,3739"/>
         <Baseline points="133,3808 2475,3773"/>
         <TextEquiv>
-          <Unicode>endtliche maͤnig auffwuͤchſſen / vnd auß der ſterbligkait / gleich naißman</Unicode>
+          <Unicode>endtliche maͤnig auffwuͤchſſen/ vnd auß der ſterbligkait/ gleich naißman</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_a0260ea1" >
         <Coords points="136,3915 1110,3915 1110,3913 1480,3894 1517,3894 1693,3905 1787,3892 1892,3902 1908,3889 1908,3886 2092,3886 2254,3897 2478,3878 2478,3860 2472,3797 2281,3784 2278,3784 1997,3802 1953,3802 1690,3792 1659,3808 1509,3797 1498,3808 1493,3810 1307,3800 1218,3813 1120,3800 1055,3815 994,3813 871,3805 716,3821 666,3815 582,3808 509,3823 133,3823"/>
         <Baseline points="136,3892 2478,3860"/>
         <TextEquiv>
-          <Unicode>ain vnſterbligkait erlangten. Aber die andern Thier / ſeind der Natur</Unicode>
+          <Unicode>ain vnſterbligkait erlangten. Aber die andern Thier/ ſeind der Natur</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_bc41d231" >
         <Coords points="908,4002 910,4002 1136,3986 1157,3986 1286,3997 1333,3983 1362,3983 1496,3994 1572,3981 1590,3981 1693,3991 2084,3973 2115,3973 2283,3983 2299,3970 2472,3970 2475,3944 2467,3873 1496,3878 1249,3897 1207,3884 1199,3884 1170,3899 834,3902 721,3892 538,3907 509,3907 441,3894 133,3913 136,3999"/>
         <Baseline points="136,3976 2475,3944"/>
         <TextEquiv>
-          <Unicode>vnunderſchidlich / on alle oꝛdnung / on alles Geſetz / gehoꝛſam / und zeügen</Unicode>
+          <Unicode>vnunderſchidlich/ on alle oꝛdnung/ on alles Geſetz/ gehoꝛſam/ und zeügen</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_d65f100b" >
         <Coords points="136,4083 2475,4052 2475,4028 2467,3957 2378,3968 2323,3957 2299,3955 2296,3955 2294,3955 2286,3957 2262,3970 1958,3960 1942,3962 1879,3976 1719,3962 1635,3978 1514,3965 1512,3968 1491,3981 1107,3973 1044,3973 908,3989 740,3976 735,3976 672,3991 133,3986"/>
         <Baseline points="136,4060 2475,4028"/>
         <TextEquiv>
-          <Unicode>kinder / Vnd das iſt inen gleich wie ain gmains Gſetz / woͤlchem wir ſehen</Unicode>
+          <Unicode>kinder/ Vnd das iſt inen gleich wie ain gmains Gſetz/ woͤlchem wir ſehen</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_448a239c" >
         <Coords points="139,4214 427,4212 582,4175 666,4191 879,4175 921,4199 934,4199 963,4178 987,4193 994,4193 1078,4175 1152,4188 1160,4188 1181,4170 1288,4164 1459,4183 1567,4164 1624,4172 1651,4157 1842,4183 1863,4178 1921,4157 1963,4170 1968,4170 2071,4149 2152,4175 2205,4170 2375,4143 2467,4162 2470,4109 2462,4036 133,4073"/>
         <Baseline points="136,4143 798,4143 2470,4109"/>
         <TextEquiv>
-          <Unicode>das alle Thier von inen ſelbſt / gehoꝛchen. Wiwol etlich vnter inen ſeind /</Unicode>
+          <Unicode>das alle Thier von inen ſelbſt/ gehoꝛchen. Wiwol etlich vnter inen ſeind/</Unicode>
         </TextEquiv>
       </TextLine>
     </TextRegion>

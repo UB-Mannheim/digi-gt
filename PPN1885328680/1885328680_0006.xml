@@ -26,56 +26,56 @@
         <Coords points="464,730 464,745 543,742 591,751 592,751 698,741 745,750 823,741 903,750 918,740 969,740 983,749 1060,741 1077,749 1281,747 1293,739 1319,744 1420,737 1465,746 1564,736 1565,723 1561,683 1484,691 1465,682 1464,682 1463,682 1411,691 1378,684 1359,682 1358,682 1302,688 1291,685 1273,683 1263,691 1225,684 1200,692 1134,683 1120,693 1025,685 1004,693 924,688 902,694 884,692 851,685 835,692 826,685 739,685 725,694 702,687 650,696 502,687 482,693 476,709 467,717"/>
         <Baseline points="464,730 1565,723"/>
         <TextEquiv>
-          <Unicode>kommen / daß einige vorgebene Freyheiten der Statt</Unicode>
+          <Unicode>kommen/ daß einige vorgebene Freyheiten der Statt</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_2a329d6a" custom="structure {type:default;}">
         <Coords points="461,754 462,798 529,798 569,807 571,807 572,807 596,798 643,807 644,807 775,797 804,802 860,795 870,795 900,804 902,806 902,804 933,795 962,802 1022,794 1031,794 1042,803 1103,797 1144,803 1249,793 1259,793 1286,803 1357,803 1557,790 1559,778 1555,742 1449,744 1430,732 1429,732 1427,732 1383,732 1382,732 1381,732 1354,745 1283,733 1260,746 1191,746 1164,737 1109,746 1090,736 1036,742 1012,735 972,745 923,736 899,747 883,737 876,737 868,744 825,736 780,747 726,737 706,745 641,739 610,751 568,751 542,739 505,739 487,744 486,746"/>
         <Baseline points="462,785 1559,778"/>
         <TextEquiv>
-          <Unicode>Mannheim in Niederland getruckt / oͤffentlich ver⸗</Unicode>
+          <Unicode>Mannheim in Niederland getruckt/ oͤffentlich ver⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_32276194" custom="structure {type:default;}">
         <Coords points="424,865 425,865 427,865 446,857 477,864 568,855 753,861 778,852 876,859 888,852 893,851 981,851 998,859 1001,859 1025,851 1037,851 1089,857 1114,848 1194,856 1234,847 1290,847 1295,848 1303,855 1310,855 1321,847 1362,854 1566,846 1566,832 1564,797 1383,797 1354,788 1353,788 1351,788 1350,788 1316,798 1219,793 1204,800 1076,800 999,792 970,800 885,794 861,803 835,794 710,797 687,800 660,806 626,797 545,798 528,807 442,798 320,802 322,857"/>
         <Baseline points="322,846 1566,832"/>
         <TextEquiv>
-          <Unicode>kaufft / vnd dadurch die Leute verfuͤhret werden; Als haben</Unicode>
+          <Unicode>kaufft/ vnd dadurch die Leute verfuͤhret werden; Als haben</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_4512b6ad" custom="structure {type:default;}">
         <Coords points="322,922 1565,907 1565,888 1562,851 1494,840 1493,840 1492,840 1460,851 1349,843 1321,852 1257,847 1103,855 1091,848 1086,848 1060,855 1038,845 974,856 936,846 764,847 715,859 702,854 692,848 657,848 645,854 627,860 595,850 547,850 487,862 457,851 422,859 320,855"/>
         <Baseline points="322,903 1565,888"/>
         <TextEquiv>
-          <Unicode>hoͤchſtged: Ihre Churfuͤrſtl: Durchl: vor gut angeſehen / hie⸗</Unicode>
+          <Unicode>hoͤchſtged: Ihre Churfuͤrſtl: Durchl: vor gut angeſehen/ hie⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_0e44b32b" custom="structure {type:default;}">
         <Coords points="320,974 621,975 622,975 624,975 625,975 638,967 777,972 794,966 818,972 840,965 860,970 870,970 942,963 998,970 1047,962 1252,967 1359,958 1561,963 1564,942 1561,908 1525,899 1454,908 1430,898 1429,898 1427,898 1426,898 1394,909 1298,909 1259,899 1148,912 1046,902 976,903 940,914 842,904 772,905 744,915 716,910 707,917 625,909 550,918 490,909 462,918 372,912 358,920 357,922 327,922 320,957"/>
         <Baseline points="320,957 1564,942"/>
         <TextEquiv>
-          <Unicode>mit kund zu thun / daß ſolches ohne dero wiſſen vnd verwilli⸗</Unicode>
+          <Unicode>mit kund zu thun/ daß ſolches ohne dero wiſſen vnd verwilli⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_5b2fb964" custom="structure {type:default;}">
         <Coords points="320,1029 456,1032 457,1032 458,1032 486,1024 596,1030 610,1022 715,1028 736,1020 838,1028 851,1020 866,1025 894,1025 1151,1016 1248,1023 1286,1024 1430,1014 1564,1019 1566,1000 1564,965 1521,957 1475,963 1459,953 1458,953 1456,953 1427,953 1426,953 1343,955 1288,966 1255,958 1152,967 1094,960 1044,967 1017,957 1013,957 993,965 977,958 874,958 643,971 585,962 568,968 502,963 477,974 328,974 320,1011"/>
         <Baseline points="320,1011 1566,1000"/>
         <TextEquiv>
-          <Unicode>gung geſchehen / vnd daß Sie keine andere als gegenwertige</Unicode>
+          <Unicode>gung geſchehen/ vnd daß Sie keine andere als gegenwertige</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_61b8e05d" custom="structure {type:default;}">
         <Coords points="320,1083 1568,1072 1568,1056 1565,1019 1429,1008 1427,1008 1367,1019 1221,1010 1194,1022 1147,1022 1114,1011 1055,1020 1015,1011 876,1024 761,1014 698,1025 619,1015 577,1027 486,1018 454,1029 408,1029 374,1018 328,1028 320,1067"/>
         <Baseline points="320,1067 1568,1056"/>
         <TextEquiv>
-          <Unicode>Mannheimer Freyheiten vor rechtmeſſig erkennen / Maſſen</Unicode>
+          <Unicode>Mannheimer Freyheiten vor rechtmeſſig erkennen/ Maſſen</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_3042d5d0" custom="structure {type:default;}">
         <Coords points="323,1130 854,1135 855,1135 856,1135 875,1128 899,1134 1037,1126 1196,1133 1199,1133 1216,1125 1230,1131 1234,1131 1253,1125 1527,1130 1569,1121 1569,1110 1566,1076 1431,1063 1430,1063 1429,1063 1388,1076 1358,1064 1311,1064 1273,1076 1228,1064 1139,1075 1082,1066 1014,1067 977,1077 941,1067 861,1067 759,1080 737,1071 645,1081 636,1081 588,1072 561,1080 519,1073 476,1083 331,1083 323,1119"/>
         <Baseline points="323,1119 1569,1110"/>
         <TextEquiv>
-          <Unicode>Sie dann geſtatten vnd zulaſſen / daß ſolche zu maͤnnigliches</Unicode>
+          <Unicode>Sie dann geſtatten vnd zulaſſen/ daß ſolche zu maͤnnigliches</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_e9796cf7" custom="structure {type:default;}">
@@ -89,14 +89,14 @@
         <Coords points="424,1253 425,1253 497,1244 516,1251 518,1253 569,1253 569,1251 696,1241 812,1249 855,1240 909,1245 991,1239 1007,1248 1052,1248 1052,1246 1225,1236 1315,1244 1484,1234 1527,1241 1566,1231 1566,1219 1562,1183 1369,1183 1324,1177 1322,1177 1321,1177 1292,1185 1209,1178 1124,1186 1067,1179 946,1181 937,1188 828,1182 735,1190 720,1190 672,1185 668,1185 658,1191 506,1186 485,1193 320,1193 322,1244"/>
         <Baseline points="322,1231 1566,1219"/>
         <TextEquiv>
-          <Unicode>werden moͤgen / damit niemand durch andere falſche vnd die⸗</Unicode>
+          <Unicode>werden moͤgen/ damit niemand durch andere falſche vnd die⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_99e0056a" custom="structure {type:default;}">
         <Coords points="325,1308 367,1301 635,1307 727,1298 750,1303 813,1297 838,1305 851,1298 947,1302 961,1294 1100,1294 1204,1302 1219,1296 1220,1294 1221,1296 1234,1302 1345,1302 1415,1292 1425,1292 1447,1299 1475,1291 1568,1289 1568,1277 1565,1241 1412,1231 1411,1231 1410,1231 1377,1241 1268,1233 1099,1244 951,1235 936,1245 823,1236 761,1238 742,1248 675,1248 669,1245 636,1238 581,1248 514,1239 456,1240 442,1249 351,1241 324,1246"/>
         <Baseline points="325,1287 1568,1277"/>
         <TextEquiv>
-          <Unicode>ſem nicht gleichlautende Exemplarien / moͤge irꝛ gemacht vnd</Unicode>
+          <Unicode>ſem nicht gleichlautende Exemplarien/ moͤge irꝛ gemacht vnd</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_e41fbcee" custom="structure {type:default;}">

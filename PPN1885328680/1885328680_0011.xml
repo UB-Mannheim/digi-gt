@@ -33,21 +33,21 @@
         <Coords points="140,386 187,396 278,396 307,388 389,396 700,389 726,399 858,399 891,390 935,399 986,390 1055,399 1187,391 1230,400 1231,400 1232,400 1259,391 1326,399 1375,390 1376,377 1374,331 1322,332 1297,324 1249,332 1115,321 1112,321 1091,331 1050,324 1013,331 988,321 924,321 907,329 850,319 806,329 731,321 682,329 563,321 528,328 484,318 477,319 456,327 384,318 369,328 226,328 213,319 141,315"/>
         <Baseline points="141,371 1376,377"/>
         <TextEquiv>
-          <Unicode>iahren auffnehmen / vnd nach deſſen gutfinden / zu</Unicode>
+          <Unicode>iahren auffnehmen/ vnd nach deſſen gutfinden/ zu</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_bf1dc6d7" custom="structure {type:default;}">
         <Coords points="147,441 147,463 408,458 452,465 503,458 524,466 662,466 700,458 892,465 916,458 1070,458 1085,466 1155,466 1175,458 1182,458 1218,465 1292,458 1350,465 1378,457 1378,441 1378,391 1309,391 1289,400 1117,400 1016,389 1015,389 960,399 933,393 912,393 834,399 809,391 805,391 787,399 705,393 699,394 690,399 675,391 620,395 601,395 570,389 518,389 517,389 515,389 487,398 460,389 458,389 457,389 456,389 422,399 379,389 378,389 284,398 261,389 260,389 185,389 184,389 183,389 182,389 166,399 147,398 147,441"/>
         <Baseline points="147,441 1378,441"/>
         <TextEquiv>
-          <Unicode>pflaſtern der ſtraſſen / oder andern der Statt notturff⸗</Unicode>
+          <Unicode>pflaſtern der ſtraſſen/ oder andern der Statt notturff⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_b6a819e3" custom="structure {type:default;}">
         <Coords points="570,457 568,457 469,465 403,457 402,457 400,457 371,468 299,460 260,470 160,470 154,500 150,470 142,470 142,510 142,525 399,524 431,530 462,524 570,533 638,524 672,534 773,527 878,534 924,525 960,535 1117,535 1140,528 1187,534 1211,525 1226,532 1268,525 1336,534 1376,524 1378,508 1371,471 1327,471 1292,458 1072,458 1048,470 1006,462 949,470 912,458 908,458 883,471 810,471 791,458 743,458 651,470 642,470"/>
         <Baseline points="142,510 1078,514 1378,508"/>
         <TextEquiv>
-          <Unicode>ten verwenden laſſen / mit dem geding daß ſie ſollen ge⸗</Unicode>
+          <Unicode>ten verwenden laſſen/ mit dem geding daß ſie ſollen ge⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_9dcda191" custom="structure {type:default;}">
@@ -89,28 +89,28 @@
         <Coords points="149,930 149,951 557,945 575,954 580,954 591,946 622,954 671,946 716,954 916,946 929,954 979,947 1041,955 1042,955 1150,949 1228,955 1230,955 1231,955 1255,947 1318,955 1319,955 1376,946 1378,934 1376,887 1305,887 1304,885 1280,877 1115,885 1022,877 969,885 950,875 886,884 729,878 643,884 610,875 529,883 453,874 452,874 451,874 431,884 359,884 337,874 336,874 335,874 240,883 222,875 149,875 149,930"/>
         <Baseline points="149,930 1378,934"/>
         <TextEquiv>
-          <Unicode>fiſchen / ſo weit der Mannheimer Gerechtigkeit ſich er⸗</Unicode>
+          <Unicode>fiſchen/ ſo weit der Mannheimer Gerechtigkeit ſich er⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_3e51c5cc" custom="structure {type:default;}">
         <Coords points="149,952 149,998 149,1019 219,1014 283,1021 313,1012 333,1022 436,1022 441,1018 456,1012 553,1012 579,1021 664,1013 696,1022 740,1014 764,1023 1044,1014 1080,1022 1171,1016 1201,1025 1202,1025 1203,1025 1242,1018 1279,1025 1280,1025 1281,1025 1313,1017 1348,1025 1350,1025 1351,1025 1376,1014 1378,1003 1376,958 1337,958 1337,956 1312,946 1165,956 1134,946 1130,946 1097,956 1029,956 1007,952 946,945 887,955 859,945 773,945 757,954 642,947 630,955 485,955 417,954 400,942 399,942 398,942 396,942 346,952 313,944 216,952 152,944 149,952"/>
         <Baseline points="149,998 1378,1003"/>
         <TextEquiv>
-          <Unicode>ſtreckt / außgenommen das hohe wild vnd das fiſchen</Unicode>
+          <Unicode>ſtreckt/ außgenommen das hohe wild vnd das fiſchen</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_2f630537" custom="structure {type:default;}">
         <Coords points="145,1038 145,1069 145,1089 193,1084 214,1090 216,1092 400,1092 400,1090 439,1083 637,1089 705,1083 795,1090 833,1085 841,1092 843,1092 844,1092 845,1092 859,1092 945,1084 1271,1092 1288,1092 1289,1092 1292,1092 1350,1084 1376,1092 1380,1071 1379,1027 1233,1016 1230,1016 1212,1027 1039,1027 1027,1019 927,1026 921,1026 898,1019 868,1026 854,1017 785,1022 763,1014 762,1014 761,1014 724,1021 715,1014 714,1014 713,1014 572,1014 571,1014 570,1014 533,1025 501,1016 439,1026 214,1026 192,1017 149,1025 145,1038"/>
         <Baseline points="145,1069 1380,1071"/>
         <TextEquiv>
-          <Unicode>n den zweyen alten Neckern / darinn niemands fiſchen</Unicode>
+          <Unicode>n den zweyen alten Neckern/ darinn niemands fiſchen</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_53cce719" custom="structure {type:default;}">
         <Coords points="144,1153 218,1161 255,1155 379,1155 399,1161 452,1155 463,1162 734,1156 763,1164 969,1157 987,1164 1118,1166 1209,1166 1223,1158 1355,1165 1375,1157 1376,1143 1375,1088 1313,1084 1298,1090 1283,1084 1279,1084 1242,1094 1226,1084 1125,1084 1099,1094 1063,1084 1008,1083 964,1093 916,1083 835,1092 773,1083 686,1092 652,1081 651,1081 649,1081 568,1090 522,1081 520,1081 519,1081 498,1092 409,1083 376,1090 145,1090"/>
         <Baseline points="145,1138 1376,1143"/>
         <TextEquiv>
-          <Unicode>nag / dieweil auß dieſen waͤſſern Ihre Churfl: Durchl:</Unicode>
+          <Unicode>nag/ dieweil auß dieſen waͤſſern Ihre Churfl: Durchl:</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_d5223150" custom="structure {type:default;}">
@@ -124,7 +124,7 @@
         <Coords points="141,1280 141,1301 183,1295 228,1303 298,1295 319,1303 402,1295 428,1303 508,1295 580,1303 662,1295 718,1303 778,1296 1000,1296 1020,1305 1103,1305 1125,1296 1230,1296 1244,1303 1276,1296 1312,1304 1372,1298 1374,1282 1374,1238 1333,1227 1329,1227 1311,1234 1251,1229 1188,1237 1139,1223 1021,1223 993,1236 908,1223 905,1223 891,1232 866,1225 836,1233 804,1223 800,1223 774,1234 754,1228 750,1228 726,1236 656,1229 633,1234 606,1227 601,1227 586,1237 510,1237 456,1222 455,1222 453,1222 218,1223 193,1237 149,1237 142,1267"/>
         <Baseline points="141,1280 1374,1282"/>
         <TextEquiv>
-          <Unicode>gleichfalß außgenommen / in deme die Fiſch darinn zu</Unicode>
+          <Unicode>gleichfalß außgenommen/ in deme die Fiſch darinn zu</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_c1f7859b" custom="structure {type:default;}">
@@ -166,7 +166,7 @@
         <Coords points="139,1718 340,1715 361,1722 452,1723 458,1718 465,1716 729,1717 752,1727 953,1727 975,1717 1056,1727 1058,1729 1154,1729 1154,1727 1166,1721 1237,1727 1286,1718 1328,1727 1361,1717 1362,1703 1360,1648 1308,1649 1288,1660 1203,1660 1183,1650 1125,1659 1089,1648 1085,1648 1059,1659 994,1653 979,1658 925,1646 883,1659 792,1659 747,1646 743,1646 715,1655 685,1645 634,1656 566,1656 529,1645 525,1645 504,1655 481,1649 477,1649 461,1655 424,1644 423,1644 422,1644 139,1654 139,1698"/>
         <Baseline points="139,1698 1362,1703"/>
         <TextEquiv>
-          <Unicode>dem Kauffhandel vnd Nahrung ſehr wohl gelegen / ſo</Unicode>
+          <Unicode>dem Kauffhandel vnd Nahrung ſehr wohl gelegen/ ſo</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_386ae08d" custom="structure {type:default;}">
@@ -180,21 +180,21 @@
         <Coords points="1175,1865 1357,1854 1359,1833 1355,1783 1297,1776 1257,1787 1225,1778 1219,1778 1202,1787 1189,1778 1101,1787 1056,1776 1039,1789 923,1789 885,1776 834,1789 713,1789 650,1776 644,1776 633,1787 525,1778 519,1778 510,1787 502,1787 411,1776 405,1776 388,1787 356,1776 214,1776 182,1787 164,1776 157,1776 134,1785 136,1856"/>
         <Baseline points="137,1837 1361,1835"/>
         <TextEquiv>
-          <Unicode>gutfinden dahin bedacht zu ſeyn / daß vnderſchiediche</Unicode>
+          <Unicode>gutfinden dahin bedacht zu ſeyn/ daß vnderſchiediche</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_52106731" custom="structure {type:default;}">
         <Coords points="138,1903 138,1926 405,1926 422,1941 931,1941 989,1926 1024,1939 1217,1926 1361,1931 1363,1846 1245,1846 1228,1857 1120,1846 1097,1859 686,1859 587,1846 582,1846 565,1857 506,1846 432,1856 386,1846 373,1857 335,1846 301,1856 271,1846 229,1857 193,1846 138,1854 138,1903"/>
         <Baseline points="139,1905 1365,1905"/>
         <TextEquiv>
-          <Unicode>Wochen⸗ vnd Jahr⸗Maͤrckt angeſtelt / vnd Marckſchif</Unicode>
+          <Unicode>Wochen⸗ vnd Jahr⸗Maͤrckt angeſtelt/ vnd Marckſchif</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_05d26054" custom="structure {type:default;}">
         <Coords points="146,1977 146,2007 356,2007 398,2028 593,2026 614,2007 637,2015 669,2005 737,2024 813,2007 883,2024 929,2015 1029,2024 1046,2009 1149,2022 1242,2002 1344,2013 1346,1969 1342,1922 1316,1916 1283,1929 1187,1916 1143,1933 1042,1937 1010,1918 936,1918 917,1931 855,1924 843,1935 824,1918 735,1933 640,1920 580,1931 449,1920 390,1926 377,1935 371,1956 295,1950 257,1956 238,1967 231,1943 189,1943 182,1975 155,1967"/>
         <Baseline points="147,1979 1348,1971"/>
         <TextEquiv>
-          <Unicode>auff Worms / Oppenheim / Mentz / Speyer / Straß⸗</Unicode>
+          <Unicode>auff Worms/ Oppenheim/ Mentz/ Speyer/ Straß⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_efaefcb5" custom="structure {type:default;}">

@@ -12,70 +12,70 @@
         <Coords points="764,313 745,313 726,313 707,313 690,313 659,321 650,332 650,380 648,395 799,412 887,403 1004,414 1260,410 1342,424 1520,414 1547,428 1637,430 1791,424 2176,439 2178,439 2325,428 2327,412 2325,363 2294,361 2281,357 2143,357 2097,338 2021,336 1941,351 1931,351 1891,334 1885,334 1847,344 1811,334 1805,334 1765,347 1761,347 1719,330 1631,328 1596,344 1447,344 1417,326 1287,338 1281,338 1252,322 1246,322 1210,336 950,334 917,317 898,315 784,315"/>
         <Baseline points="650,380 2327,412"/>
         <TextEquiv>
-          <Unicode>alle feſtunge werden yhm eyn ſchertz ſeyn / Denn es</Unicode>
+          <Unicode>alle feſtunge werden yhm eyn ſchertz ſeyn/ Denn es</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_b884505d" >
         <Coords points="639,478 2312,518 2318,484 2315,432 2057,432 2025,415 1905,427 1891,424 1848,409 1839,409 1784,424 1773,409 1770,409 1770,407 1761,407 1667,421 1607,404 1492,418 1469,401 1460,401 1365,415 1285,398 1279,398 1233,409 1228,412 1228,409 1219,398 1216,398 1216,395 1035,407 932,389 832,404 817,404 794,387 792,387 789,387 786,387 642,398 642,444"/>
         <Baseline points="643,447 1225,468 2319,487"/>
         <TextEquiv>
-          <Unicode>wird ſchutt machen / vnd ſie doch gewynnen. Als</Unicode>
+          <Unicode>wird ſchutt machen/ vnd ſie doch gewynnen. Als</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_fa34f325" >
         <Coords points="648,559 956,559 1428,577 1526,567 1587,579 1927,586 2023,577 2105,586 2205,580 2220,592 2222,592 2224,592 2226,592 2321,580 2323,559 2323,514 2216,500 2212,500 2193,510 2004,496 1931,506 1906,494 1900,494 1876,504 1749,504 1732,493 1640,500 1625,489 1430,496 650,472 650,519"/>
         <Baseline points="650,519 701,529 1520,548 2323,559"/>
         <TextEquiv>
-          <Unicode>denn wird er eynen newen mut nemen / wird foꝛtfa⸗</Unicode>
+          <Unicode>denn wird er eynen newen mut nemen/ wird foꝛtfa⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_1b627e76" >
         <Coords points="652,624 686,636 986,642 988,644 1042,644 1042,642 1046,642 1061,630 1067,628 1348,642 1753,640 1822,655 1868,645 1891,657 2094,661 2096,661 2315,647 2317,632 2317,584 2214,582 2214,580 2197,567 1889,575 1874,565 1558,569 1537,556 1449,567 1317,556 1214,563 1208,561 1197,550 1097,561 1061,558 969,546 967,546 654,548 654,603"/>
         <Baseline points="654,603 2317,632"/>
         <TextEquiv>
-          <Unicode>ren vnd ſich verſundigen / Denn mus ſeyn ſieg ſeynes</Unicode>
+          <Unicode>ren vnd ſich verſundigen/ Denn mus ſeyn ſieg ſeynes</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_88491696" >
         <Coords points="652,701 2314,728 2317,705 2315,640 2138,638 2109,655 2042,655 1910,653 1887,634 1776,649 1623,630 1441,628 1382,644 1160,632 1155,632 1143,640 1113,626 1107,626 1069,640 916,636 896,623 810,632 764,619 763,619 761,619 654,632 654,682"/>
         <Baseline points="654,682 2317,705"/>
         <TextEquiv>
-          <Unicode>gottes ſeyn. Aber du HERR / mein Gott / mein hey</Unicode>
+          <Unicode>gottes ſeyn. Aber du HERR/ mein Gott/ mein hey</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_d2acadec" >
         <Coords points="652,766 789,781 889,772 1084,783 1113,775 1149,787 1294,779 1317,789 1506,793 1587,783 1604,795 1614,795 1627,785 1724,796 1983,791 1998,800 2069,793 2082,802 2199,804 2201,804 2317,793 2319,779 2317,730 2199,716 2195,716 2176,726 2107,716 1965,724 1717,709 1656,714 1627,718 1610,707 1562,712 1539,716 1489,705 1482,705 1472,710 1468,714 1367,703 1306,709 1250,712 1174,701 1111,703 1017,709 977,697 973,697 895,707 854,695 852,695 654,695 654,752"/>
         <Baseline points="654,752 2319,779"/>
         <TextEquiv>
-          <Unicode>liger / der du von ewigkeit her biſt / las vns nicht ſter⸗</Unicode>
+          <Unicode>liger/ der du von ewigkeit her biſt/ las vns nicht ſter⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_e2b7747b" >
         <Coords points="650,840 849,856 1202,854 1237,863 1434,858 1742,873 2096,871 2120,881 2216,873 2227,882 2229,882 2231,882 2233,882 2317,873 2319,856 2319,795 2193,800 2134,789 2118,789 2052,798 1992,787 1981,787 1937,796 1897,783 1778,793 1761,781 1692,791 1631,777 1443,787 1426,774 1401,775 1338,785 1166,783 1135,768 1057,779 652,762 652,823"/>
         <Baseline points="652,823 1485,846 2319,856"/>
         <TextEquiv>
-          <Unicode>ben / ſondern las yns O HERR / nuͤr eyne ſtraffe</Unicode>
+          <Unicode>ben/ ſondern las yns O HERR/ nuͤr eyne ſtraffe</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_6b025717" >
         <Coords points="652,921 2310,947 2314,930 2312,881 2157,863 2153,863 2113,877 2084,861 2002,861 1981,873 1761,873 1698,860 1570,867 1539,852 1533,852 1510,860 1503,861 1373,852 1338,861 1319,848 1246,848 1214,861 1147,846 1072,858 1011,846 982,842 885,856 824,840 818,840 787,854 757,838 755,838 654,838 654,902"/>
         <Baseline points="654,902 2314,930"/>
         <TextEquiv>
-          <Unicode>ſeyn / vnd las yhn / O vnſer hoꝛt / vns nur zuͤchtigen.</Unicode>
+          <Unicode>ſeyn/ vnd las yhn / O vnſer hoꝛt/ vns nur zuͤchtigen.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_d76f6a22" >
         <Coords points="650,991 782,1003 835,995 856,1005 967,997 1005,1009 1107,999 1122,1010 1200,1001 1243,1012 1686,1009 1851,1022 1931,1012 1956,1024 2117,1016 2193,1028 2195,1028 2312,1016 2314,1003 2312,951 2206,940 2180,949 2164,938 2157,938 2130,947 2059,938 1908,946 1822,932 1753,944 1648,934 1625,934 1537,940 1472,926 1419,938 1197,923 1147,923 948,930 931,921 822,926 652,913 652,976"/>
         <Baseline points="652,976 2314,1003"/>
         <TextEquiv>
-          <Unicode>Deyne augen ſind reyn / das du vbels nicht ſehen</Unicode>
+          <Unicode>Deyne augen ſind reyn/ das du vbels nicht ſehen</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_007663c4" >
         <Coords points="646,1064 784,1079 900,1070 1522,1089 1526,1089 1545,1079 1692,1093 1744,1083 1950,1096 1956,1096 1971,1087 2055,1098 2105,1089 2126,1098 2283,1100 2285,1100 2287,1100 2310,1089 2312,1074 2310,1026 2206,1026 2203,1022 2183,1010 2055,1022 1925,1007 1801,1018 1671,1003 1570,1014 1545,1001 1541,1001 1445,1012 1436,1009 1417,999 1342,1007 1292,1010 1264,997 1260,997 1166,1009 1044,997 1028,999 1009,1005 984,993 929,1005 904,991 902,991 900,991 648,991 648,1049"/>
         <Baseline points="648,1049 2312,1074"/>
         <TextEquiv>
-          <Unicode>magſt / vnd dem iamer kanſtu nicht zu ſehen / War⸗</Unicode>
+          <Unicode>magſt/ vnd dem iamer kanſtu nicht zu ſehen/ War⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_70e3412d" >
@@ -89,7 +89,7 @@
         <Coords points="644,1217 885,1234 1055,1226 1095,1226 1122,1228 1199,1238 1200,1240 1826,1240 1837,1249 1946,1240 2300,1255 2304,1223 2304,1175 1742,1169 1726,1161 1713,1158 1598,1165 1572,1156 1510,1163 1355,1152 1126,1158 1114,1150 1114,1148 866,1144 774,1152 646,1140 646,1196"/>
         <Baseline points="646,1196 2304,1223"/>
         <TextEquiv>
-          <Unicode>das der gottloſe verſchlinget den / der fruͤmer denn er</Unicode>
+          <Unicode>das der gottloſe verſchlinget den/ der fruͤmer denn er</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_a673d12b" >
@@ -103,35 +103,35 @@
         <Coords points="644,1356 667,1370 763,1360 782,1372 879,1362 902,1374 1000,1364 1375,1381 1550,1374 1591,1385 1700,1376 1763,1387 1809,1377 1822,1377 1985,1391 2046,1381 2067,1393 2069,1393 2071,1393 2302,1385 2304,1368 2304,1324 2247,1309 2097,1320 2080,1320 2029,1305 1801,1314 1782,1301 1776,1301 1654,1312 1594,1297 1487,1311 1476,1311 1355,1293 1191,1293 1168,1305 1122,1290 1120,1290 1118,1290 646,1295 646,1341"/>
         <Baseline points="646,1341 2304,1368"/>
         <TextEquiv>
-          <Unicode>er / wie gewuͤrm das keynen herrn hat. Er zeuchts</Unicode>
+          <Unicode>er/ wie gewuͤrm das keynen herrn hat. Er zeuchts</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_65576db1" >
         <Coords points="644,1416 644,1437 841,1437 877,1446 921,1439 929,1439 940,1448 948,1448 984,1439 992,1440 1025,1450 1210,1442 1243,1442 1285,1454 1430,1446 1539,1458 1543,1458 1577,1448 1702,1458 1755,1450 1791,1462 2036,1456 2048,1465 2176,1467 2178,1467 2302,1456 2304,1440 2302,1395 2159,1383 1860,1387 1790,1376 1682,1385 1665,1385 1615,1374 1610,1374 1575,1383 1568,1383 1539,1372 1162,1377 1134,1366 1000,1372 900,1362 898,1362 644,1368 644,1416"/>
         <Baseline points="644,1416 2304,1440"/>
         <TextEquiv>
-          <Unicode>alles mit dem hamen / vnd fehets mit ſeym netze / vnd</Unicode>
+          <Unicode>alles mit dem hamen/ vnd fehets mit ſeym netze/ vnd</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_24305ee5" >
         <Coords points="640,1511 1508,1530 1755,1525 1811,1534 1872,1526 1887,1536 1990,1528 2166,1540 2168,1540 2304,1530 2306,1515 2306,1465 2256,1452 2250,1452 2222,1462 2149,1452 1933,1460 1851,1446 1822,1458 1617,1458 1591,1442 1478,1454 1451,1440 1200,1450 1151,1439 1135,1437 1099,1448 1061,1435 919,1446 642,1429 642,1492"/>
         <Baseline points="642,1492 2306,1515"/>
         <TextEquiv>
-          <Unicode>ſamlets mit ſeym garn / Des frewet er ſich vnd iſt froͤ⸗</Unicode>
+          <Unicode>ſamlets mit ſeym garn/ Des frewet er ſich vnd iſt froͤ⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_a13946b6" >
         <Coords points="638,1578 877,1595 881,1595 910,1586 1237,1601 1352,1591 1505,1605 1579,1595 1606,1605 1816,1601 1832,1611 1837,1611 2038,1603 2185,1616 2187,1616 2304,1605 2306,1590 2304,1542 2172,1530 1954,1536 1929,1526 1528,1528 1474,1515 1355,1526 1319,1513 1260,1515 1135,1523 1082,1509 1067,1511 1025,1521 990,1509 921,1517 879,1505 640,1502 640,1563"/>
         <Baseline points="640,1563 2306,1590"/>
         <TextEquiv>
-          <Unicode>lich / Darumb opffert er ſeynem netze / vnd reuchert</Unicode>
+          <Unicode>lich/ Darumb opffert er ſeynem netze/ vnd reuchert</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_54721444" >
         <Coords points="638,1660 847,1658 910,1670 973,1660 1048,1672 1091,1662 1170,1674 1174,1674 1208,1664 1306,1676 1336,1677 1361,1676 1436,1668 1528,1679 1556,1679 1646,1672 1661,1681 1772,1676 1814,1685 1918,1676 1941,1687 2027,1679 2082,1689 2097,1689 2118,1679 2132,1689 2292,1691 2296,1664 2294,1609 1855,1609 1839,1601 1818,1595 1698,1605 1675,1593 1577,1591 1503,1601 1392,1590 1342,1599 1218,1586 1109,1595 1078,1584 1072,1584 1042,1593 751,1591 732,1578 730,1578 728,1578 726,1578 640,1586 640,1643"/>
         <Baseline points="640,1643 967,1641 2296,1664"/>
         <TextEquiv>
-          <Unicode>ſeynem garn / weyl durch die ſelbigen ſeyn teyl ſo fett/</Unicode>
+          <Unicode>ſeynem garn/ weyl durch die ſelbigen ſeyn teyl ſo fett/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_f98d4540" >
@@ -145,7 +145,7 @@
         <Coords points="642,1783 642,1807 724,1804 839,1817 883,1807 931,1819 994,1817 1091,1811 1155,1823 1166,1821 1181,1813 1210,1823 1287,1815 1344,1827 1589,1821 1705,1834 1772,1834 1988,1828 2004,1838 2013,1838 2027,1830 2281,1844 2285,1815 2285,1756 2203,1763 2109,1763 2096,1750 1996,1760 1977,1748 1952,1750 1899,1758 1747,1756 1734,1744 1558,1750 1484,1739 1459,1742 1436,1748 1363,1737 1227,1741 1128,1742 1109,1739 1078,1731 1072,1731 1030,1741 931,1727 852,1737 839,1725 833,1725 755,1735 728,1723 726,1723 724,1723 642,1731 642,1783"/>
         <Baseline points="642,1783 2285,1815"/>
         <TextEquiv>
-          <Unicode>wirfft er ſeyn netze noch ymer aus / vnd wil nicht auff</Unicode>
+          <Unicode>wirfft er ſeyn netze noch ymer aus/ vnd wil nicht auff</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_e729ec7c" >
@@ -166,21 +166,21 @@
         <Coords points="866,2125 864,2125 772,2125 772,2193 770,2209 927,2224 981,2216 1000,2226 1055,2216 1151,2230 1529,2226 1568,2237 1617,2228 1694,2239 1715,2230 1755,2241 1885,2234 2097,2249 2187,2239 2203,2251 2205,2251 2206,2251 2208,2251 2287,2239 2289,2224 2289,2172 2285,2169 2097,2150 2004,2163 1990,2161 1950,2151 1908,2161 1809,2150 1776,2153 1755,2157 1709,2142 1625,2155 1598,2150 1572,2142 1434,2151 1338,2134 1231,2134 1195,2146 1151,2132 1059,2138 958,2128 916,2127 893,2136"/>
         <Baseline points="772,2193 2289,2224"/>
         <TextEquiv>
-          <Unicode>Hie ſtehe ich auff meyner hut / vnd trete auff mey⸗</Unicode>
+          <Unicode>Hie ſtehe ich auff meyner hut/ vnd trete auff mey⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_b7049e3d" >
         <Coords points="629,2291 1386,2297 1529,2310 1570,2302 1581,2304 1602,2312 1700,2304 1711,2306 1734,2314 2053,2312 2090,2322 2092,2322 2094,2322 2285,2314 2287,2297 2285,2245 2113,2247 2046,2230 2040,2230 2013,2239 2000,2245 1851,2230 1703,2239 1686,2236 1642,2222 1637,2222 1602,2237 1554,2226 1510,2232 1482,2218 1409,2218 1386,2232 1216,2232 1197,2228 1080,2211 1021,2222 921,2207 872,2218 728,2203 726,2203 638,2218 633,2236"/>
         <Baseline points="631,2264 2287,2297"/>
         <TextEquiv>
-          <Unicode>ne feſte / vnd ſchawe vnd ſehe zu / was myr geſagt wer</Unicode>
+          <Unicode>ne feſte/ vnd ſchawe vnd ſehe zu/ was myr geſagt wer</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_05b9bb19" >
         <Coords points="631,2337 631,2364 698,2356 720,2367 724,2367 810,2358 912,2371 994,2362 1105,2375 1145,2365 1199,2377 1258,2367 1474,2383 1545,2373 1560,2383 1732,2388 1786,2383 1812,2379 1830,2390 1837,2390 1876,2381 2006,2394 2008,2394 2279,2388 2281,2371 2281,2325 2189,2310 2042,2318 1975,2306 1914,2316 1596,2299 1424,2295 1369,2304 631,2279 631,2337"/>
         <Baseline points="631,2337 2281,2371"/>
         <TextEquiv>
-          <Unicode>de / vnd was ich antwoꝛten ſolle dem der mich ſchilt.</Unicode>
+          <Unicode>de/ vnd was ich antwoꝛten ſolle dem der mich ſchilt.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_4897c548" >
@@ -201,14 +201,14 @@
         <Coords points="627,2572 1302,2597 1656,2595 1744,2606 1746,2608 2271,2608 2273,2587 2271,2532 2097,2537 2004,2524 1992,2524 1920,2534 1742,2518 1730,2518 1669,2528 1633,2516 1621,2516 1566,2526 1308,2509 1267,2509 1128,2516 839,2499 816,2499 682,2507 629,2495 629,2557"/>
         <Baseline points="629,2557 1782,2585 2273,2587"/>
         <TextEquiv>
-          <Unicode>das es leſen kunde wer fur vber leufft / Nemlich alſo/</Unicode>
+          <Unicode>das es leſen kunde wer fur vber leufft/ Nemlich alſo/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_2c38e1fd" >
         <Coords points="625,2650 944,2658 992,2673 1212,2677 1254,2667 1267,2666 1367,2681 1415,2671 1432,2669 1556,2685 2277,2694 2281,2666 2279,2612 1927,2608 1912,2597 1904,2597 1881,2606 1740,2606 1640,2589 1554,2601 1436,2585 1399,2587 1342,2593 1329,2583 1313,2585 1287,2595 1153,2581 1143,2581 1105,2591 1080,2578 1074,2578 1036,2589 1019,2578 906,2574 896,2574 824,2585 627,2568 627,2631"/>
         <Baseline points="627,2631 2281,2666"/>
         <TextEquiv>
-          <Unicode>Das geſicht ſtehet noch bis zu ſeyner zeyt / vnd wird</Unicode>
+          <Unicode>Das geſicht ſtehet noch bis zu ſeyner zeyt/ vnd wird</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_21e5b397" >

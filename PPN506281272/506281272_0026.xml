@@ -12,7 +12,7 @@
         <Coords points="1143,850 2999,867 3005,830 2996,745 2925,762 2734,748 2635,762 2549,742 2507,742 2282,759 2176,742 2159,742 2120,756 2091,736 2083,736 1994,753 1960,739 1949,739 1929,756 1892,742 1881,742 1846,750 1835,742 1826,733 1815,733 1784,750 1767,733 1755,733 1730,742 1701,750 1681,742 1664,733 1445,731 1442,731 1439,731 1437,731 1437,733 1414,750 1206,742 1203,745 1146,756 1146,816"/>
         <Baseline points="1146,816 3005,830"/>
         <TextEquiv>
-          <Unicode>Das volck koͤmbt zu mir / vnd ſucht die vrteil gottes</Unicode>
+          <Unicode>Das volck koͤmbt zu mir/ vnd ſucht die vrteil gottes</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_9f37d63d" >
@@ -36,7 +36,7 @@
         <Coords points="606,1454 2198,1497 2206,1459 2206,1365 610,1322 610,1420"/>
         <Baseline points="612,1425 2211,1461"/>
         <TextEquiv>
-          <Unicode>und die da forchte got / in de / da ſey dy warheit</Unicode>
+          <Unicode>und die da forchte got/ in de/ da ſey dy warheit</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_e04dd8e0" >

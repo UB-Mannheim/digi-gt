@@ -33,42 +33,42 @@
         <Coords points="212,1730 418,1725 456,1710 831,1715 950,1697 1224,1702 1346,1702 1609,1684 1640,1694 1650,1694 1657,1687 1673,1679 1716,1687 1759,1692 1799,1677 1934,1687 1987,1672 2066,1677 2132,1679 2218,1666 2236,1672 2271,1679 2596,1659 2596,1631 2593,1550 2527,1530 2525,1530 2522,1530 2519,1530 2464,1550 2408,1530 2405,1530 2403,1530 2400,1530 2398,1530 2362,1555 2137,1558 2096,1537 1767,1568 1713,1547 1706,1547 1637,1565 1457,1552 1348,1578 1041,1563 846,1568 768,1590 704,1573 522,1575 448,1601 309,1603 266,1590 258,1590 207,1606 212,1689"/>
         <Baseline points="212,1689 2596,1631"/>
         <TextEquiv>
-          <Unicode>Drey Buͤcher. Zuͦ lob vnd preiſz / der Durchleüchtigen / hoch,</Unicode>
+          <Unicode>Drey Buͤcher. Zuͦ lob vnd preiſz/ der Durchleüchtigen/ hoch,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_df0b5d72" >
         <Coords points="215,1821 294,1821 294,1818 299,1818 324,1803 484,1813 524,1813 570,1811 747,1793 935,1803 1044,1786 1244,1796 1282,1791 1356,1778 1467,1786 1533,1788 1564,1773 1865,1780 2137,1773 2177,1755 2588,1753 2588,1725 2580,1654 212,1710 215,1783"/>
         <Baseline points="215,1783 2588,1725"/>
         <TextEquiv>
-          <Unicode>geboꝛnen Fürſtin vnd Frawen / Frawen Jacoba / Pfaltzgraͤffin bey Rhein/</Unicode>
+          <Unicode>geboꝛnen Fürſtin vnd Frawen/ Frawen Jacoba/ Pfaltzgraͤffin bey Rhein/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_44a8cd55" >
         <Coords points="296,1892 2514,1834 2514,1811 2507,1745 294,1798"/>
         <Baseline points="296,1862 2514,1811"/>
         <TextEquiv>
-          <Unicode>Hertzogin in Obern vnd nidern Bayern / Geboꝛnen Margkgraͤffin zuͦ</Unicode>
+          <Unicode>Hertzogin in Obern vnd nidern Bayern/ Geboꝛnen Margkgraͤffin zuͦ</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_2bde17ed" >
         <Coords points="418,1965 2405,1925 2405,1889 2398,1826 2289,1834 2220,1821 2218,1821 2116,1839 2078,1831 2048,1829 2020,1841 1931,1829 1706,1849 1637,1841 1589,1839 1546,1854 1472,1841 1465,1841 1460,1846 1445,1856 1429,1846 1417,1844 1338,1856 1166,1849 1161,1854 1140,1864 1097,1854 1077,1851 981,1869 801,1859 760,1862 600,1879 415,1872"/>
         <Baseline points="418,1943 2405,1889"/>
         <TextEquiv>
-          <Unicode>Baden ꝛc. Auch irer F. G. fürſtlichen Tochter / fraͤwlein Mech⸗</Unicode>
+          <Unicode>Baden ꝛc. Auch irer F. G. fürſtlichen Tochter/ fraͤwlein Mech⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_0fa33b51" >
         <Coords points="496,2054 2332,2001 2332,1973 2327,1920 2106,1912 2040,1925 2002,1910 2000,1910 1997,1910 1903,1927 1873,1912 1868,1912 1685,1935 1675,1935 1599,1920 1566,1938 1546,1938 1419,1925 1336,1943 1315,1945 1234,1935 1153,1948 1133,1935 1125,1935 1031,1953 983,1938 973,1938 948,1955 925,1953 859,1940 793,1955 763,1960 679,1945 494,1960"/>
         <Baseline points="496,2024 2332,1973"/>
         <TextEquiv>
-          <Unicode>thildis / erklaͤrt vnnd verteütſcht. Durch Chriſtophorum</Unicode>
+          <Unicode>thildis/ erklaͤrt vnnd verteütſcht. Durch Chriſtophorum</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_a619e99f" >
         <Coords points="608,2117 2228,2100 2230,2067 2225,2011 1990,1998 1987,1998 1985,1998 1982,1998 1982,2001 1969,2014 1947,2001 1939,2001 1888,2019 1716,2003 1670,2019 1647,2024 1551,2006 1470,2021 1434,2026 1277,2011 1224,2031 1123,2016 1115,2016 1090,2034 1047,2016 1036,2016 1003,2036 605,2034"/>
         <Baseline points="608,2097 2230,2067"/>
         <TextEquiv>
-          <Unicode>Brunonem / baider Rechten Licentiaten / diſer zeyt</Unicode>
+          <Unicode>Brunonem/ baider Rechten Licentiaten/ diſer zeyt</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_24db517a" >

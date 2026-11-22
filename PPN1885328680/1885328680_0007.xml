@@ -29,14 +29,14 @@
         <Coords points="518,498 536,509 660,499 708,499 708,501 720,509 720,511 786,501 814,508 838,503 848,512 888,511 900,502 942,509 993,503 1012,511 1016,511 1034,503 1063,513 1081,507 1089,507 1169,515 1217,504 1252,516 1254,516 1255,516 1256,516 1280,508 1287,516 1289,516 1290,516 1291,516 1398,512 1399,496 1399,453 1340,437 1299,437 1285,445 1245,438 1227,454 1201,447 1197,447 1176,454 1154,444 1150,444 1124,454 1083,439 1079,439 1045,449 1012,434 957,433 926,445 905,433 858,433 823,445 814,437 809,437 792,443 737,432 736,432 735,432 704,445 681,435 677,435 644,449 600,438 595,438 579,450 550,450 545,481 522,483"/>
         <Baseline points="520,488 1399,496"/>
         <TextEquiv>
-          <Unicode>Herꝛ / Herꝛ Carl Ludwig / Pfaltz⸗</Unicode>
+          <Unicode>Herꝛ/ Herꝛ Carl Ludwig/ Pfaltz⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_5c170c0f" custom="structure {type:default;}">
         <Coords points="533,569 603,582 725,572 746,572 759,584 767,584 790,574 810,584 963,574 1023,587 1393,587 1395,565 1393,516 1285,499 1242,514 1189,504 1159,512 1140,499 1133,499 1097,514 1008,514 997,503 989,503 969,512 920,512 901,495 854,503 690,493 535,506 535,557"/>
         <Baseline points="536,558 1397,567"/>
         <TextEquiv>
-          <Unicode>graff bey Rhein / des Heyl: Roͤm:</Unicode>
+          <Unicode>graff bey Rhein/ des Heyl: Roͤm:</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_44164a2d" custom="structure {type:default;}">
@@ -50,14 +50,14 @@
         <Coords points="507,712 607,715 627,704 639,717 739,710 808,721 827,712 837,723 929,717 989,727 1020,717 1054,731 1114,721 1206,734 1301,725 1348,738 1417,727 1419,717 1419,663 1355,648 1244,657 1116,640 1089,651 1027,651 1001,636 950,648 938,648 876,633 509,633 509,689"/>
         <Baseline points="510,690 1420,718"/>
         <TextEquiv>
-          <Unicode>fuͤrſt / Hertzog in Bayern / ꝛc. In</Unicode>
+          <Unicode>fuͤrſt/ Hertzog in Bayern/ ꝛc. In</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_289e1b08" custom="structure {type:default;}">
         <Coords points="399,699 397,699 395,699 352,712 241,700 158,710 158,757 156,774 1391,798 1395,776 1393,729 1212,725 1144,710 1140,710 1101,723 1101,725 1033,725 1033,723 1018,710 1018,708 905,721 872,708 867,708 848,715 771,704 607,715 586,702 514,700 490,714 478,702 478,700"/>
         <Baseline points="160,759 1396,777"/>
         <TextEquiv>
-          <Unicode>erinnerung des guten Vorſatzes / ſo deſſen geliebte</Unicode>
+          <Unicode>erinnerung des guten Vorſatzes/ ſo deſſen geliebte</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_7a760261" custom="structure {type:default;}">
@@ -71,21 +71,21 @@
         <Coords points="156,915 162,921 290,911 301,923 309,923 333,913 346,923 484,925 495,913 518,925 586,915 673,928 922,921 961,934 1029,923 1072,936 1121,925 1172,938 1391,940 1395,919 1395,868 1223,866 1214,855 1206,855 1182,864 1169,849 1161,849 1135,864 1076,864 1050,847 991,861 938,845 852,845 833,859 767,847 727,857 705,842 488,842 475,851 377,838 343,849 294,836 277,849 158,844 158,898"/>
         <Baseline points="159,900 1396,921"/>
         <TextEquiv>
-          <Unicode>dero Veſtung Mannheim / vff dem Eck zweyer</Unicode>
+          <Unicode>dero Veſtung Mannheim/ vff dem Eck zweyer</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_ec8a492e" custom="structure {type:default;}">
         <Coords points="156,977 177,991 230,983 312,992 477,983 509,992 778,985 831,996 914,987 935,1000 1070,989 1089,1004 1157,1004 1174,991 1246,1004 1276,992 1304,1004 1395,992 1397,934 1167,932 1157,921 1087,930 933,913 716,925 659,915 631,923 618,910 610,910 582,921 499,910 443,921 401,908 337,921 314,908 241,915 192,906 158,917 158,968"/>
         <Baseline points="159,970 1398,984"/>
         <TextEquiv>
-          <Unicode>Schiffreichen Stroͤmen / des Rheins vnd des Ne⸗</Unicode>
+          <Unicode>Schiffreichen Stroͤmen/ des Rheins vnd des Ne⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_2ae85017" custom="structure {type:default;}">
         <Coords points="152,1053 1393,1066 1396,1051 1396,1007 1331,996 1277,1004 1173,994 1147,999 1125,991 1122,991 1096,1002 1071,991 1024,991 1002,999 892,988 845,999 770,987 726,987 699,999 662,999 634,986 591,992 559,986 542,996 500,986 469,996 393,988 390,988 379,993 353,984 349,984 317,994 227,994 199,983 198,983 197,983 196,983 177,993 153,993"/>
         <Baseline points="153,1038 1396,1051"/>
         <TextEquiv>
-          <Unicode>ckers gelegen / gehabt; Iſt entſchloſſen ſolchem loͤb⸗</Unicode>
+          <Unicode>ckers gelegen/ gehabt; Iſt entſchloſſen ſolchem loͤb⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_c7283f8b" custom="structure {type:default;}">
@@ -99,7 +99,7 @@
         <Coords points="1238,1219 1389,1219 1391,1192 1389,1143 1312,1143 1278,1128 1238,1141 1152,1132 1114,1139 1082,1124 927,1138 710,1121 680,1130 637,1121 631,1121 624,1128 612,1119 316,1124 301,1115 296,1115 177,1128 156,1113 150,1194 352,1205 390,1196 424,1205 771,1198 859,1211 991,1202 1054,1213 1219,1203"/>
         <Baseline points="153,1178 1393,1194"/>
         <TextEquiv>
-          <Unicode>re Churfuͤrſtl: Durchl: vor gut befunden / ſolches</Unicode>
+          <Unicode>re Churfuͤrſtl: Durchl: vor gut befunden/ ſolches</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_123e9144" custom="structure {type:default;}">
@@ -113,14 +113,14 @@
         <Coords points="150,1330 167,1337 398,1332 444,1339 503,1333 523,1341 583,1335 649,1342 673,1336 829,1344 897,1337 985,1345 1150,1341 1168,1346 1179,1347 1197,1341 1390,1349 1393,1331 1392,1287 1216,1286 1184,1273 1115,1283 1056,1274 1052,1274 1039,1283 978,1276 899,1282 859,1269 774,1274 649,1267 615,1267 594,1278 567,1267 513,1277 506,1277 478,1268 424,1277 384,1269 317,1276 277,1263 276,1263 275,1263 217,1274 152,1273 152,1318"/>
         <Baseline points="152,1318 1393,1331"/>
         <TextEquiv>
-          <Unicode>machen / vnd alle ehrliche Leut von allen Nationen</Unicode>
+          <Unicode>machen/ vnd alle ehrliche Leut von allen Nationen</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_e0097f79" custom="structure {type:default;}">
         <Coords points="152,1409 278,1409 291,1401 305,1410 309,1411 346,1411 403,1403 497,1413 501,1413 517,1404 555,1404 638,1413 670,1405 743,1405 774,1416 840,1408 890,1418 1005,1410 1021,1418 1027,1419 1059,1410 1084,1418 1130,1411 1392,1421 1394,1403 1394,1352 1369,1346 1347,1355 1291,1345 1257,1355 1138,1349 1088,1354 1073,1346 1069,1346 1055,1352 982,1346 916,1351 879,1340 807,1345 775,1339 683,1349 669,1340 615,1346 575,1339 552,1342 547,1344 473,1336 449,1342 360,1333 276,1341 258,1340 202,1332 201,1332 157,1337 153,1349"/>
         <Baseline points="153,1388 1394,1403"/>
         <TextEquiv>
-          <Unicode>hiezu zu beruffen vnd einzuladen / wie dann Ihre</Unicode>
+          <Unicode>hiezu zu beruffen vnd einzuladen/ wie dann Ihre</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_ea9bb7fa" custom="structure {type:default;}">
@@ -134,7 +134,7 @@
         <Coords points="147,1537 233,1548 267,1539 277,1550 365,1541 395,1552 603,1545 712,1556 761,1546 776,1558 844,1550 957,1560 984,1550 1016,1561 1099,1552 1140,1563 1148,1563 1161,1554 1250,1554 1387,1565 1391,1543 1391,1490 1333,1475 1327,1475 1308,1488 1225,1473 1191,1486 1021,1486 944,1469 769,1465 688,1479 669,1467 526,1471 484,1462 428,1475 416,1475 348,1462 331,1473 148,1471"/>
         <Baseline points="149,1526 1392,1545"/>
         <TextEquiv>
-          <Unicode>dero Herꝛn Groß⸗Vattern hochloͤbl. gedachnuͤs / den</Unicode>
+          <Unicode>dero Herꝛn Groß⸗Vattern hochloͤbl. gedachnuͤs/ den</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_deaea9d9" custom="structure {type:default;}">
@@ -148,7 +148,7 @@
         <Coords points="153,1611 152,1664 152,1685 320,1676 385,1688 436,1678 600,1679 632,1689 806,1684 823,1693 919,1697 941,1690 1022,1695 1056,1686 1109,1699 1120,1699 1154,1691 1197,1700 1205,1700 1233,1695 1384,1702 1387,1680 1383,1630 1352,1637 1105,1629 1034,1634 1019,1626 983,1631 860,1620 856,1620 838,1631 737,1625 722,1630 624,1617 619,1617 601,1622 589,1616 433,1615 404,1622 379,1614 368,1614 317,1621 286,1615 262,1624 252,1617 189,1621"/>
         <Baseline points="152,1664 1387,1680"/>
         <TextEquiv>
-          <Unicode>gien / ernewern / confirmiren / vnd mit vielen ne⸗</Unicode>
+          <Unicode>gien/ ernewern/ confirmiren/ vnd mit vielen ne⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_fd2743cd" custom="structure {type:default;}">
@@ -176,7 +176,7 @@
         <Coords points="139,1970 194,1965 220,1978 228,1978 248,1965 301,1974 324,1974 375,1965 458,1982 533,1967 550,1978 639,1982 661,1967 756,1967 816,1984 961,1974 1129,1985 1185,1970 1316,1970 1370,1985 1376,1950 1376,1908 1331,1897 1076,1904 1065,1893 1055,1893 1040,1904 937,1904 918,1891 871,1901 822,1889 767,1903 673,1887 501,1901 435,1886 213,1895 173,1886 139,1899 139,1942"/>
         <Baseline points="141,1943 1377,1951"/>
         <TextEquiv>
-          <Unicode>zugelaſſen ſeyn / auß allen Freyheiten / immunite-</Unicode>
+          <Unicode>zugelaſſen ſeyn/ auß allen Freyheiten/ immunite-</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_66825698" custom="structure {type:default;}">
